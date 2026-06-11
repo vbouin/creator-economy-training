@@ -681,3 +681,20 @@ html.locked body::after{content:"";position:fixed;inset:0;background:var(--night
 @keyframes gate-shake{20%{transform:translateX(-7px)}40%{transform:translateX(6px)}60%{transform:translateX(-4px)}80%{transform:translateX(3px)}}
 @media (prefers-reduced-motion: reduce){.gate-card.shake{animation:none}}
 @media print{.gate,html.locked body::after{display:none!important}}
+
+/* ===== page ateliers (parcours formation) ===== */
+.chip-time{display:inline-block;font-family:var(--mono);font-size:.64rem;letter-spacing:.12em;text-transform:uppercase;color:var(--red-ink);border:1px solid currentColor;border-radius:30px;padding:4px 10px;vertical-align:middle}
+.step-card{background:var(--white);border:1px solid var(--line);border-radius:var(--r);padding:26px}
+.night .step-card{background:var(--night-2);border-color:#34343c}
+.step-head{display:flex;align-items:center;gap:12px;margin-bottom:12px;flex-wrap:wrap}
+.step-head h3{font-size:1.25rem}
+.step-links{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}
+.step-card a:not(.btn-link){color:var(--red-ink);text-underline-offset:3px}
+.pitch-grid{width:100%;border-collapse:collapse;font-size:.95rem}
+.pitch-grid th{font-family:var(--mono);font-size:.66rem;letter-spacing:.14em;text-transform:uppercase;text-align:left;color:var(--muted);padding:10px 14px;border-bottom:2px solid var(--line-strong)}
+.pitch-grid td{padding:14px;border-bottom:1px solid var(--line);vertical-align:top}
+.pitch-grid td:nth-child(2){width:90px}
+.pitch-grid td:nth-child(3){width:34%}
+.pitch-grid tbody tr td:nth-child(2),.pitch-grid tbody tr td:nth-child(3){border-bottom:1px dashed var(--line-strong)}
+kbd{font-family:var(--mono);font-size:.85em;border:1px solid var(--line-strong);border-bottom-width:2px;border-radius:6px;padding:1px 7px;background:var(--white)}
+.night kbd{background:var(--night-3);border-color:#3a3a42}

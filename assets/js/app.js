@@ -585,7 +585,8 @@
     function paint() {
       if (!document.body.classList.contains("mode-conf")) return;
       const a = actOf(idx);
-      cpAct.textContent = a ? ((I.lang === "fr" ? "Acte " : "Act ") + a + " · ") : "";
+      const word = document.body.dataset[I.lang === "fr" ? "actwordFr" : "actwordEn"] || (I.lang === "fr" ? "Acte" : "Act");
+      cpAct.textContent = a ? (word + " " + a + " · ") : "";
       cpN.textContent = (idx + 1) + " / " + stops.length;
     }
     function goTo(i) {
