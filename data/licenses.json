@@ -1,0 +1,2148 @@
+[
+  {
+    "id": "mickey-mouse",
+    "name": "Mickey Mouse & Friends",
+    "type": "character",
+    "origin_country": "United States",
+    "owner": "The Walt Disney Company",
+    "franchise": "Disney",
+    "popularity_tier": "S",
+    "est_value_note": "~$74B lifetime franchise; Disney's flagship character",
+    "collab_examples": [
+      "Gucci x Disney Mickey",
+      "Coach x Disney Mickey Mouse",
+      "Vans x Disney"
+    ],
+    "note_fr": "Icone fondatrice de Disney, licence universelle tous secteurs.",
+    "note_en": "Disney's founding icon; universal licensing across every sector."
+  },
+  {
+    "id": "disney-princesses",
+    "name": "Disney Princess",
+    "type": "character",
+    "origin_country": "United States",
+    "owner": "The Walt Disney Company",
+    "franchise": "Disney",
+    "popularity_tier": "S",
+    "est_value_note": "One of the largest girls' merchandise lines globally",
+    "collab_examples": [
+      "Stuart Weitzman x Disney Cinderella",
+      "ColourPop x Disney Princess"
+    ],
+    "note_fr": "Ligne fille mondiale majeure : mode, jouets, beauté.",
+    "note_en": "Massive global girls' line spanning fashion, toys, beauty."
+  },
+  {
+    "id": "frozen",
+    "name": "Frozen",
+    "type": "film",
+    "origin_country": "United States",
+    "owner": "The Walt Disney Company",
+    "franchise": "Disney",
+    "popularity_tier": "S",
+    "est_value_note": "Highest-grossing animated franchise of the 2010s",
+    "collab_examples": [
+      "Build-A-Bear x Frozen",
+      "LEGO Disney Frozen"
+    ],
+    "note_fr": "Phénomène licence enfant : jouets, déguisements, beauté.",
+    "note_en": "Kids licensing juggernaut: toys, costumes, beauty."
+  },
+  {
+    "id": "marvel",
+    "name": "Marvel (Avengers / Spider-Man)",
+    "type": "film",
+    "origin_country": "United States",
+    "owner": "Marvel Entertainment (Disney)",
+    "franchise": "Marvel Cinematic Universe",
+    "popularity_tier": "S",
+    "est_value_note": "Highest-grossing film franchise (MCU)",
+    "collab_examples": [
+      "Adidas x Marvel",
+      "Hot Toys Marvel",
+      "Audi x Avengers"
+    ],
+    "note_fr": "Super-heros : cinéma, jouets, mode, collectibles premium.",
+    "note_en": "Superhero powerhouse: film, toys, fashion, premium collectibles."
+  },
+  {
+    "id": "star-wars",
+    "name": "Star Wars",
+    "type": "film",
+    "origin_country": "United States",
+    "owner": "Lucasfilm (Disney)",
+    "franchise": "Star Wars",
+    "popularity_tier": "S",
+    "est_value_note": "~$74B; merchandising pioneer of modern licensing",
+    "collab_examples": [
+      "adidas x Star Wars",
+      "LEGO Star Wars",
+      "Columbia x Star Wars"
+    ],
+    "note_fr": "Pionnier du merchandising moderne ; gamme licence infinie.",
+    "note_en": "Pioneered modern merchandising; near-infinite licensing range."
+  },
+  {
+    "id": "pixar",
+    "name": "Pixar (Toy Story / Cars)",
+    "type": "film",
+    "origin_country": "United States",
+    "owner": "Pixar (Disney)",
+    "franchise": "Disney/Pixar",
+    "popularity_tier": "S",
+    "est_value_note": "Toy Story & Cars are multibillion merchandise lines",
+    "collab_examples": [
+      "LEGO Cars",
+      "Mattel Cars die-cast",
+      "Uniqlo UT Pixar"
+    ],
+    "note_fr": "Toy Story et Cars : licences jouets enfantines massives.",
+    "note_en": "Toy Story and Cars are massive kids' toy licenses."
+  },
+  {
+    "id": "winnie-the-pooh",
+    "name": "Winnie the Pooh",
+    "type": "character",
+    "origin_country": "United Kingdom",
+    "owner": "The Walt Disney Company",
+    "franchise": "Disney",
+    "popularity_tier": "S",
+    "est_value_note": "~$77B lifetime; among top media franchises",
+    "collab_examples": [
+      "Uniqlo UT Winnie the Pooh",
+      "Cath Kidston x Winnie the Pooh"
+    ],
+    "note_fr": "Personnage britannique, énorme licence Disney mondiale.",
+    "note_en": "British character; huge global Disney licensing engine."
+  },
+  {
+    "id": "dc-comics",
+    "name": "DC (Batman / Superman)",
+    "type": "comic",
+    "origin_country": "United States",
+    "owner": "DC / Warner Bros. Discovery",
+    "franchise": "DC Universe",
+    "popularity_tier": "S",
+    "est_value_note": "Batman alone is a multibillion-dollar character",
+    "collab_examples": [
+      "Puma x Batman",
+      "LEGO Batman",
+      "Casetify x DC"
+    ],
+    "note_fr": "Batman/Superman : icones super-heros, licence mode & jouets.",
+    "note_en": "Batman/Superman icons; strong fashion and toy licensing."
+  },
+  {
+    "id": "harry-potter",
+    "name": "Harry Potter / Wizarding World",
+    "type": "film",
+    "origin_country": "United Kingdom",
+    "owner": "Warner Bros. Discovery (J.K. Rowling)",
+    "franchise": "Wizarding World",
+    "popularity_tier": "S",
+    "est_value_note": "~$40B+ franchise spanning books, film, parks",
+    "collab_examples": [
+      "LEGO Harry Potter",
+      "Vans x Harry Potter",
+      "Pandora x Harry Potter"
+    ],
+    "note_fr": "Univers britannique : livres, films, parcs, mode, jouets.",
+    "note_en": "British universe: books, film, parks, fashion, toys."
+  },
+  {
+    "id": "looney-tunes",
+    "name": "Looney Tunes",
+    "type": "character",
+    "origin_country": "United States",
+    "owner": "Warner Bros. Discovery",
+    "franchise": "Looney Tunes",
+    "popularity_tier": "A",
+    "est_value_note": "Evergreen character licensing, strong in fashion",
+    "collab_examples": [
+      "Uniqlo UT Looney Tunes",
+      "Vans x Looney Tunes"
+    ],
+    "note_fr": "Personnages cultes WB, forte présence mode/streetwear.",
+    "note_en": "Classic WB characters with strong fashion/streetwear use."
+  },
+  {
+    "id": "lord-of-the-rings",
+    "name": "The Lord of the Rings",
+    "type": "film",
+    "origin_country": "New Zealand",
+    "owner": "Middle-earth Enterprises / Warner Bros.",
+    "franchise": "Middle-earth",
+    "popularity_tier": "A",
+    "est_value_note": "Major film/book franchise; high-value collectibles",
+    "collab_examples": [
+      "LEGO The Lord of the Rings",
+      "Weta Workshop collectibles"
+    ],
+    "note_fr": "Saga fantasy ; collectibles premium et éditions limitées.",
+    "note_en": "Fantasy saga; premium collectibles and limited editions."
+  },
+  {
+    "id": "jurassic-park",
+    "name": "Jurassic Park / World",
+    "type": "film",
+    "origin_country": "United States",
+    "owner": "Universal Pictures / Amblin",
+    "franchise": "Jurassic",
+    "popularity_tier": "A",
+    "est_value_note": "Multibillion film franchise; strong toy lines",
+    "collab_examples": [
+      "LEGO Jurassic World",
+      "Mattel Jurassic World toys"
+    ],
+    "note_fr": "Franchise dinosaures ; jouets et licences alimentaires.",
+    "note_en": "Dinosaur franchise; strong toy and F&B licensing."
+  },
+  {
+    "id": "minions-despicable-me",
+    "name": "Minions / Despicable Me",
+    "type": "film",
+    "origin_country": "United States",
+    "owner": "Illumination (Universal)",
+    "franchise": "Despicable Me",
+    "popularity_tier": "S",
+    "est_value_note": "Highest-grossing animated franchise globally",
+    "collab_examples": [
+      "McDonald's Happy Meal Minions",
+      "Uniqlo UT Minions"
+    ],
+    "note_fr": "Minions : licence enfant ultra-virale, fast-food et mode.",
+    "note_en": "Minions: ultra-viral kids license, fast-food and fashion."
+  },
+  {
+    "id": "transformers",
+    "name": "Transformers",
+    "type": "toy",
+    "origin_country": "United States",
+    "owner": "Hasbro / Takara Tomy",
+    "franchise": "Transformers",
+    "popularity_tier": "A",
+    "est_value_note": "~$30B+ franchise; toy + film hybrid",
+    "collab_examples": [
+      "Nike x Transformers",
+      "BAPE x Transformers"
+    ],
+    "note_fr": "Jouet US-japonais ; films + collabs streetwear.",
+    "note_en": "US-Japanese toy IP; films plus streetwear collabs."
+  },
+  {
+    "id": "barbie",
+    "name": "Barbie",
+    "type": "toy",
+    "origin_country": "United States",
+    "owner": "Mattel",
+    "franchise": "Barbie",
+    "popularity_tier": "S",
+    "est_value_note": "Best-selling doll ever; 2023 film boosted brand",
+    "collab_examples": [
+      "Zara x Barbie",
+      "Balmain x Barbie",
+      "Crocs x Barbie",
+      "Gap x Barbie"
+    ],
+    "note_fr": "Poupee iconique ; vague collabs mode post-film 2023.",
+    "note_en": "Iconic doll; major fashion collab wave after 2023 film."
+  },
+  {
+    "id": "hot-wheels",
+    "name": "Hot Wheels",
+    "type": "toy",
+    "origin_country": "United States",
+    "owner": "Mattel",
+    "franchise": "Hot Wheels",
+    "popularity_tier": "A",
+    "est_value_note": "Best-selling toy by units; deep auto licensing",
+    "collab_examples": [
+      "Hot Wheels x Ferrari",
+      "Hot Wheels x Lamborghini"
+    ],
+    "note_fr": "Petites voitures n1 ; licences constructeurs auto.",
+    "note_en": "No.1 toy car brand; deep automaker licensing."
+  },
+  {
+    "id": "lego",
+    "name": "LEGO",
+    "type": "toy",
+    "origin_country": "Denmark",
+    "owner": "The LEGO Group",
+    "franchise": "LEGO",
+    "popularity_tier": "S",
+    "est_value_note": "World's largest toy company; ultimate co-licensor",
+    "collab_examples": [
+      "LEGO x Formula 1",
+      "LEGO x Adidas",
+      "LEGO x Ferrari",
+      "LEGO x Nike"
+    ],
+    "note_fr": "Plus grand jouettier ; partenaire de licence universel.",
+    "note_en": "World's biggest toymaker; the universal licensing partner."
+  },
+  {
+    "id": "play-doh",
+    "name": "Play-Doh",
+    "type": "toy",
+    "origin_country": "United States",
+    "owner": "Hasbro",
+    "franchise": "Hasbro",
+    "popularity_tier": "B",
+    "est_value_note": "Evergreen kids' brand; strong nostalgia equity",
+    "collab_examples": [],
+    "note_fr": "Marque enfant nostalgique ; capital sympathie fort.",
+    "note_en": "Nostalgic kids' brand with strong affinity equity."
+  },
+  {
+    "id": "monopoly",
+    "name": "Monopoly",
+    "type": "toy",
+    "origin_country": "United States",
+    "owner": "Hasbro",
+    "franchise": "Hasbro",
+    "popularity_tier": "A",
+    "est_value_note": "Best-selling board game; thousands of licensed editions",
+    "collab_examples": [
+      "Monopoly x McDonald's promotion"
+    ],
+    "note_fr": "Jeu de société n1 ; milliers d'éditions sous licence.",
+    "note_en": "No.1 board game; thousands of co-branded editions."
+  },
+  {
+    "id": "my-little-pony",
+    "name": "My Little Pony",
+    "type": "toy",
+    "origin_country": "United States",
+    "owner": "Hasbro",
+    "franchise": "Hasbro",
+    "popularity_tier": "B",
+    "est_value_note": "Long-running girls' toy + animation franchise",
+    "collab_examples": [],
+    "note_fr": "Franchise fille durable : jouets et animation.",
+    "note_en": "Long-running girls' toy and animation franchise."
+  },
+  {
+    "id": "peanuts-snoopy",
+    "name": "Peanuts (Snoopy)",
+    "type": "comic",
+    "origin_country": "United States",
+    "owner": "Peanuts Worldwide (WildBrain / Sony)",
+    "franchise": "Peanuts",
+    "popularity_tier": "S",
+    "est_value_note": "One of the most-licensed characters worldwide",
+    "collab_examples": [
+      "Uniqlo UT Peanuts",
+      "Vans x Peanuts",
+      "Levi's x Peanuts"
+    ],
+    "note_fr": "Snoopy : personnage ultra-licencie, fort au Japon.",
+    "note_en": "Snoopy: one of the most-licensed characters, huge in Japan."
+  },
+  {
+    "id": "garfield",
+    "name": "Garfield",
+    "type": "comic",
+    "origin_country": "United States",
+    "owner": "Paws Inc. (Viacom/Paramount)",
+    "franchise": "Garfield",
+    "popularity_tier": "B",
+    "est_value_note": "Classic comic character; broad merch history",
+    "collab_examples": [
+      "Uniqlo UT Garfield"
+    ],
+    "note_fr": "Chat de BD culte ; large historique merchandising.",
+    "note_en": "Classic comic cat with broad merchandising history."
+  },
+  {
+    "id": "spongebob",
+    "name": "SpongeBob SquarePants",
+    "type": "tv",
+    "origin_country": "United States",
+    "owner": "Nickelodeon (Paramount)",
+    "franchise": "Nickelodeon",
+    "popularity_tier": "A",
+    "est_value_note": "Top-earning animated TV franchise",
+    "collab_examples": [
+      "Vans x SpongeBob",
+      "Nike x SpongeBob (Kyrie)"
+    ],
+    "note_fr": "Dessin anime culte ; collabs streetwear et sneakers.",
+    "note_en": "Cult cartoon; streetwear and sneaker collaborations."
+  },
+  {
+    "id": "tmnt",
+    "name": "Teenage Mutant Ninja Turtles",
+    "type": "comic",
+    "origin_country": "United States",
+    "owner": "Nickelodeon (Paramount)",
+    "franchise": "TMNT",
+    "popularity_tier": "A",
+    "est_value_note": "Long-running multibillion toy/comic franchise",
+    "collab_examples": [
+      "adidas x TMNT"
+    ],
+    "note_fr": "Tortues Ninja : jouets, films, collabs sneakers.",
+    "note_en": "TMNT: toys, films, sneaker collaborations."
+  },
+  {
+    "id": "bratz",
+    "name": "Bratz",
+    "type": "toy",
+    "origin_country": "United States",
+    "owner": "MGA Entertainment",
+    "franchise": "Bratz",
+    "popularity_tier": "B",
+    "est_value_note": "Fashion-doll brand with Gen-Z nostalgia revival",
+    "collab_examples": [
+      "Bratz x Kylie Jenner",
+      "Bratz x Cult Gaia"
+    ],
+    "note_fr": "Poupees mode ; revival nostalgie Gen-Z et collabs beauté.",
+    "note_en": "Fashion dolls; Gen-Z nostalgia revival, beauty collabs."
+  },
+  {
+    "id": "pokemon",
+    "name": "Pokemon",
+    "type": "game",
+    "origin_country": "Japan",
+    "owner": "The Pokemon Company (Nintendo/GF/Creatures)",
+    "franchise": "Pokemon",
+    "popularity_tier": "S",
+    "est_value_note": "Highest-grossing media franchise ever (~$100B+)",
+    "collab_examples": [
+      "Pokemon x Van Gogh Museum",
+      "Pokemon x McDonald's",
+      "Levi's x Pokemon",
+      "Uniqlo UT Pokemon"
+    ],
+    "note_fr": "Franchise n1 mondiale ; cartes, jeux, collabs museales.",
+    "note_en": "World's top franchise; cards, games, even museum collabs."
+  },
+  {
+    "id": "super-mario",
+    "name": "Super Mario",
+    "type": "game",
+    "origin_country": "Japan",
+    "owner": "Nintendo",
+    "franchise": "Nintendo",
+    "popularity_tier": "S",
+    "est_value_note": "Top game franchise; 2023 film grossed $1.3B+",
+    "collab_examples": [
+      "LEGO Super Mario",
+      "Levi's x Super Mario",
+      "Puma x Super Mario"
+    ],
+    "note_fr": "Plombier iconique ; jeux, film, LEGO, mode.",
+    "note_en": "Iconic plumber; games, film, LEGO, fashion."
+  },
+  {
+    "id": "zelda",
+    "name": "The Legend of Zelda",
+    "type": "game",
+    "origin_country": "Japan",
+    "owner": "Nintendo",
+    "franchise": "Nintendo",
+    "popularity_tier": "A",
+    "est_value_note": "Prestige Nintendo IP; film in development",
+    "collab_examples": [
+      "LEGO The Legend of Zelda",
+      "Black Milk x Zelda"
+    ],
+    "note_fr": "IP Nintendo prestige ; collectibles et LEGO premium.",
+    "note_en": "Prestige Nintendo IP; premium collectibles and LEGO."
+  },
+  {
+    "id": "animal-crossing",
+    "name": "Animal Crossing",
+    "type": "game",
+    "origin_country": "Japan",
+    "owner": "Nintendo",
+    "franchise": "Nintendo",
+    "popularity_tier": "A",
+    "est_value_note": "Massive lifestyle/cozy-game brand",
+    "collab_examples": [
+      "LEGO Animal Crossing",
+      "Build-A-Bear x Animal Crossing"
+    ],
+    "note_fr": "Jeu cosy à fort lifestyle ; collabs jouets/peluches.",
+    "note_en": "Cozy lifestyle game; toy and plush collaborations."
+  },
+  {
+    "id": "kirby",
+    "name": "Kirby",
+    "type": "game",
+    "origin_country": "Japan",
+    "owner": "Nintendo / HAL Laboratory",
+    "franchise": "Nintendo",
+    "popularity_tier": "B",
+    "est_value_note": "Cute-character IP; strong cafe/merch in Japan",
+    "collab_examples": [
+      "Kirby Cafe (Japan)"
+    ],
+    "note_fr": "Personnage kawaii ; cafés et merch forts au Japon.",
+    "note_en": "Kawaii character; strong cafe and merch in Japan."
+  },
+  {
+    "id": "splatoon",
+    "name": "Splatoon",
+    "type": "game",
+    "origin_country": "Japan",
+    "owner": "Nintendo",
+    "franchise": "Nintendo",
+    "popularity_tier": "B",
+    "est_value_note": "Youth-skewing colorful shooter franchise",
+    "collab_examples": [],
+    "note_fr": "Shooter colore ; public jeune, esthétique mode-friendly.",
+    "note_en": "Colorful shooter; youth audience, fashion-friendly look."
+  },
+  {
+    "id": "sonic",
+    "name": "Sonic the Hedgehog",
+    "type": "game",
+    "origin_country": "Japan",
+    "owner": "Sega",
+    "franchise": "Sonic",
+    "popularity_tier": "A",
+    "est_value_note": "Sega flagship; billion-dollar film series",
+    "collab_examples": [
+      "Puma x Sonic",
+      "Vans x Sonic",
+      "LEGO Sonic"
+    ],
+    "note_fr": "Mascotte Sega ; films a succès, collabs sneakers.",
+    "note_en": "Sega mascot; hit films, sneaker collaborations."
+  },
+  {
+    "id": "pac-man",
+    "name": "Pac-Man",
+    "type": "game",
+    "origin_country": "Japan",
+    "owner": "Bandai Namco",
+    "franchise": "Pac-Man",
+    "popularity_tier": "B",
+    "est_value_note": "Iconic retro brand; strong fashion nostalgia value",
+    "collab_examples": [
+      "Uniqlo UT Pac-Man",
+      "Tommy Hilfiger x Pac-Man"
+    ],
+    "note_fr": "Icone retro ; valeur nostalgie forte en mode.",
+    "note_en": "Retro icon; strong nostalgia value in fashion."
+  },
+  {
+    "id": "street-fighter",
+    "name": "Street Fighter",
+    "type": "game",
+    "origin_country": "Japan",
+    "owner": "Capcom",
+    "franchise": "Street Fighter",
+    "popularity_tier": "B",
+    "est_value_note": "Premier fighting-game IP; streetwear affinity",
+    "collab_examples": [
+      "A Bathing Ape x Street Fighter",
+      "Uniqlo UT Capcom"
+    ],
+    "note_fr": "Référence du jeu de combat ; affinité streetwear.",
+    "note_en": "Premier fighting-game IP; streetwear affinity."
+  },
+  {
+    "id": "final-fantasy",
+    "name": "Final Fantasy",
+    "type": "game",
+    "origin_country": "Japan",
+    "owner": "Square Enix",
+    "franchise": "Final Fantasy",
+    "popularity_tier": "A",
+    "est_value_note": "Landmark JRPG franchise; premium collectibles",
+    "collab_examples": [
+      "Louis Vuitton x Final Fantasy XIII (Lightning)"
+    ],
+    "note_fr": "JRPG légendaire ; même une campagne Louis Vuitton.",
+    "note_en": "Landmark JRPG; even fronted a Louis Vuitton campaign."
+  },
+  {
+    "id": "minecraft",
+    "name": "Minecraft",
+    "type": "game",
+    "origin_country": "Sweden",
+    "owner": "Mojang (Microsoft)",
+    "franchise": "Minecraft",
+    "popularity_tier": "S",
+    "est_value_note": "Best-selling video game ever; 2025 film hit",
+    "collab_examples": [
+      "LEGO Minecraft",
+      "adidas x Minecraft",
+      "Crocs x Minecraft"
+    ],
+    "note_fr": "Jeu le plus vendu ; collabs jouets, mode, film 2025.",
+    "note_en": "Best-selling game ever; toy, fashion collabs, 2025 film."
+  },
+  {
+    "id": "roblox",
+    "name": "Roblox",
+    "type": "game",
+    "origin_country": "United States",
+    "owner": "Roblox Corporation",
+    "franchise": "Roblox",
+    "popularity_tier": "S",
+    "est_value_note": "Top youth UGC platform; major brand-world host",
+    "collab_examples": [
+      "Nike Nikeland on Roblox",
+      "Gucci Garden on Roblox",
+      "Walmart Land"
+    ],
+    "note_fr": "Plateforme UGC jeune ; mondes de marque immersifs.",
+    "note_en": "Top youth UGC platform; immersive branded worlds."
+  },
+  {
+    "id": "fortnite",
+    "name": "Fortnite",
+    "type": "game",
+    "origin_country": "United States",
+    "owner": "Epic Games",
+    "franchise": "Fortnite",
+    "popularity_tier": "S",
+    "est_value_note": "Premier in-game collab platform; massive crossovers",
+    "collab_examples": [
+      "Nike x Fortnite (Kicks)",
+      "NBA x Fortnite",
+      "Balenciaga x Fortnite",
+      "Ferrari x Fortnite"
+    ],
+    "note_fr": "Plateforme reine des crossovers in-game.",
+    "note_en": "The premier in-game crossover and collab platform."
+  },
+  {
+    "id": "call-of-duty",
+    "name": "Call of Duty",
+    "type": "game",
+    "origin_country": "United States",
+    "owner": "Activision (Microsoft)",
+    "franchise": "Call of Duty",
+    "popularity_tier": "A",
+    "est_value_note": "Top-grossing shooter; large crossover business",
+    "collab_examples": [
+      "Monster Energy x Call of Duty",
+      "Burger King x Call of Duty"
+    ],
+    "note_fr": "FPS le plus rentable ; crossovers et F&B.",
+    "note_en": "Top-grossing shooter; crossovers and F&B tie-ins."
+  },
+  {
+    "id": "gta",
+    "name": "Grand Theft Auto",
+    "type": "game",
+    "origin_country": "United States",
+    "owner": "Rockstar Games (Take-Two)",
+    "franchise": "GTA",
+    "popularity_tier": "A",
+    "est_value_note": "Highest-revenue entertainment product (GTA V)",
+    "collab_examples": [],
+    "note_fr": "Produit de divertissement le plus rentable (GTA V).",
+    "note_en": "Highest-revenue entertainment product ever (GTA V)."
+  },
+  {
+    "id": "league-of-legends",
+    "name": "League of Legends",
+    "type": "game",
+    "origin_country": "United States",
+    "owner": "Riot Games (Tencent)",
+    "franchise": "Riot / Runeterra",
+    "popularity_tier": "A",
+    "est_value_note": "Top esport; Arcane fueled mainstream crossover",
+    "collab_examples": [
+      "Louis Vuitton x League of Legends",
+      "Mastercard x League of Legends",
+      "Nike x LPL"
+    ],
+    "note_fr": "Esport majeur ; collab Louis Vuitton, serie Arcane.",
+    "note_en": "Top esport; Louis Vuitton collab, Arcane crossover."
+  },
+  {
+    "id": "the-sims",
+    "name": "The Sims",
+    "type": "game",
+    "origin_country": "United States",
+    "owner": "Electronic Arts (Maxis)",
+    "franchise": "The Sims",
+    "popularity_tier": "B",
+    "est_value_note": "Best-selling life-sim PC franchise",
+    "collab_examples": [
+      "MAC Cosmetics x The Sims",
+      "Moschino x The Sims"
+    ],
+    "note_fr": "Simulation de vie ; collabs mode et beauté.",
+    "note_en": "Life-sim franchise; fashion and beauty collaborations."
+  },
+  {
+    "id": "among-us",
+    "name": "Among Us",
+    "type": "game",
+    "origin_country": "United States",
+    "owner": "Innersloth",
+    "franchise": "Among Us",
+    "popularity_tier": "B",
+    "est_value_note": "Viral indie hit with strong merch demand",
+    "collab_examples": [
+      "Among Us x Fortnite",
+      "Among Us x Roblox"
+    ],
+    "note_fr": "Hit inde viral ; forte demande merch et crossovers.",
+    "note_en": "Viral indie hit; strong merch demand and crossovers."
+  },
+  {
+    "id": "angry-birds",
+    "name": "Angry Birds",
+    "type": "game",
+    "origin_country": "Finland",
+    "owner": "Rovio (Sega)",
+    "franchise": "Angry Birds",
+    "popularity_tier": "B",
+    "est_value_note": "Mobile-game franchise with broad licensing",
+    "collab_examples": [
+      "McDonald's x Angry Birds"
+    ],
+    "note_fr": "Franchise mobile ; large licence jouets et F&B.",
+    "note_en": "Mobile-game franchise with broad toy and F&B licensing."
+  },
+  {
+    "id": "playstation",
+    "name": "PlayStation",
+    "type": "game",
+    "origin_country": "Japan",
+    "owner": "Sony Interactive Entertainment",
+    "franchise": "PlayStation",
+    "popularity_tier": "S",
+    "est_value_note": "Leading console brand; God of War, Last of Us IP",
+    "collab_examples": [
+      "Nike PG PlayStation",
+      "Travis Scott x PlayStation"
+    ],
+    "note_fr": "Marque console leader ; IP exclusives + collabs sneakers.",
+    "note_en": "Leading console brand; exclusive IP plus sneaker collabs."
+  },
+  {
+    "id": "xbox",
+    "name": "Xbox",
+    "type": "game",
+    "origin_country": "United States",
+    "owner": "Microsoft",
+    "franchise": "Xbox",
+    "popularity_tier": "A",
+    "est_value_note": "Major console/platform brand; Halo, Forza IP",
+    "collab_examples": [
+      "adidas x Xbox",
+      "Gucci x Xbox Series X"
+    ],
+    "note_fr": "Marque console majeure ; collabs adidas et Gucci.",
+    "note_en": "Major console brand; adidas and Gucci collaborations."
+  },
+  {
+    "id": "genshin-impact",
+    "name": "Genshin Impact",
+    "type": "game",
+    "origin_country": "China",
+    "owner": "HoYoverse (miHoYo)",
+    "franchise": "HoYoverse",
+    "popularity_tier": "A",
+    "est_value_note": "Top-grossing gacha game; global youth reach",
+    "collab_examples": [
+      "Genshin Impact x KFC",
+      "Genshin Impact x HyperX"
+    ],
+    "note_fr": "Gacha n1 mondial ; collabs KFC et tech.",
+    "note_en": "Top-grossing gacha game; KFC and tech collaborations."
+  },
+  {
+    "id": "honkai-star-rail",
+    "name": "Honkai: Star Rail",
+    "type": "game",
+    "origin_country": "China",
+    "owner": "HoYoverse (miHoYo)",
+    "franchise": "HoYoverse",
+    "popularity_tier": "B",
+    "est_value_note": "Major gacha RPG with strong global revenue",
+    "collab_examples": [],
+    "note_fr": "RPG gacha à fort revenu mondial.",
+    "note_en": "Major gacha RPG with strong global revenue."
+  },
+  {
+    "id": "black-myth-wukong",
+    "name": "Black Myth: Wukong",
+    "type": "game",
+    "origin_country": "China",
+    "owner": "Game Science",
+    "franchise": "Black Myth",
+    "popularity_tier": "A",
+    "est_value_note": "China's first AAA hit; 25M+ copies, merch boom",
+    "collab_examples": [
+      "Black Myth: Wukong x Luckin Coffee"
+    ],
+    "note_fr": "Premier AAA chinois ; 25M+ ventes, boom merch.",
+    "note_en": "China's first AAA hit; 25M+ copies, merch boom."
+  },
+  {
+    "id": "naruto",
+    "name": "Naruto / Boruto",
+    "type": "anime",
+    "origin_country": "Japan",
+    "owner": "Shueisha / TV Tokyo / Pierrot",
+    "franchise": "Naruto",
+    "popularity_tier": "S",
+    "est_value_note": "Top global shonen franchise; huge merch",
+    "collab_examples": [
+      "Hidden.NY x Naruto",
+      "Montblanc x Naruto",
+      "Uniqlo UT Naruto"
+    ],
+    "note_fr": "Shonen mondial ; collabs streetwear et même Montblanc.",
+    "note_en": "Top global shonen; streetwear and even Montblanc collabs."
+  },
+  {
+    "id": "one-piece",
+    "name": "One Piece",
+    "type": "anime",
+    "origin_country": "Japan",
+    "owner": "Shueisha / Toei Animation",
+    "franchise": "One Piece",
+    "popularity_tier": "S",
+    "est_value_note": "Best-selling manga ever; Netflix live-action hit",
+    "collab_examples": [
+      "Uniqlo UT One Piece",
+      "Crunchyroll x One Piece"
+    ],
+    "note_fr": "Manga le plus vendu ; live-action Netflix, collabs mode.",
+    "note_en": "Best-selling manga ever; Netflix live-action, fashion collabs."
+  },
+  {
+    "id": "dragon-ball",
+    "name": "Dragon Ball",
+    "type": "anime",
+    "origin_country": "Japan",
+    "owner": "Shueisha / Toei / Bandai Namco",
+    "franchise": "Dragon Ball",
+    "popularity_tier": "S",
+    "est_value_note": "Top anime merch franchise; huge global reach",
+    "collab_examples": [
+      "adidas x Dragon Ball Z",
+      "Bape x Dragon Ball"
+    ],
+    "note_fr": "Roi du merch anime ; collabs adidas, Bape.",
+    "note_en": "King of anime merch; adidas and Bape collaborations."
+  },
+  {
+    "id": "demon-slayer",
+    "name": "Demon Slayer",
+    "type": "anime",
+    "origin_country": "Japan",
+    "owner": "Shueisha / Aniplex / ufotable",
+    "franchise": "Demon Slayer",
+    "popularity_tier": "S",
+    "est_value_note": "Record box-office anime; merch phenomenon",
+    "collab_examples": [
+      "Uniqlo UT Demon Slayer",
+      "Demon Slayer x Lawson (Japan)"
+    ],
+    "note_fr": "Record box-office anime ; phénomène merch et collabs.",
+    "note_en": "Record box-office anime; merch and collab phenomenon."
+  },
+  {
+    "id": "jujutsu-kaisen",
+    "name": "Jujutsu Kaisen",
+    "type": "anime",
+    "origin_country": "Japan",
+    "owner": "Shueisha / MAPPA",
+    "franchise": "Jujutsu Kaisen",
+    "popularity_tier": "A",
+    "est_value_note": "Top-selling modern shonen; strong merch",
+    "collab_examples": [
+      "Uniqlo UT Jujutsu Kaisen",
+      "Crunchyroll x Jujutsu Kaisen"
+    ],
+    "note_fr": "Shonen moderne best-seller ; merch et collabs mode.",
+    "note_en": "Best-selling modern shonen; merch and fashion collabs."
+  },
+  {
+    "id": "attack-on-titan",
+    "name": "Attack on Titan",
+    "type": "anime",
+    "origin_country": "Japan",
+    "owner": "Kodansha / Wit / MAPPA",
+    "franchise": "Attack on Titan",
+    "popularity_tier": "A",
+    "est_value_note": "Globally acclaimed dark-fantasy anime",
+    "collab_examples": [
+      "Attack on Titan x Fortnite",
+      "Uniqlo UT Attack on Titan"
+    ],
+    "note_fr": "Dark fantasy acclamee ; crossover Fortnite, collabs mode.",
+    "note_en": "Acclaimed dark-fantasy anime; Fortnite crossover, fashion."
+  },
+  {
+    "id": "my-hero-academia",
+    "name": "My Hero Academia",
+    "type": "anime",
+    "origin_country": "Japan",
+    "owner": "Shueisha / Bones",
+    "franchise": "My Hero Academia",
+    "popularity_tier": "A",
+    "est_value_note": "Top contemporary shonen; strong Western reach",
+    "collab_examples": [
+      "Uniqlo UT My Hero Academia",
+      "My Hero Academia x Fortnite"
+    ],
+    "note_fr": "Shonen contemporain ; forte audience occidentale.",
+    "note_en": "Top contemporary shonen; strong Western audience."
+  },
+  {
+    "id": "sailor-moon",
+    "name": "Sailor Moon",
+    "type": "anime",
+    "origin_country": "Japan",
+    "owner": "Kodansha / Toei Animation",
+    "franchise": "Sailor Moon",
+    "popularity_tier": "A",
+    "est_value_note": "Iconic magical-girl IP; strong beauty/fashion fit",
+    "collab_examples": [
+      "Jimmy Choo x Sailor Moon",
+      "ColourPop x Sailor Moon"
+    ],
+    "note_fr": "Magical girl iconique ; collabs beauté et luxe.",
+    "note_en": "Iconic magical-girl IP; beauty and luxury collabs."
+  },
+  {
+    "id": "evangelion",
+    "name": "Neon Genesis Evangelion",
+    "type": "anime",
+    "origin_country": "Japan",
+    "owner": "Khara / Gainax",
+    "franchise": "Evangelion",
+    "popularity_tier": "A",
+    "est_value_note": "Cult mecha IP; premium fashion crossovers",
+    "collab_examples": [
+      "Undercover x Evangelion",
+      "Evangelion x Casio G-Shock"
+    ],
+    "note_fr": "Mecha culte ; collabs mode premium et G-Shock.",
+    "note_en": "Cult mecha IP; premium fashion and G-Shock collabs."
+  },
+  {
+    "id": "studio-ghibli",
+    "name": "Studio Ghibli (Totoro)",
+    "type": "anime",
+    "origin_country": "Japan",
+    "owner": "Studio Ghibli",
+    "franchise": "Studio Ghibli",
+    "popularity_tier": "S",
+    "est_value_note": "Most prestigious anime studio; selective licensing",
+    "collab_examples": [
+      "Loewe x Studio Ghibli",
+      "Uniqlo UT Studio Ghibli"
+    ],
+    "note_fr": "Studio anime prestige ; collabs Loewe, licence sélective.",
+    "note_en": "Most prestigious anime studio; selective, e.g. Loewe collab."
+  },
+  {
+    "id": "doraemon",
+    "name": "Doraemon",
+    "type": "anime",
+    "origin_country": "Japan",
+    "owner": "Shogakukan / Fujiko Pro",
+    "franchise": "Doraemon",
+    "popularity_tier": "S",
+    "est_value_note": "Top-earning character in Asia; huge merch",
+    "collab_examples": [
+      "Gucci x Doraemon",
+      "Uniqlo UT Doraemon"
+    ],
+    "note_fr": "Personnage n1 en Asie ; collab Gucci, merch massif.",
+    "note_en": "Top character in Asia; Gucci collab, massive merch."
+  },
+  {
+    "id": "hello-kitty-sanrio",
+    "name": "Hello Kitty (Sanrio)",
+    "type": "character",
+    "origin_country": "Japan",
+    "owner": "Sanrio",
+    "franchise": "Sanrio",
+    "popularity_tier": "S",
+    "est_value_note": "~$88B franchise; one of top licensed properties",
+    "collab_examples": [
+      "Balenciaga x Hello Kitty",
+      "Puma x Hello Kitty",
+      "Crocs x Hello Kitty"
+    ],
+    "note_fr": "Franchise ~88 Mds$ ; reine des collabs mode et beauté.",
+    "note_en": "~$88B franchise; queen of fashion and beauty collabs."
+  },
+  {
+    "id": "sanrio-characters",
+    "name": "Sanrio characters (Kuromi, Cinnamoroll)",
+    "type": "character",
+    "origin_country": "Japan",
+    "owner": "Sanrio",
+    "franchise": "Sanrio",
+    "popularity_tier": "A",
+    "est_value_note": "Strong secondary Sanrio roster",
+    "collab_examples": [
+      "Crocs x Sanrio",
+      "ColourPop x Sanrio"
+    ],
+    "note_fr": "Roster Sanrio secondaire fort (Kuromi, Cinnamoroll).",
+    "note_en": "Strong secondary Sanrio roster (Kuromi, Cinnamoroll)."
+  },
+  {
+    "id": "gundam",
+    "name": "Gundam",
+    "type": "anime",
+    "origin_country": "Japan",
+    "owner": "Bandai Namco / Sunrise",
+    "franchise": "Gundam",
+    "popularity_tier": "A",
+    "est_value_note": "Top model-kit (Gunpla) and mecha franchise",
+    "collab_examples": [
+      "Nike SB x Gundam",
+      "Gundam x G-Shock"
+    ],
+    "note_fr": "Roi du model-kit (Gunpla) ; collabs sneakers et montres.",
+    "note_en": "Top model-kit (Gunpla) franchise; sneaker, watch collabs."
+  },
+  {
+    "id": "astro-boy",
+    "name": "Astro Boy",
+    "type": "anime",
+    "origin_country": "Japan",
+    "owner": "Tezuka Productions",
+    "franchise": "Tezuka",
+    "popularity_tier": "B",
+    "est_value_note": "Foundational anime IP; nostalgia licensing value",
+    "collab_examples": [],
+    "note_fr": "Anime fondateur ; valeur licence nostalgie.",
+    "note_en": "Foundational anime IP; nostalgia licensing value."
+  },
+  {
+    "id": "spy-x-family",
+    "name": "Spy x Family",
+    "type": "anime",
+    "origin_country": "Japan",
+    "owner": "Shueisha / Wit / CloverWorks",
+    "franchise": "Spy x Family",
+    "popularity_tier": "A",
+    "est_value_note": "Breakout family-friendly shonen; broad appeal",
+    "collab_examples": [
+      "Uniqlo UT Spy x Family"
+    ],
+    "note_fr": "Shonen familial en plein essor ; large attrait merch.",
+    "note_en": "Breakout family-friendly shonen with broad appeal."
+  },
+  {
+    "id": "chiikawa",
+    "name": "Chiikawa",
+    "type": "character",
+    "origin_country": "Japan",
+    "owner": "Nagano / various licensees",
+    "franchise": "Chiikawa",
+    "popularity_tier": "A",
+    "est_value_note": "Explosive recent kawaii IP across Asia",
+    "collab_examples": [
+      "Chiikawa x Lawson (Japan)"
+    ],
+    "note_fr": "IP kawaii recente explosive en Asie ; merch et F&B.",
+    "note_en": "Explosive recent kawaii IP across Asia; merch and F&B."
+  },
+  {
+    "id": "miffy",
+    "name": "Miffy (Nijntje)",
+    "type": "character",
+    "origin_country": "Netherlands",
+    "owner": "Mercis / Dick Bruna estate",
+    "franchise": "Miffy",
+    "popularity_tier": "A",
+    "est_value_note": "Beloved minimalist character; strong in Asia",
+    "collab_examples": [
+      "Uniqlo UT Miffy",
+      "Miffy x Pop Mart"
+    ],
+    "note_fr": "Personnage minimaliste neerlandais ; très fort en Asie.",
+    "note_en": "Beloved Dutch minimalist character; very strong in Asia."
+  },
+  {
+    "id": "moomin",
+    "name": "Moomin",
+    "type": "character",
+    "origin_country": "Finland",
+    "owner": "Moomin Characters Oy",
+    "franchise": "Moomin",
+    "popularity_tier": "A",
+    "est_value_note": "Nordic IP huge in Japan; lifestyle licensing",
+    "collab_examples": [
+      "Uniqlo UT Moomin",
+      "Moomin x Arabia ceramics"
+    ],
+    "note_fr": "IP nordique géante au Japon ; licence lifestyle.",
+    "note_en": "Nordic IP huge in Japan; lifestyle licensing."
+  },
+  {
+    "id": "asterix",
+    "name": "Asterix",
+    "type": "comic",
+    "origin_country": "France",
+    "owner": "Editions Albert Rene (Hachette)",
+    "franchise": "Asterix",
+    "popularity_tier": "A",
+    "est_value_note": "Best-selling European comic; Parc Asterix",
+    "collab_examples": [],
+    "note_fr": "BD européenne best-seller ; films et Parc Asterix.",
+    "note_en": "Best-selling European comic; films and theme park."
+  },
+  {
+    "id": "tintin",
+    "name": "The Adventures of Tintin",
+    "type": "comic",
+    "origin_country": "Belgium",
+    "owner": "Moulinsart / Tintinimaginatio",
+    "franchise": "Tintin",
+    "popularity_tier": "A",
+    "est_value_note": "Iconic Franco-Belgian comic; controlled licensing",
+    "collab_examples": [],
+    "note_fr": "BD franco-belge iconique ; licence très contrôlée.",
+    "note_en": "Iconic Franco-Belgian comic; tightly controlled licensing."
+  },
+  {
+    "id": "the-smurfs",
+    "name": "The Smurfs",
+    "type": "comic",
+    "origin_country": "Belgium",
+    "owner": "IMPS (Peyo company)",
+    "franchise": "The Smurfs",
+    "popularity_tier": "A",
+    "est_value_note": "Global Belgian IP; films, toys, F&B",
+    "collab_examples": [
+      "McDonald's x Smurfs"
+    ],
+    "note_fr": "IP belge mondiale ; films, jouets, promotions F&B.",
+    "note_en": "Global Belgian IP; films, toys, F&B promotions."
+  },
+  {
+    "id": "barbapapa",
+    "name": "Barbapapa",
+    "type": "character",
+    "origin_country": "France",
+    "owner": "Talou estate",
+    "franchise": "Barbapapa",
+    "popularity_tier": "B",
+    "est_value_note": "Retro character IP popular in Europe and Japan",
+    "collab_examples": [],
+    "note_fr": "Personnage retro populaire en Europe et au Japon.",
+    "note_en": "Retro character IP popular in Europe and Japan."
+  },
+  {
+    "id": "paddington",
+    "name": "Paddington Bear",
+    "type": "character",
+    "origin_country": "United Kingdom",
+    "owner": "StudioCanal (Vivendi)",
+    "franchise": "Paddington",
+    "popularity_tier": "A",
+    "est_value_note": "Beloved British IP; hit films, broad licensing",
+    "collab_examples": [
+      "Paddington x M&S (Marks & Spencer)"
+    ],
+    "note_fr": "IP britannique aimee ; films a succès, large licence.",
+    "note_en": "Beloved British IP; hit films, broad licensing."
+  },
+  {
+    "id": "peppa-pig",
+    "name": "Peppa Pig",
+    "type": "tv",
+    "origin_country": "United Kingdom",
+    "owner": "Hasbro (eOne)",
+    "franchise": "Peppa Pig",
+    "popularity_tier": "A",
+    "est_value_note": "Top preschool franchise worldwide",
+    "collab_examples": [],
+    "note_fr": "Franchise prescolaire n1 ; licence jouets massive.",
+    "note_en": "Top preschool franchise; massive toy licensing."
+  },
+  {
+    "id": "mr-men",
+    "name": "Mr. Men & Little Miss",
+    "type": "character",
+    "origin_country": "United Kingdom",
+    "owner": "Sanrio (THOIP)",
+    "franchise": "Mr. Men",
+    "popularity_tier": "B",
+    "est_value_note": "Classic British character set; fashion-friendly",
+    "collab_examples": [
+      "Uniqlo UT Mr. Men Little Miss"
+    ],
+    "note_fr": "Personnages britanniques classiques ; collabs mode.",
+    "note_en": "Classic British character set; fashion collaborations."
+  },
+  {
+    "id": "thomas-the-tank-engine",
+    "name": "Thomas & Friends",
+    "type": "tv",
+    "origin_country": "United Kingdom",
+    "owner": "Mattel",
+    "franchise": "Thomas & Friends",
+    "popularity_tier": "B",
+    "est_value_note": "Evergreen preschool train franchise",
+    "collab_examples": [],
+    "note_fr": "Franchise prescolaire durable ; trains jouets.",
+    "note_en": "Evergreen preschool train franchise; toy trains."
+  },
+  {
+    "id": "labubu",
+    "name": "Labubu (The Monsters)",
+    "type": "toy",
+    "origin_country": "China",
+    "owner": "Pop Mart (Kasing Lung)",
+    "franchise": "Pop Mart",
+    "popularity_tier": "S",
+    "est_value_note": "Viral blind-box phenomenon; explosive 2024-25 growth",
+    "collab_examples": [
+      "Labubu x Vans",
+      "Labubu x Coca-Cola",
+      "Labubu x Pronounce"
+    ],
+    "note_fr": "Phénomène blind-box viral ; croissance explosive 2024-25.",
+    "note_en": "Viral blind-box phenomenon; explosive 2024-25 growth."
+  },
+  {
+    "id": "molly-pop-mart",
+    "name": "Molly (Pop Mart)",
+    "type": "toy",
+    "origin_country": "China",
+    "owner": "Pop Mart (Kenny Wong)",
+    "franchise": "Pop Mart",
+    "popularity_tier": "A",
+    "est_value_note": "Flagship Pop Mart art-toy IP; heavy collab roster",
+    "collab_examples": [
+      "Molly x Coca-Cola",
+      "Molly x Warner Bros"
+    ],
+    "note_fr": "IP art-toy phare de Pop Mart ; nombreuses collabs.",
+    "note_en": "Flagship Pop Mart art-toy IP; heavy collab roster."
+  },
+  {
+    "id": "line-friends",
+    "name": "LINE Friends (Brown & Cony)",
+    "type": "character",
+    "origin_country": "South Korea",
+    "owner": "IPX (LINE Friends)",
+    "franchise": "LINE Friends",
+    "popularity_tier": "A",
+    "est_value_note": "Top messaging-app character IP across Asia",
+    "collab_examples": [
+      "LINE Friends x Bao Bao Issey Miyake",
+      "LINE Friends x Sephora"
+    ],
+    "note_fr": "IP personnages messagerie n1 en Asie ; collabs mode.",
+    "note_en": "Top messaging-app character IP in Asia; fashion collabs."
+  },
+  {
+    "id": "bt21",
+    "name": "BT21",
+    "type": "character",
+    "origin_country": "South Korea",
+    "owner": "IPX / BTS (HYBE)",
+    "franchise": "LINE Friends",
+    "popularity_tier": "A",
+    "est_value_note": "BTS-cocreated characters; massive K-pop merch",
+    "collab_examples": [
+      "BT21 x Converse",
+      "BT21 x Anti Social Social Club"
+    ],
+    "note_fr": "Personnages co-créés par BTS ; merch K-pop massif.",
+    "note_en": "BTS-cocreated characters; massive K-pop merch."
+  },
+  {
+    "id": "baby-shark",
+    "name": "Baby Shark (Pinkfong)",
+    "type": "music",
+    "origin_country": "South Korea",
+    "owner": "The Pinkfong Company",
+    "franchise": "Pinkfong",
+    "popularity_tier": "A",
+    "est_value_note": "Most-viewed YouTube video; huge kids' licensing",
+    "collab_examples": [
+      "Baby Shark x Crocs"
+    ],
+    "note_fr": "Vidéo YouTube la plus vue ; licence enfant massive.",
+    "note_en": "Most-viewed YouTube video; huge kids' licensing."
+  },
+  {
+    "id": "bts-ip",
+    "name": "BTS",
+    "type": "music",
+    "origin_country": "South Korea",
+    "owner": "HYBE / BIGHIT MUSIC",
+    "franchise": "HYBE",
+    "popularity_tier": "S",
+    "est_value_note": "Biggest K-pop act; vast brand-deal portfolio",
+    "collab_examples": [
+      "McDonald's BTS Meal",
+      "Louis Vuitton (ambassadors)",
+      "Samsung x BTS phone"
+    ],
+    "note_fr": "Plus grand groupe K-pop ; énorme portefeuille de marques.",
+    "note_en": "Biggest K-pop act; vast brand-partnership portfolio."
+  },
+  {
+    "id": "blackpink-ip",
+    "name": "BLACKPINK",
+    "type": "music",
+    "origin_country": "South Korea",
+    "owner": "YG Entertainment",
+    "franchise": "YG",
+    "popularity_tier": "S",
+    "est_value_note": "Top global girl group; each member fronts luxury",
+    "collab_examples": [
+      "Chanel (Jennie)",
+      "Dior (Jisoo)",
+      "Celine (Lisa)",
+      "Saint Laurent (Rose)"
+    ],
+    "note_fr": "Premier girl group ; chaque membre ambassadrice de luxe.",
+    "note_en": "Top global girl group; each member fronts a luxury house."
+  },
+  {
+    "id": "taylor-swift-ip",
+    "name": "Taylor Swift",
+    "type": "music",
+    "origin_country": "United States",
+    "owner": "Taylor Swift (artist)",
+    "franchise": "",
+    "popularity_tier": "S",
+    "est_value_note": "Highest-grossing tour ever (Eras); huge brand pull",
+    "collab_examples": [
+      "Taylor Swift x Capital One"
+    ],
+    "note_fr": "Tournée la plus rentable de l'histoire ; pouvoir d'attraction.",
+    "note_en": "Highest-grossing tour ever; immense brand pull."
+  },
+  {
+    "id": "kiss",
+    "name": "KISS",
+    "type": "music",
+    "origin_country": "United States",
+    "owner": "KISS Catalog / Pophouse",
+    "franchise": "KISS",
+    "popularity_tier": "B",
+    "est_value_note": "Most-merchandised rock band; thousands of products",
+    "collab_examples": [],
+    "note_fr": "Groupe rock le plus merchandise ; milliers de produits.",
+    "note_en": "Most-merchandised rock band; thousands of products."
+  },
+  {
+    "id": "rolling-stones",
+    "name": "The Rolling Stones",
+    "type": "music",
+    "origin_country": "United Kingdom",
+    "owner": "Bravado / band",
+    "franchise": "",
+    "popularity_tier": "A",
+    "est_value_note": "Tongue logo is a top music-licensing asset",
+    "collab_examples": [
+      "The Rolling Stones x Saint Laurent",
+      "Stones x Supreme"
+    ],
+    "note_fr": "Logo langue : actif de licence musicale majeur.",
+    "note_en": "Tongue logo is a top music-licensing asset."
+  },
+  {
+    "id": "nirvana",
+    "name": "Nirvana (smiley logo)",
+    "type": "music",
+    "origin_country": "United States",
+    "owner": "Nirvana LLC",
+    "franchise": "",
+    "popularity_tier": "B",
+    "est_value_note": "Smiley logo widely licensed in fashion",
+    "collab_examples": [
+      "Nirvana x Marc Jacobs"
+    ],
+    "note_fr": "Logo smiley très licencie en mode.",
+    "note_en": "Smiley logo widely licensed in fashion."
+  },
+  {
+    "id": "nba",
+    "name": "NBA",
+    "type": "sport",
+    "origin_country": "United States",
+    "owner": "National Basketball Association",
+    "franchise": "NBA",
+    "popularity_tier": "S",
+    "est_value_note": "Top global basketball league; vast apparel licensing",
+    "collab_examples": [
+      "Nike x NBA",
+      "NBA x Fortnite",
+      "Mitchell & Ness x NBA"
+    ],
+    "note_fr": "Ligue basket mondiale ; vaste licence apparel et gaming.",
+    "note_en": "Top global basketball league; vast apparel and gaming deals."
+  },
+  {
+    "id": "nfl",
+    "name": "NFL",
+    "type": "sport",
+    "origin_country": "United States",
+    "owner": "National Football League",
+    "franchise": "NFL",
+    "popularity_tier": "S",
+    "est_value_note": "Highest-revenue US league; ~$1.1B Nike apparel deal",
+    "collab_examples": [
+      "Nike x NFL",
+      "New Era x NFL"
+    ],
+    "note_fr": "Ligue US la plus riche ; deal apparel Nike ~1,1 Md$.",
+    "note_en": "Highest-revenue US league; ~$1.1B Nike apparel deal."
+  },
+  {
+    "id": "fc-barcelona",
+    "name": "FC Barcelona",
+    "type": "sport",
+    "origin_country": "Spain",
+    "owner": "FC Barcelona",
+    "franchise": "La Liga",
+    "popularity_tier": "S",
+    "est_value_note": "Top football club brand; landmark Spotify deal",
+    "collab_examples": [
+      "Spotify (shirt + stadium)",
+      "Nike x FC Barcelona",
+      "Cactus Jack kit"
+    ],
+    "note_fr": "Marque foot d'elite ; deal Spotify maillot + stade.",
+    "note_en": "Elite football brand; landmark Spotify shirt + stadium deal."
+  },
+  {
+    "id": "real-madrid",
+    "name": "Real Madrid",
+    "type": "sport",
+    "origin_country": "Spain",
+    "owner": "Real Madrid CF",
+    "franchise": "La Liga",
+    "popularity_tier": "S",
+    "est_value_note": "World's most valuable football club brand",
+    "collab_examples": [
+      "adidas x Real Madrid",
+      "Emirates (shirt)"
+    ],
+    "note_fr": "Marque de club foot la plus valorisee au monde.",
+    "note_en": "World's most valuable football club brand."
+  },
+  {
+    "id": "manchester-united",
+    "name": "Manchester United",
+    "type": "sport",
+    "origin_country": "United Kingdom",
+    "owner": "Manchester United plc",
+    "franchise": "Premier League",
+    "popularity_tier": "S",
+    "est_value_note": "Top global football brand; vast sponsor portfolio",
+    "collab_examples": [
+      "adidas x Manchester United",
+      "Snapdragon (shirt)"
+    ],
+    "note_fr": "Marque foot mondiale ; vaste portefeuille de sponsors.",
+    "note_en": "Top global football brand; vast sponsor portfolio."
+  },
+  {
+    "id": "fifa-world-cup",
+    "name": "FIFA World Cup",
+    "type": "sport",
+    "origin_country": "Switzerland",
+    "owner": "FIFA",
+    "franchise": "FIFA",
+    "popularity_tier": "S",
+    "est_value_note": "Most-watched sporting event; premium sponsorships",
+    "collab_examples": [
+      "adidas (official ball)",
+      "Coca-Cola (partner)",
+      "Panini stickers"
+    ],
+    "note_fr": "Événement sportif le plus regarde ; sponsors premium.",
+    "note_en": "Most-watched sporting event; premium sponsorships."
+  },
+  {
+    "id": "formula-1",
+    "name": "Formula 1",
+    "type": "sport",
+    "origin_country": "United Kingdom",
+    "owner": "Formula 1 (Liberty Media)",
+    "franchise": "F1",
+    "popularity_tier": "S",
+    "est_value_note": "Fast-growing premium motorsport; luxury crossovers",
+    "collab_examples": [
+      "LEGO x Formula 1",
+      "F1 x Tommy Hilfiger",
+      "F1 x Puma"
+    ],
+    "note_fr": "Sport auto premium en plein essor ; collabs LEGO, mode.",
+    "note_en": "Fast-growing premium motorsport; LEGO and fashion collabs."
+  },
+  {
+    "id": "ufc",
+    "name": "UFC",
+    "type": "sport",
+    "origin_country": "United States",
+    "owner": "TKO Group (Endeavor)",
+    "franchise": "UFC",
+    "popularity_tier": "A",
+    "est_value_note": "Leading MMA brand; large apparel/sponsor business",
+    "collab_examples": [
+      "Venum x UFC",
+      "Monster Energy x UFC"
+    ],
+    "note_fr": "Marque MMA leader ; gros business apparel et sponsors.",
+    "note_en": "Leading MMA brand; large apparel and sponsor business."
+  },
+  {
+    "id": "olympics",
+    "name": "Olympic Games",
+    "type": "sport",
+    "origin_country": "Switzerland",
+    "owner": "International Olympic Committee",
+    "franchise": "Olympics",
+    "popularity_tier": "S",
+    "est_value_note": "Global mega-event; top-tier TOP sponsorship program",
+    "collab_examples": [
+      "Louis Vuitton x Paris 2024",
+      "Coca-Cola (TOP partner)",
+      "Samsung (TOP partner)"
+    ],
+    "note_fr": "Mega-événement mondial ; programme sponsors TOP d'elite.",
+    "note_en": "Global mega-event; elite TOP sponsorship program."
+  },
+  {
+    "id": "donkey-kong",
+    "name": "Donkey Kong",
+    "type": "game",
+    "origin_country": "Japan",
+    "owner": "Nintendo",
+    "franchise": "Nintendo",
+    "popularity_tier": "B",
+    "est_value_note": "Classic Nintendo IP; theme-park and film presence",
+    "collab_examples": [
+      "LEGO Super Mario Donkey Kong"
+    ],
+    "note_fr": "IP Nintendo classique ; présence parc et film.",
+    "note_en": "Classic Nintendo IP; theme-park and film presence."
+  },
+  {
+    "id": "the-witcher",
+    "name": "The Witcher",
+    "type": "game",
+    "origin_country": "Poland",
+    "owner": "CD Projekt / A. Sapkowski",
+    "franchise": "The Witcher",
+    "popularity_tier": "A",
+    "est_value_note": "Top Polish game/book IP; Netflix series",
+    "collab_examples": [],
+    "note_fr": "IP polonaise majeure (jeu/livre) ; serie Netflix.",
+    "note_en": "Top Polish game/book IP; Netflix series."
+  },
+  {
+    "id": "cyberpunk-2077",
+    "name": "Cyberpunk 2077",
+    "type": "game",
+    "origin_country": "Poland",
+    "owner": "CD Projekt",
+    "franchise": "Cyberpunk",
+    "popularity_tier": "B",
+    "est_value_note": "Major game IP; anime Edgerunners boosted brand",
+    "collab_examples": [
+      "Cyberpunk 2077 x Adidas",
+      "Cyberpunk x Secretlab"
+    ],
+    "note_fr": "IP jeu majeure ; anime Edgerunners a relance la marque.",
+    "note_en": "Major game IP; Edgerunners anime relaunched the brand."
+  },
+  {
+    "id": "stranger-things",
+    "name": "Stranger Things",
+    "type": "tv",
+    "origin_country": "United States",
+    "owner": "Netflix",
+    "franchise": "Stranger Things",
+    "popularity_tier": "A",
+    "est_value_note": "Netflix's top licensing series; broad merch",
+    "collab_examples": [
+      "Nike x Stranger Things",
+      "Lego Stranger Things",
+      "Coca-Cola New Coke tie-in"
+    ],
+    "note_fr": "Serie licence n1 de Netflix ; merch et collabs larges.",
+    "note_en": "Netflix's top licensing series; broad merch and collabs."
+  },
+  {
+    "id": "squid-game",
+    "name": "Squid Game",
+    "type": "tv",
+    "origin_country": "South Korea",
+    "owner": "Netflix",
+    "franchise": "Squid Game",
+    "popularity_tier": "A",
+    "est_value_note": "Netflix's biggest series; global merch wave",
+    "collab_examples": [
+      "Squid Game x Crocs",
+      "Squid Game x Puma"
+    ],
+    "note_fr": "Plus grande serie Netflix ; vague merch mondiale.",
+    "note_en": "Netflix's biggest series; global merch wave."
+  },
+  {
+    "id": "game-of-thrones",
+    "name": "Game of Thrones",
+    "type": "tv",
+    "origin_country": "United States",
+    "owner": "HBO (Warner Bros. Discovery)",
+    "franchise": "Game of Thrones",
+    "popularity_tier": "A",
+    "est_value_note": "Landmark prestige series; broad licensing",
+    "collab_examples": [
+      "adidas Ultraboost x Game of Thrones",
+      "Oreo x Game of Thrones",
+      "Johnnie Walker x GoT"
+    ],
+    "note_fr": "Serie prestige culte ; licence boissons, mode, food.",
+    "note_en": "Landmark prestige series; drink, fashion, food licensing."
+  },
+  {
+    "id": "the-simpsons",
+    "name": "The Simpsons",
+    "type": "tv",
+    "origin_country": "United States",
+    "owner": "20th Television (Disney)",
+    "franchise": "The Simpsons",
+    "popularity_tier": "A",
+    "est_value_note": "Longest-running sitcom; major fashion licensing",
+    "collab_examples": [
+      "Balenciaga x The Simpsons",
+      "Vans x The Simpsons",
+      "adidas x The Simpsons"
+    ],
+    "note_fr": "Sitcom la plus longue ; grosse licence mode (Balenciaga).",
+    "note_en": "Longest-running sitcom; major fashion licensing (Balenciaga)."
+  },
+  {
+    "id": "rick-and-morty",
+    "name": "Rick and Morty",
+    "type": "tv",
+    "origin_country": "United States",
+    "owner": "Adult Swim (Warner Bros. Discovery)",
+    "franchise": "Rick and Morty",
+    "popularity_tier": "B",
+    "est_value_note": "Cult adult-animation IP; viral collabs",
+    "collab_examples": [
+      "McDonald's Szechuan Sauce tie-in",
+      "Rick and Morty x Fortnite"
+    ],
+    "note_fr": "Animation adulte culte ; collabs virales.",
+    "note_en": "Cult adult-animation IP; viral collaborations."
+  },
+  {
+    "id": "star-trek",
+    "name": "Star Trek",
+    "type": "tv",
+    "origin_country": "United States",
+    "owner": "Paramount",
+    "franchise": "Star Trek",
+    "popularity_tier": "B",
+    "est_value_note": "Foundational sci-fi IP; durable fan licensing",
+    "collab_examples": [
+      "Star Trek x Vans"
+    ],
+    "note_fr": "IP SF fondatrice ; licence fans durable.",
+    "note_en": "Foundational sci-fi IP; durable fan licensing."
+  },
+  {
+    "id": "avatar-last-airbender",
+    "name": "Avatar: The Last Airbender",
+    "type": "tv",
+    "origin_country": "United States",
+    "owner": "Nickelodeon (Paramount)",
+    "franchise": "Avatar (Nick)",
+    "popularity_tier": "B",
+    "est_value_note": "Resurgent fan-favorite animation; growing merch",
+    "collab_examples": [
+      "Avatar x apparel collabs"
+    ],
+    "note_fr": "Animation culte en regain ; merch en croissance.",
+    "note_en": "Resurgent fan-favorite animation; growing merch."
+  },
+  {
+    "id": "bluey",
+    "name": "Bluey",
+    "type": "tv",
+    "origin_country": "Australia",
+    "owner": "BBC Studios / Ludo Studio",
+    "franchise": "Bluey",
+    "popularity_tier": "A",
+    "est_value_note": "Top preschool franchise; explosive toy sales",
+    "collab_examples": [
+      "Crocs x Bluey"
+    ],
+    "note_fr": "Franchise prescolaire n1 ; ventes jouets explosives.",
+    "note_en": "Top preschool franchise; explosive toy sales."
+  },
+  {
+    "id": "care-bears",
+    "name": "Care Bears",
+    "type": "character",
+    "origin_country": "United States",
+    "owner": "Cloudco Entertainment",
+    "franchise": "Care Bears",
+    "popularity_tier": "B",
+    "est_value_note": "Nostalgia IP with strong streetwear revival",
+    "collab_examples": [
+      "Care Bears x Champion",
+      "Care Bears x Vans"
+    ],
+    "note_fr": "IP nostalgie ; fort revival streetwear.",
+    "note_en": "Nostalgia IP with strong streetwear revival."
+  },
+  {
+    "id": "popeye",
+    "name": "Popeye",
+    "type": "comic",
+    "origin_country": "United States",
+    "owner": "King Features (Hearst)",
+    "franchise": "King Features",
+    "popularity_tier": "B",
+    "est_value_note": "Classic character; entering public domain 2025+",
+    "collab_examples": [],
+    "note_fr": "Personnage classique ; entre dans le domaine public.",
+    "note_en": "Classic character; entering public domain from 2025."
+  },
+  {
+    "id": "betty-boop",
+    "name": "Betty Boop",
+    "type": "character",
+    "origin_country": "United States",
+    "owner": "Fleischer Studios",
+    "franchise": "",
+    "popularity_tier": "B",
+    "est_value_note": "Vintage glamour icon; steady fashion licensing",
+    "collab_examples": [
+      "Zara x Betty Boop"
+    ],
+    "note_fr": "Icone glamour vintage ; licence mode reguliere.",
+    "note_en": "Vintage glamour icon; steady fashion licensing."
+  },
+  {
+    "id": "felix-the-cat",
+    "name": "Felix the Cat",
+    "type": "character",
+    "origin_country": "United States",
+    "owner": "DreamWorks (Universal)",
+    "franchise": "",
+    "popularity_tier": "B",
+    "est_value_note": "Oldest cartoon icon; retro fashion appeal",
+    "collab_examples": [
+      "Felix the Cat x Vans"
+    ],
+    "note_fr": "Plus vieille icone cartoon ; attrait mode retro.",
+    "note_en": "Oldest cartoon icon; retro fashion appeal."
+  },
+  {
+    "id": "powerpuff-girls",
+    "name": "The Powerpuff Girls",
+    "type": "tv",
+    "origin_country": "United States",
+    "owner": "Cartoon Network (Warner Bros. Discovery)",
+    "franchise": "Cartoon Network",
+    "popularity_tier": "B",
+    "est_value_note": "Cult Cartoon Network IP; beauty/fashion collabs",
+    "collab_examples": [
+      "MAC x The Powerpuff Girls",
+      "Powerpuff Girls x Vans"
+    ],
+    "note_fr": "IP Cartoon Network culte ; collabs beauté et mode.",
+    "note_en": "Cult Cartoon Network IP; beauty and fashion collabs."
+  },
+  {
+    "id": "adventure-time",
+    "name": "Adventure Time",
+    "type": "tv",
+    "origin_country": "United States",
+    "owner": "Cartoon Network (Warner Bros. Discovery)",
+    "franchise": "Cartoon Network",
+    "popularity_tier": "B",
+    "est_value_note": "Cult animation; strong streetwear crossover",
+    "collab_examples": [
+      "Nike SB x Adventure Time",
+      "Vans x Adventure Time"
+    ],
+    "note_fr": "Animation culte ; fort crossover streetwear.",
+    "note_en": "Cult animation; strong streetwear crossover."
+  },
+  {
+    "id": "pusheen",
+    "name": "Pusheen",
+    "type": "character",
+    "origin_country": "United States",
+    "owner": "Pusheen Corp",
+    "franchise": "Pusheen",
+    "popularity_tier": "B",
+    "est_value_note": "Web-native cat IP; strong plush/stationery licensing",
+    "collab_examples": [
+      "Pusheen x Petco"
+    ],
+    "note_fr": "IP chat né du web ; licence peluches et papeterie.",
+    "note_en": "Web-native cat IP; strong plush and stationery licensing."
+  },
+  {
+    "id": "kung-fu-panda",
+    "name": "Kung Fu Panda",
+    "type": "film",
+    "origin_country": "United States",
+    "owner": "DreamWorks (Universal)",
+    "franchise": "Kung Fu Panda",
+    "popularity_tier": "B",
+    "est_value_note": "Animated franchise hugely popular in China",
+    "collab_examples": [],
+    "note_fr": "Franchise animee très populaire en Chine.",
+    "note_en": "Animated franchise hugely popular in China."
+  },
+  {
+    "id": "ne-zha",
+    "name": "Ne Zha",
+    "type": "film",
+    "origin_country": "China",
+    "owner": "Enlight Media / Coloroom",
+    "franchise": "Ne Zha",
+    "popularity_tier": "A",
+    "est_value_note": "Ne Zha 2 is among top-grossing films worldwide",
+    "collab_examples": [
+      "Ne Zha x Luckin Coffee",
+      "Ne Zha x Pop Mart"
+    ],
+    "note_fr": "Ne Zha 2 parmi les plus gros succès mondiaux ; collabs F&B.",
+    "note_en": "Ne Zha 2 among top-grossing films; F&B collabs."
+  },
+  {
+    "id": "journey-to-the-west",
+    "name": "Journey to the West (Sun Wukong)",
+    "type": "character",
+    "origin_country": "China",
+    "owner": "Public domain (classic)",
+    "franchise": "",
+    "popularity_tier": "A",
+    "est_value_note": "Public-domain classic; basis of countless IP",
+    "collab_examples": [],
+    "note_fr": "Classique du domaine public ; socle d'innombrables IP.",
+    "note_en": "Public-domain classic; basis of countless IP."
+  },
+  {
+    "id": "ultraman",
+    "name": "Ultraman",
+    "type": "character",
+    "origin_country": "Japan",
+    "owner": "Tsuburaya Productions",
+    "franchise": "Ultraman",
+    "popularity_tier": "A",
+    "est_value_note": "Tokusatsu hero IP; huge toy market in Asia",
+    "collab_examples": [
+      "Ultraman x Bandai (S.H.Figuarts)"
+    ],
+    "note_fr": "Heros tokusatsu ; énorme marché jouets en Asie.",
+    "note_en": "Tokusatsu hero IP; huge toy market in Asia."
+  },
+  {
+    "id": "power-rangers",
+    "name": "Power Rangers",
+    "type": "tv",
+    "origin_country": "United States",
+    "owner": "Hasbro",
+    "franchise": "Power Rangers",
+    "popularity_tier": "B",
+    "est_value_note": "Long-running action-figure franchise",
+    "collab_examples": [
+      "Power Rangers x Bandai figures"
+    ],
+    "note_fr": "Franchise figurines d'action durable.",
+    "note_en": "Long-running action-figure franchise."
+  },
+  {
+    "id": "crayon-shin-chan",
+    "name": "Crayon Shin-chan",
+    "type": "anime",
+    "origin_country": "Japan",
+    "owner": "Futabasha / Shin-Ei Animation",
+    "franchise": "Crayon Shin-chan",
+    "popularity_tier": "B",
+    "est_value_note": "Long-running comedy IP; strong in Asia merch",
+    "collab_examples": [
+      "Uniqlo UT Crayon Shin-chan"
+    ],
+    "note_fr": "IP comédie durable ; merch fort en Asie.",
+    "note_en": "Long-running comedy IP; strong Asia merchandising."
+  },
+  {
+    "id": "world-of-warcraft",
+    "name": "World of Warcraft",
+    "type": "game",
+    "origin_country": "United States",
+    "owner": "Blizzard (Microsoft)",
+    "franchise": "Warcraft",
+    "popularity_tier": "A",
+    "est_value_note": "Landmark MMORPG; durable collector market",
+    "collab_examples": [],
+    "note_fr": "MMORPG de référence ; marché collector durable.",
+    "note_en": "Landmark MMORPG; durable collector market."
+  },
+  {
+    "id": "tetris",
+    "name": "Tetris",
+    "type": "game",
+    "origin_country": "Russia",
+    "owner": "The Tetris Company",
+    "franchise": "Tetris",
+    "popularity_tier": "B",
+    "est_value_note": "One of best-selling games; strong nostalgia brand",
+    "collab_examples": [
+      "Uniqlo UT Tetris"
+    ],
+    "note_fr": "Un des jeux les plus vendus ; marque nostalgie forte.",
+    "note_en": "One of best-selling games; strong nostalgia brand."
+  },
+  {
+    "id": "mario-kart",
+    "name": "Mario Kart",
+    "type": "game",
+    "origin_country": "Japan",
+    "owner": "Nintendo",
+    "franchise": "Nintendo",
+    "popularity_tier": "A",
+    "est_value_note": "Best-selling racing-game series; mass appeal",
+    "collab_examples": [
+      "LEGO Mario Kart"
+    ],
+    "note_fr": "Serie de course la plus vendue ; attrait grand public.",
+    "note_en": "Best-selling racing-game series; mass appeal."
+  },
+  {
+    "id": "keith-haring",
+    "name": "Keith Haring estate",
+    "type": "character",
+    "origin_country": "United States",
+    "owner": "Keith Haring Foundation",
+    "franchise": "",
+    "popularity_tier": "A",
+    "est_value_note": "Pop-art icon; one of the most-licensed art estates",
+    "collab_examples": [
+      "Uniqlo UT Keith Haring",
+      "Lacoste x Keith Haring",
+      "Coach x Keith Haring"
+    ],
+    "note_fr": "Icone pop-art ; un des fonds d'artiste les plus licencies.",
+    "note_en": "Pop-art icon; among the most-licensed art estates."
+  },
+  {
+    "id": "andy-warhol",
+    "name": "Andy Warhol estate",
+    "type": "character",
+    "origin_country": "United States",
+    "owner": "Andy Warhol Foundation",
+    "franchise": "",
+    "popularity_tier": "A",
+    "est_value_note": "Pop-art powerhouse; premium fashion licensing",
+    "collab_examples": [
+      "Uniqlo UT Andy Warhol",
+      "Calvin Klein x Andy Warhol"
+    ],
+    "note_fr": "Mastodonte pop-art ; licence mode premium.",
+    "note_en": "Pop-art powerhouse; premium fashion licensing."
+  },
+  {
+    "id": "yayoi-kusama",
+    "name": "Yayoi Kusama",
+    "type": "character",
+    "origin_country": "Japan",
+    "owner": "Yayoi Kusama (artist)",
+    "franchise": "",
+    "popularity_tier": "A",
+    "est_value_note": "World's top-selling living artist for collabs",
+    "collab_examples": [
+      "Louis Vuitton x Yayoi Kusama"
+    ],
+    "note_fr": "Artiste vivante n1 pour collabs (Louis Vuitton).",
+    "note_en": "World's top-selling living artist for collabs (LV)."
+  },
+  {
+    "id": "takashi-murakami",
+    "name": "Takashi Murakami",
+    "type": "character",
+    "origin_country": "Japan",
+    "owner": "Kaikai Kiki (artist)",
+    "franchise": "",
+    "popularity_tier": "A",
+    "est_value_note": "Top art-brand crossover artist (Superflat flowers)",
+    "collab_examples": [
+      "Louis Vuitton x Murakami",
+      "Murakami x Supreme",
+      "Murakami x Vans"
+    ],
+    "note_fr": "Artiste roi des collabs (fleurs Superflat).",
+    "note_en": "Top art-brand crossover artist (Superflat flowers)."
+  },
+  {
+    "id": "mofusand",
+    "name": "Mofusand",
+    "type": "character",
+    "origin_country": "Japan",
+    "owner": "Mofusand (creator licensing)",
+    "franchise": "Mofusand",
+    "popularity_tier": "B",
+    "est_value_note": "Fast-rising kawaii cat IP across Asia",
+    "collab_examples": [
+      "Mofusand x 7-Eleven (Japan)"
+    ],
+    "note_fr": "IP chat kawaii en plein essor en Asie.",
+    "note_en": "Fast-rising kawaii cat IP across Asia."
+  },
+  {
+    "id": "digimon",
+    "name": "Digimon",
+    "type": "anime",
+    "origin_country": "Japan",
+    "owner": "Bandai Namco / Toei",
+    "franchise": "Digimon",
+    "popularity_tier": "B",
+    "est_value_note": "Long-running monster franchise; nostalgia value",
+    "collab_examples": [],
+    "note_fr": "Franchise monstres durable ; valeur nostalgie.",
+    "note_en": "Long-running monster franchise; nostalgia value."
+  },
+  {
+    "id": "yu-gi-oh",
+    "name": "Yu-Gi-Oh!",
+    "type": "anime",
+    "origin_country": "Japan",
+    "owner": "Konami / Shueisha",
+    "franchise": "Yu-Gi-Oh!",
+    "popularity_tier": "A",
+    "est_value_note": "Best-selling TCG; large global card market",
+    "collab_examples": [],
+    "note_fr": "JCC le plus vendu ; vaste marché cartes mondial.",
+    "note_en": "Best-selling TCG; large global card market."
+  },
+  {
+    "id": "crayola",
+    "name": "Crayola",
+    "type": "toy",
+    "origin_country": "United States",
+    "owner": "Crayola LLC",
+    "franchise": "Crayola",
+    "popularity_tier": "B",
+    "est_value_note": "Iconic kids' art brand; lifestyle licensing",
+    "collab_examples": [
+      "Crayola x ColourPop"
+    ],
+    "note_fr": "Marque art enfant iconique ; licence lifestyle.",
+    "note_en": "Iconic kids' art brand; lifestyle licensing."
+  },
+  {
+    "id": "sylvanian-families",
+    "name": "Sylvanian Families / Calico Critters",
+    "type": "toy",
+    "origin_country": "Japan",
+    "owner": "Epoch Co.",
+    "franchise": "Sylvanian Families",
+    "popularity_tier": "B",
+    "est_value_note": "Enduring collectible-toy brand; viral on social",
+    "collab_examples": [],
+    "note_fr": "Marque jouet collector durable ; virale sur les réseaux.",
+    "note_en": "Enduring collectible-toy brand; viral on social."
+  },
+  {
+    "id": "funko-pop",
+    "name": "Funko Pop!",
+    "type": "toy",
+    "origin_country": "United States",
+    "owner": "Funko Inc.",
+    "franchise": "Funko",
+    "popularity_tier": "A",
+    "est_value_note": "Master licensee turned IP; thousands of partners",
+    "collab_examples": [
+      "Funko Pop! x Disney",
+      "Funko Pop! x Marvel",
+      "Funko Pop! x NBA"
+    ],
+    "note_fr": "Licencie devenu IP ; des milliers de partenaires.",
+    "note_en": "Master licensee turned IP; thousands of partners."
+  },
+  {
+    "id": "mega-man",
+    "name": "Mega Man",
+    "type": "game",
+    "origin_country": "Japan",
+    "owner": "Capcom",
+    "franchise": "Mega Man",
+    "popularity_tier": "B",
+    "est_value_note": "Classic Capcom IP; retro collectibles value",
+    "collab_examples": [],
+    "note_fr": "IP Capcom classique ; valeur collectibles retro.",
+    "note_en": "Classic Capcom IP; retro collectibles value."
+  },
+  {
+    "id": "little-prince",
+    "name": "The Little Prince",
+    "type": "character",
+    "origin_country": "France",
+    "owner": "Saint-Exupery estate / LPP413",
+    "franchise": "Le Petit Prince",
+    "popularity_tier": "A",
+    "est_value_note": "Most-translated French book; broad gift licensing",
+    "collab_examples": [
+      "Le Petit Prince x Montblanc"
+    ],
+    "note_fr": "Livre francais le plus traduit ; licence cadeau large.",
+    "note_en": "Most-translated French book; broad gift licensing."
+  },
+  {
+    "id": "lucky-luke",
+    "name": "Lucky Luke",
+    "type": "comic",
+    "origin_country": "Belgium",
+    "owner": "Lucky Comics (Dargaud)",
+    "franchise": "Lucky Luke",
+    "popularity_tier": "B",
+    "est_value_note": "Classic Franco-Belgian comic; steady EU licensing",
+    "collab_examples": [],
+    "note_fr": "BD franco-belge classique ; licence européenne reguliere.",
+    "note_en": "Classic Franco-Belgian comic; steady EU licensing."
+  },
+  {
+    "id": "haikyu",
+    "name": "Haikyu!!",
+    "type": "anime",
+    "origin_country": "Japan",
+    "owner": "Shueisha / Production I.G",
+    "franchise": "Haikyu!!",
+    "popularity_tier": "A",
+    "est_value_note": "Top sports anime; record film, sportswear fit",
+    "collab_examples": [
+      "Haikyu!! sportswear tie-ins"
+    ],
+    "note_fr": "Top anime sportif ; film record, affinité sportswear.",
+    "note_en": "Top sports anime; record film, sportswear affinity."
+  },
+  {
+    "id": "chainsaw-man",
+    "name": "Chainsaw Man",
+    "type": "anime",
+    "origin_country": "Japan",
+    "owner": "Shueisha / MAPPA",
+    "franchise": "Chainsaw Man",
+    "popularity_tier": "A",
+    "est_value_note": "Hot modern shonen; strong streetwear demand",
+    "collab_examples": [
+      "Uniqlo UT Chainsaw Man"
+    ],
+    "note_fr": "Shonen moderne en vogue ; forte demande streetwear.",
+    "note_en": "Hot modern shonen; strong streetwear demand."
+  }
+]

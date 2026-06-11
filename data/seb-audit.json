@@ -1,0 +1,268 @@
+{
+  "group_brands": [
+    {
+      "name": "Tefal / T-fal",
+      "category": "cookware/small-appliance",
+      "est_followers_millions": 2.5,
+      "primary_platforms": [
+        "instagram",
+        "youtube",
+        "facebook"
+      ],
+      "presence_note_fr": "Marque phare, comptes par pays fragmentes ; contenu recette/produit correct mais peu de collabs créateurs marquantes.",
+      "presence_note_en": "Flagship brand, fragmented per-country accounts; decent recipe/product content but few standout creator collabs."
+    },
+    {
+      "name": "Moulinex",
+      "category": "small-appliance",
+      "est_followers_millions": 1.5,
+      "primary_platforms": [
+        "instagram",
+        "facebook",
+        "youtube"
+      ],
+      "presence_note_fr": "Forte en France/Europe Sud ; ton recette familiale, présence solide mais marketing d'influence limite.",
+      "presence_note_en": "Strong in France/Southern Europe; family-recipe tone, solid presence but limited influencer marketing."
+    },
+    {
+      "name": "Krups",
+      "category": "small-appliance",
+      "est_followers_millions": 0.7,
+      "primary_platforms": [
+        "instagram",
+        "youtube"
+      ],
+      "presence_note_fr": "Café/espresso au centre ; contenu produit propre, audience plus petite, peu d'UGC.",
+      "presence_note_en": "Coffee/espresso-centric; clean product content, smaller audience, little UGC."
+    },
+    {
+      "name": "Rowenta",
+      "category": "small-appliance",
+      "est_followers_millions": 0.8,
+      "primary_platforms": [
+        "instagram",
+        "youtube",
+        "facebook"
+      ],
+      "presence_note_fr": "Soin/repassage/air ; démos fonctionnelles, ton institutionnel, faible activation créateurs.",
+      "presence_note_en": "Care/ironing/air; functional demos, institutional tone, weak creator activation."
+    },
+    {
+      "name": "SEB",
+      "category": "small-appliance",
+      "est_followers_millions": 0.5,
+      "primary_platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "presence_note_fr": "Très centree France (Cookeo/cocotte) ; communauté fidèle recettes mais portée surtout nationale.",
+      "presence_note_en": "Very France-centric (Cookeo/pressure cooker); loyal recipe community but mostly national reach."
+    },
+    {
+      "name": "Calor",
+      "category": "small-appliance",
+      "est_followers_millions": 0.3,
+      "primary_platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "presence_note_fr": "Équivalent Rowenta en France ; présence modeste, contenu utilitaire repassage/soin.",
+      "presence_note_en": "Rowenta's France equivalent; modest presence, utilitarian ironing/care content."
+    },
+    {
+      "name": "All-Clad",
+      "category": "cookware",
+      "est_followers_millions": 0.4,
+      "primary_platforms": [
+        "instagram",
+        "youtube"
+      ],
+      "presence_note_fr": "Premium US, cible chefs/passionnes ; esthétique soignée, collabs culinaires ponctuelles, niche aspirationnelle.",
+      "presence_note_en": "US premium, targets chefs/enthusiasts; polished aesthetic, occasional culinary collabs, aspirational niche."
+    },
+    {
+      "name": "WMF",
+      "category": "cookware/small-appliance",
+      "est_followers_millions": 0.5,
+      "primary_platforms": [
+        "instagram",
+        "youtube",
+        "facebook"
+      ],
+      "presence_note_fr": "Premium Allemagne/DACH ; couverts/casseroles/café pro, ton haut de gamme, peu d'influence sociale.",
+      "presence_note_en": "Premium Germany/DACH; cutlery/cookware/pro coffee, upmarket tone, little social influence."
+    },
+    {
+      "name": "Lagostina",
+      "category": "cookware",
+      "est_followers_millions": 0.3,
+      "primary_platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "presence_note_fr": "Premium Italie, héritage inox ; contenu recettes ital., audience locale, activation créateurs faible.",
+      "presence_note_en": "Italian premium, steel heritage; Italian recipe content, local audience, weak creator activation."
+    },
+    {
+      "name": "Emsa",
+      "category": "kitchenware",
+      "est_followers_millions": 0.1,
+      "primary_platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "presence_note_fr": "Conservation/contenants, DACH ; très faible présence sociale et créateurs, marque utilitaire.",
+      "presence_note_en": "Storage/containers, DACH; very low social and creator presence, utilitarian brand."
+    },
+    {
+      "name": "Supor",
+      "category": "cookware/small-appliance",
+      "est_followers_millions": 3,
+      "primary_platforms": [
+        "douyin",
+        "xiaohongshu",
+        "weibo"
+      ],
+      "presence_note_fr": "Leader Chine ; très actif en livestream commerce et KOL Douyin/RED, modèle social-commerce le plus avance du groupe.",
+      "presence_note_en": "China leader; very active in livestream commerce and Douyin/RED KOLs, group's most advanced social-commerce model."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Philips (Versuni)",
+      "category": "small-appliance",
+      "est_followers_millions": 4,
+      "collab_intensity": "medium",
+      "note_fr": "Airfryer porte par UGC massif ; collabs recettes et ambassadeurs, présence digitale plus structuree que SEB.",
+      "note_en": "Airfryer driven by massive UGC; recipe collabs and ambassadors, more structured digital presence than SEB."
+    },
+    {
+      "name": "Ninja (SharkNinja)",
+      "category": "small-appliance",
+      "est_followers_millions": 5,
+      "collab_intensity": "high",
+      "note_fr": "Modèle social-first : 40% du budget en social, seeding créateurs pre-lancement, célébrités (Courteney Cox), viralité TikTok.",
+      "note_en": "Social-first model: 40% of budget in social, pre-launch creator seeding, celebrities (Courteney Cox), TikTok virality."
+    },
+    {
+      "name": "Instant Brands (Instant Pot)",
+      "category": "small-appliance",
+      "est_followers_millions": 3,
+      "collab_intensity": "high",
+      "note_fr": "Croissance batie sur communautés Facebook et recettes UGC ; armee d'ambassadeurs et groupes fans très engagés.",
+      "note_en": "Growth built on Facebook communities and UGC recipes; ambassador army and highly engaged fan groups."
+    },
+    {
+      "name": "Breville / Sage",
+      "category": "small-appliance",
+      "est_followers_millions": 1.5,
+      "collab_intensity": "medium",
+      "note_fr": "Premium café/cuisine ; collabs avec baristas et chefs, contenu aspirationnel et tutoriels experts.",
+      "note_en": "Premium coffee/cooking; collabs with baristas and chefs, aspirational content and expert tutorials."
+    },
+    {
+      "name": "KitchenAid (Whirlpool)",
+      "category": "small-appliance",
+      "est_followers_millions": 6,
+      "collab_intensity": "medium",
+      "note_fr": "Icone design (robot patissier) très instagrammable ; collabs couleurs/chefs, fort capital UGC organique.",
+      "note_en": "Design icon (stand mixer) highly Instagrammable; color/chef collabs, strong organic UGC equity."
+    },
+    {
+      "name": "Dyson",
+      "category": "small-appliance",
+      "est_followers_millions": 8,
+      "collab_intensity": "high",
+      "note_fr": "Beauté/soin capillaire via influenceurs et hairstylists ; lancements événementiels, très forte machine d'influence.",
+      "note_en": "Beauty/hair-care via influencers and hairstylists; event launches, very strong influence machine."
+    },
+    {
+      "name": "Xiaomi",
+      "category": "small-appliance",
+      "est_followers_millions": 12,
+      "collab_intensity": "high",
+      "note_fr": "Écosystème smart-home, communauté fans (Mi Fans) ; co-création, tech-influenceurs, social-commerce China fort.",
+      "note_en": "Smart-home ecosystem, fan community (Mi Fans); co-creation, tech influencers, strong China social-commerce."
+    },
+    {
+      "name": "Bosch / BSH",
+      "category": "small-appliance",
+      "est_followers_millions": 2,
+      "collab_intensity": "low",
+      "note_fr": "Image ingenierie/fiabilité ; présence institutionnelle, peu de créateurs, surtout publicité et SAV.",
+      "note_en": "Engineering/reliability image; institutional presence, few creators, mainly ads and support."
+    },
+    {
+      "name": "De'Longhi",
+      "category": "small-appliance",
+      "est_followers_millions": 1.5,
+      "collab_intensity": "medium",
+      "note_fr": "Café premium ; ambassadeurs (ex. Brad Pitt), collabs baristas et latte-art, contenu lifestyle café.",
+      "note_en": "Premium coffee; ambassadors (e.g. Brad Pitt), barista and latte-art collabs, coffee lifestyle content."
+    },
+    {
+      "name": "Smeg",
+      "category": "small-appliance",
+      "est_followers_millions": 2,
+      "collab_intensity": "high",
+      "note_fr": "Design retro ultra-instagrammable ; collabs mode/lifestyle (Dolce&Gabbana), très fort en UGC esthétique.",
+      "note_en": "Retro design ultra-Instagrammable; fashion/lifestyle collabs (Dolce&Gabbana), very strong aesthetic UGC."
+    },
+    {
+      "name": "Vitamix",
+      "category": "small-appliance",
+      "est_followers_millions": 1,
+      "collab_intensity": "medium",
+      "note_fr": "Blenders premium santé/wellness ; collabs nutritionnistes et chefs, communauté recettes engagée.",
+      "note_en": "Premium health/wellness blenders; nutritionist and chef collabs, engaged recipe community."
+    },
+    {
+      "name": "Nespresso",
+      "category": "small-appliance",
+      "est_followers_millions": 4,
+      "collab_intensity": "medium",
+      "note_fr": "Branding célébrité (Clooney) et lifestyle premium ; collabs durabilité, contenu café très soigné.",
+      "note_en": "Celebrity branding (Clooney) and premium lifestyle; sustainability collabs, very polished coffee content."
+    },
+    {
+      "name": "Cosori",
+      "category": "small-appliance",
+      "est_followers_millions": 1.5,
+      "collab_intensity": "high",
+      "note_fr": "DTC airfryer ne du social ; seeding créateurs et UGC recettes massif, croissance via TikTok/Instagram.",
+      "note_en": "DTC airfryer born from social; creator seeding and massive recipe UGC, growth via TikTok/Instagram."
+    },
+    {
+      "name": "Joyoung (China)",
+      "category": "small-appliance",
+      "est_followers_millions": 3,
+      "collab_intensity": "high",
+      "note_fr": "Concurrent Supor ; KOL top-tier (Li Jiaqi/Viya), livestream Singles Day a ~100M$, très actif Douyin/Kuaishou.",
+      "note_en": "Supor rival; top-tier KOLs (Li Jiaqi/Viya), ~$100M Singles Day livestream, very active on Douyin/Kuaishou."
+    },
+    {
+      "name": "Midea (China)",
+      "category": "small-appliance",
+      "est_followers_millions": 5,
+      "collab_intensity": "high",
+      "note_fr": "Géant électroménager ; gros budgets KOL et livestream commerce, écosystème social-commerce China mature.",
+      "note_en": "Appliance giant; large KOL budgets and livestream commerce, mature China social-commerce ecosystem."
+    }
+  ],
+  "gaps_fr": [
+    "Comptes fragmentes par pays/marque : pas de stratégie créateurs globale unifiee, dispersion de la portée.",
+    "Sous-investissement en marketing d'influence vs SharkNinja, Dyson ou Smeg (peu de seeding pre-lancement et d'ambassadeurs).",
+    "Contenu trop institutionnel/démo produit, peu d'UGC viral et de formats short-vidéo natifs (TikTok/Reels).",
+    "Faible exploitation du social-commerce hors Chine (TikTok Shop, Instagram Shopping) malgré l'avance de Supor en Chine.",
+    "Peu de collabs licences/design ou célébrités generant de la désirabilité (écart vs Smeg, Dyson, Nespresso).",
+    "Communautés de fans recettes sous-activees vs Instant Pot, alors que SEB/Tefal disposent d'un fort capital culinaire."
+  ],
+  "gaps_en": [
+    "Fragmented per-country/per-brand accounts: no unified global creator strategy, reach scattered.",
+    "Under-investment in influencer marketing vs SharkNinja, Dyson or Smeg (little pre-launch seeding and ambassadors).",
+    "Content too institutional/product-demo, little viral UGC and native short-video formats (TikTok/Reels).",
+    "Weak social-commerce outside China (TikTok Shop, Instagram Shopping) despite Supor's China lead.",
+    "Few licensing/design or celebrity collabs driving desirability (gap vs Smeg, Dyson, Nespresso).",
+    "Recipe fan communities under-activated vs Instant Pot, despite SEB/Tefal's strong culinary equity."
+  ]
+}

@@ -1,0 +1,266 @@
+[
+  {
+    "term": "Creator Economy",
+    "cat": "general",
+    "def_fr": "Écosystème économique où des individus (créateurs) monétisent leur audience et leur contenu via plateformes, marques et produits propres. Pese plus de 250 Mds$ et devrait dépasser 500 Mds$ d'ici 2027.",
+    "def_en": "The economic ecosystem where individuals (creators) monetize their audience and content via platforms, brands and their own products. Valued at $250B+, projected to exceed $500B by 2027."
+  },
+  {
+    "term": "KOL (Key Opinion Leader)",
+    "cat": "acteurs",
+    "def_fr": "Terme surtout asiatique pour un influenceur à forte autorité sur une catégorie. En Chine, les KOL pilotent l'essentiel du livestream commerce.",
+    "def_en": "Mostly-Asian term for an influencer with strong category authority. In China, KOLs drive most livestream commerce."
+  },
+  {
+    "term": "KOC (Key Opinion Consumer)",
+    "cat": "acteurs",
+    "def_fr": "Micro-créateur/consommateur ordinaire dont l'avis paraît plus authentique qu'un KOL. Très utilise en seeding produit en Chine.",
+    "def_en": "A micro-creator/everyday consumer whose opinion feels more authentic than a KOL's. Heavily used in product seeding in China."
+  },
+  {
+    "term": "UGC (User-Generated Content)",
+    "cat": "contenu",
+    "def_fr": "Contenu créé par les utilisateurs/clients eux-mêmes. Levier d'authenticité et de portée à faible coût, central pour l'électroménager (recettes, démos).",
+    "def_en": "Content created by users/customers themselves. A low-cost authenticity and reach lever, central to appliances (recipes, demos)."
+  },
+  {
+    "term": "Co-branding",
+    "cat": "leviers",
+    "def_fr": "Deux marques créent ensemble un produit/une campagne co-signé(e) pour additionner leurs audiences et imaginaires (ex. Coca-Cola x Oreo).",
+    "def_en": "Two brands jointly create a co-signed product/campaign to combine audiences and brand worlds (e.g. Coca-Cola x Oreo)."
+  },
+  {
+    "term": "Licensing (Licence)",
+    "cat": "leviers",
+    "def_fr": "Une marque paie des royalties pour exploiter une IP (personnage, film, jeu) sur ses produits (ex. Le Creuset x Pokemon).",
+    "def_en": "A brand pays royalties to use an IP (character, film, game) on its products (e.g. Le Creuset x Pokemon)."
+  },
+  {
+    "term": "IP (Intellectual Property)",
+    "cat": "general",
+    "def_fr": "Propriété intellectuelle : personnage, univers, franchise exploitable sous licence (Disney, Pokemon, Hello Kitty...).",
+    "def_en": "Intellectual property: a character, world or franchise licensable to brands (Disney, Pokemon, Hello Kitty...)."
+  },
+  {
+    "term": "Sponsoring / Sponsorship",
+    "cat": "business-model",
+    "def_fr": "La marque finance un créateur, une chaine ou un événement en échange de visibilité, sans nécessairement co-créer le contenu.",
+    "def_en": "The brand funds a creator, channel or event in exchange for visibility, without necessarily co-creating content."
+  },
+  {
+    "term": "Placement de produit",
+    "cat": "leviers",
+    "def_fr": "Intégration d'un produit dans un contenu existant (vidéo, live), du simple name-dropping à la démo complète.",
+    "def_en": "Integrating a product into existing content (video, live), from simple name-dropping to a full demo."
+  },
+  {
+    "term": "Affiliation",
+    "cat": "business-model",
+    "def_fr": "Le créateur touche une commission sur chaque vente générée via son lien/code unique. Modèle à la performance.",
+    "def_en": "The creator earns a commission on each sale via their unique link/code. A performance-based model."
+  },
+  {
+    "term": "Royalties",
+    "cat": "business-model",
+    "def_fr": "Pourcentage des ventes versé au détenteur d'une IP ou au créateur co-signataire (ex. Air Jordan, Yeezy).",
+    "def_en": "A percentage of sales paid to an IP holder or co-signing creator (e.g. Air Jordan, Yeezy)."
+  },
+  {
+    "term": "Fixed fee / Flat fee",
+    "cat": "business-model",
+    "def_fr": "Montant forfaitaire payé au créateur pour une prestation définie, indépendamment des résultats.",
+    "def_en": "A flat amount paid to the creator for a defined deliverable, regardless of results."
+  },
+  {
+    "term": "CPM (Cout pour mille)",
+    "cat": "metriques",
+    "def_fr": "Coût pour 1 000 impressions/vues. Base de tarification fréquente du sponsoring vidéo (cf. NordVPN).",
+    "def_en": "Cost per 1,000 impressions/views. A common pricing basis for video sponsorships (cf. NordVPN)."
+  },
+  {
+    "term": "Engagement rate",
+    "cat": "metriques",
+    "def_fr": "Taux d'interactions (likes, commentaires, partages) rapporté à l'audience. Souvent plus révélateur que le nombre d'abonnés.",
+    "def_en": "Interaction rate (likes, comments, shares) relative to audience. Often more telling than follower count."
+  },
+  {
+    "term": "Reach / Portee",
+    "cat": "metriques",
+    "def_fr": "Nombre de personnes uniques exposées a un contenu. À distinguer des impressions (expositions totales).",
+    "def_en": "Number of unique people exposed to a piece of content. Distinct from impressions (total exposures)."
+  },
+  {
+    "term": "EMV (Earned Media Value)",
+    "cat": "metriques",
+    "def_fr": "Valeur estimée de la couverture organique obtenue, convertie en équivalent achat média. Mesure imparfaite mais courante du ROI influence.",
+    "def_en": "Estimated value of earned organic coverage, converted into a paid-media equivalent. An imperfect but common influence-ROI metric."
+  },
+  {
+    "term": "Top of mind",
+    "cat": "strategie",
+    "def_fr": "Être la première marque qui vient à l'esprit dans une catégorie. Objectif clé des campagnes de notoriété.",
+    "def_en": "Being the first brand that comes to mind in a category. A key goal of awareness campaigns."
+  },
+  {
+    "term": "Cible de conquete",
+    "cat": "strategie",
+    "def_fr": "Audience que la marque ne touche pas encore et cherche a acquérir (souvent plus jeune que sa base actuelle).",
+    "def_en": "An audience the brand doesn't yet reach and seeks to acquire (often younger than its current base)."
+  },
+  {
+    "term": "Social commerce",
+    "cat": "plateformes",
+    "def_fr": "Achat directement intégré dans la plateforme sociale (TikTok Shop, Douyin, Instagram Shopping). Coeur du modèle chinois.",
+    "def_en": "Purchase embedded directly in the social platform (TikTok Shop, Douyin, Instagram Shopping). The heart of the China model."
+  },
+  {
+    "term": "Livestream commerce",
+    "cat": "plateformes",
+    "def_fr": "Vente en direct où un hôte présente et vend des produits en temps réel. Domine le e-commerce chinois (Douyin, Taobao Live).",
+    "def_en": "Live selling where a host showcases and sells products in real time. Dominates Chinese e-commerce (Douyin, Taobao Live)."
+  },
+  {
+    "term": "Seeding",
+    "cat": "strategie",
+    "def_fr": "Envoi gratuit de produits a de nombreux créateurs pour déclencher du contenu organique avant/pendant un lancement.",
+    "def_en": "Sending free products to many creators to trigger organic content before/during a launch."
+  },
+  {
+    "term": "Drop",
+    "cat": "strategie",
+    "def_fr": "Lancement limite et date d'un produit, créant rareté et urgence (logique sneakers/streetwear).",
+    "def_en": "A limited, dated product launch creating scarcity and urgency (sneaker/streetwear logic)."
+  },
+  {
+    "term": "Brand ambassador / Egerie",
+    "cat": "acteurs",
+    "def_fr": "Créateur ou célébrité engagé(e) dans la durée pour incarner la marque, au-dela d'une campagne ponctuelle.",
+    "def_en": "A creator or celebrity engaged long-term to embody the brand, beyond a one-off campaign."
+  },
+  {
+    "term": "Micro-influenceur",
+    "cat": "acteurs",
+    "def_fr": "Créateur de 10k a 100k abonnés, souvent très engagé sur une niche ; meilleur ROI rapporté au coût dans bien des cas.",
+    "def_en": "A creator with 10k-100k followers, often highly engaged in a niche; frequently better cost-adjusted ROI."
+  },
+  {
+    "term": "Nano-influenceur",
+    "cat": "acteurs",
+    "def_fr": "Créateur de moins de 10k abonnés, ultra-proche de sa communauté, ideal pour le KOC/seeding à grande echelle.",
+    "def_en": "A creator under 10k followers, ultra-close to their community, ideal for KOC/large-scale seeding."
+  },
+  {
+    "term": "Co-creation",
+    "cat": "leviers",
+    "def_fr": "Créateur et marque concoivent ensemble un produit (pas seulement une promo) ; le créateur a un role éditorial réel.",
+    "def_en": "Creator and brand jointly design a product (not just a promo); the creator has a real editorial role."
+  },
+  {
+    "term": "Creator brand / Marque de createur",
+    "cat": "business-model",
+    "def_fr": "Marque fondée et détenue par un créateur, monetisant directement son audience (Feastables, Prime, Chamberlain Coffee).",
+    "def_en": "A brand founded and owned by a creator, monetizing their audience directly (Feastables, Prime, Chamberlain Coffee)."
+  },
+  {
+    "term": "Whitelisting / Partenariat publicitaire",
+    "cat": "strategie",
+    "def_fr": "La marque diffusé en publicité payante le contenu poste depuis le compte du créateur, pour gagner en authenticité.",
+    "def_en": "The brand runs paid ads from the creator's own account/handle to gain authenticity."
+  },
+  {
+    "term": "Disclosure / Mention legale",
+    "cat": "legal",
+    "def_fr": "Obligation de signaler une collaboration commerciale (#ad, #sponsorise). Règles variables : strictes en UE/UK/US, en durcissement en Chine.",
+    "def_en": "The duty to flag a commercial partnership (#ad, #sponsored). Rules vary: strict in EU/UK/US, tightening in China."
+  },
+  {
+    "term": "Brand safety",
+    "cat": "legal",
+    "def_fr": "Maîtrise du risque reputationnel lie au comportement d'un créateur ou au contexte de diffusion.",
+    "def_en": "Managing reputational risk tied to a creator's behavior or the publishing context."
+  },
+  {
+    "term": "Brand lift",
+    "cat": "metriques",
+    "def_fr": "Hausse mesuree de notoriété, consideration ou intention d'achat attribuable a une campagne.",
+    "def_en": "Measured uplift in awareness, consideration or purchase intent attributable to a campaign."
+  },
+  {
+    "term": "Conversion",
+    "cat": "metriques",
+    "def_fr": "Passage d'une exposition a une action concrete (clic, ajout panier, achat). Clé pour relier influence et ventes.",
+    "def_en": "Moving from exposure to a concrete action (click, add-to-cart, purchase). Key to linking influence and sales."
+  },
+  {
+    "term": "Fandom",
+    "cat": "general",
+    "def_fr": "Communauté de fans très engagée autour d'une marque, IP ou créateur ; moteur de viralité et de defense de marque.",
+    "def_en": "A highly engaged fan community around a brand, IP or creator; an engine of virality and brand advocacy."
+  },
+  {
+    "term": "Parasocial (relation)",
+    "cat": "general",
+    "def_fr": "Lien de proximite percu par l'audience envers un créateur, qui transfere sa confiance aux marques recommandees.",
+    "def_en": "The sense of closeness an audience feels toward a creator, transferring trust to the brands they recommend."
+  },
+  {
+    "term": "Always-on vs campagne",
+    "cat": "strategie",
+    "def_fr": "Présence créateurs continue (always-on) versus activation ponctuelle autour d'un temps fort.",
+    "def_en": "Continuous creator presence (always-on) versus a one-off activation around a key moment."
+  },
+  {
+    "term": "Earned / Owned / Paid media",
+    "cat": "strategie",
+    "def_fr": "Média gagne (organique), possede (vos canaux) et payé (publicité). La creator economy brouille les trois.",
+    "def_en": "Earned (organic), owned (your channels) and paid (advertising) media. The creator economy blurs all three."
+  },
+  {
+    "term": "MCN (Multi-Channel Network)",
+    "cat": "acteurs",
+    "def_fr": "Réseau/agence qui gère et monétisé un portefeuille de créateurs (ex. UUUM au Japon). Intermediaire clé en Asie.",
+    "def_en": "A network/agency managing and monetizing a roster of creators (e.g. UUUM in Japan). A key Asian intermediary."
+  },
+  {
+    "term": "Talent agency / Agence",
+    "cat": "acteurs",
+    "def_fr": "Structure qui represente les créateurs auprès des marques, négocié et produit les campagnes.",
+    "def_en": "A structure representing creators to brands, negotiating and producing campaigns."
+  },
+  {
+    "term": "Brand house / Media house",
+    "cat": "strategie",
+    "def_fr": "La marque devient editeur de contenu a part entière (Red Bull Média House) plutot qu'annonceur.",
+    "def_en": "The brand becomes a full content publisher (Red Bull Media House) rather than an advertiser."
+  },
+  {
+    "term": "Halo effect",
+    "cat": "strategie",
+    "def_fr": "Transfert d'image positif d'un partenaire prestigieux vers la marque (ex. Crocs x Balenciaga).",
+    "def_en": "Positive image transfer from a prestigious partner to the brand (e.g. Crocs x Balenciaga)."
+  },
+  {
+    "term": "Blind box",
+    "cat": "general",
+    "def_fr": "Produit collector vendu sans en connaitre le contenu exact, moteur de re-achat et de viralité (Pop Mart, Labubu).",
+    "def_en": "A collectible sold without knowing its exact contents, driving repeat purchase and virality (Pop Mart, Labubu)."
+  },
+  {
+    "term": "Gifting",
+    "cat": "strategie",
+    "def_fr": "Envoi de cadeaux produits a des créateurs sans contrat, dans l'espoir d'un post spontane (forme legere de seeding).",
+    "def_en": "Sending product gifts to creators without a contract, hoping for a spontaneous post (a light form of seeding)."
+  },
+  {
+    "term": "Whitespace / Espace d'expression",
+    "cat": "strategie",
+    "def_fr": "Territoire créatif laisse au créateur, hors de la DA habituelle de la marque, pour gagner en pertinence et en fraicheur.",
+    "def_en": "Creative latitude left to the creator, outside the brand's usual art direction, to gain relevance and freshness."
+  },
+  {
+    "term": "Authenticite",
+    "cat": "general",
+    "def_fr": "Coherence percue entre le créateur, le produit et le message. Premier facteur de performance d'une collaboration.",
+    "def_en": "Perceived coherence between creator, product and message. The first driver of a collaboration's performance."
+  }
+]

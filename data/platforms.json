@@ -1,0 +1,246 @@
+[
+  {
+    "id": "youtube",
+    "name": "YouTube",
+    "region": "Global",
+    "mau_millions": 2500,
+    "favored_formats": [
+      "long-video",
+      "short-video",
+      "live"
+    ],
+    "commerce_features": true,
+    "note_fr": "Roi du tuto recettes/entretien ; Shorts + affiliation Shopping ; SEO durable, contenu evergreen pour appareils.",
+    "note_en": "King of recipe/care tutorials; Shorts + Shopping affiliation; durable SEO, evergreen content for appliances."
+  },
+  {
+    "id": "tiktok",
+    "name": "TikTok",
+    "region": "Global",
+    "mau_millions": 1600,
+    "favored_formats": [
+      "short-video",
+      "live",
+      "social-commerce"
+    ],
+    "commerce_features": true,
+    "note_fr": "Moteur de viralité #1 pour le petit électroménager (cf. SharkNinja) ; TikTok Shop + seeding créateurs.",
+    "note_en": "#1 virality engine for small appliances (see SharkNinja); TikTok Shop + creator seeding."
+  },
+  {
+    "id": "instagram",
+    "name": "Instagram",
+    "region": "Global",
+    "mau_millions": 2000,
+    "favored_formats": [
+      "photo",
+      "short-video",
+      "stories",
+      "social-commerce"
+    ],
+    "commerce_features": true,
+    "note_fr": "Clé pour food/lifestyle, Reels et collabs influenceurs ; vitrine esthétique produits cuisine.",
+    "note_en": "Key for food/lifestyle, Reels and influencer collabs; aesthetic showcase for kitchen products."
+  },
+  {
+    "id": "facebook",
+    "name": "Facebook",
+    "region": "Global",
+    "mau_millions": 3000,
+    "favored_formats": [
+      "photo",
+      "short-video",
+      "live",
+      "social-commerce"
+    ],
+    "commerce_features": true,
+    "note_fr": "Audience 35+ et SAV/communautés ; portée organique faible, surtout publicité ciblée et groupes.",
+    "note_en": "35+ audience and support/communities; weak organic reach, mainly targeted ads and groups."
+  },
+  {
+    "id": "snapchat",
+    "name": "Snapchat",
+    "region": "Western",
+    "mau_millions": 850,
+    "favored_formats": [
+      "short-video",
+      "stories"
+    ],
+    "commerce_features": false,
+    "note_fr": "Cible Gen Z, AR/lenses ; peu adapte au gros catalogue, utile pour notoriété jeune.",
+    "note_en": "Gen Z target, AR/lenses; ill-suited to large catalog, useful for young awareness."
+  },
+  {
+    "id": "twitch",
+    "name": "Twitch",
+    "region": "Western",
+    "mau_millions": 240,
+    "favored_formats": [
+      "live",
+      "long-video"
+    ],
+    "commerce_features": false,
+    "note_fr": "Gaming domine ; niche cuisine en direct émergente, sponsoring d'événements possible.",
+    "note_en": "Gaming-dominated; emerging live-cooking niche, event sponsoring possible."
+  },
+  {
+    "id": "kick",
+    "name": "Kick",
+    "region": "Western",
+    "mau_millions": 60,
+    "favored_formats": [
+      "live"
+    ],
+    "commerce_features": false,
+    "note_fr": "Challenger streaming, splits créateurs genereux ; très marginal pour l'électroménager.",
+    "note_en": "Streaming challenger, generous creator splits; very marginal for appliances."
+  },
+  {
+    "id": "pinterest",
+    "name": "Pinterest",
+    "region": "Western",
+    "mau_millions": 550,
+    "favored_formats": [
+      "photo",
+      "short-video"
+    ],
+    "commerce_features": true,
+    "note_fr": "Intentions d'achat cuisine/maison fortes ; epingles produits + recettes, trafic e-commerce.",
+    "note_en": "Strong kitchen/home purchase intent; product pins + recipes, e-commerce traffic."
+  },
+  {
+    "id": "x",
+    "name": "X (Twitter)",
+    "region": "Western",
+    "mau_millions": 600,
+    "favored_formats": [
+      "photo",
+      "short-video"
+    ],
+    "commerce_features": false,
+    "note_fr": "Temps réel/SAV et veille ; faible pour la démo produit, utile en gestion de réputation.",
+    "note_en": "Real-time/support and monitoring; weak for product demo, useful for reputation."
+  },
+  {
+    "id": "douyin",
+    "name": "Douyin",
+    "region": "Greater China",
+    "mau_millions": 786,
+    "favored_formats": [
+      "short-video",
+      "live",
+      "social-commerce"
+    ],
+    "commerce_features": true,
+    "note_fr": "TikTok chinois ; livestream commerce dominant pour le petit électroménager (Supor y est clé).",
+    "note_en": "Chinese TikTok; dominant livestream commerce for small appliances (Supor key here)."
+  },
+  {
+    "id": "xiaohongshu",
+    "name": "Xiaohongshu / RED",
+    "region": "Greater China",
+    "mau_millions": 350,
+    "favored_formats": [
+      "photo",
+      "short-video",
+      "social-commerce"
+    ],
+    "commerce_features": true,
+    "note_fr": "Instagram chinois oriente lifestyle/recos produits ; incontournable pour KOL cuisine/maison.",
+    "note_en": "Chinese Instagram, lifestyle/product-rec oriented; essential for kitchen/home KOLs."
+  },
+  {
+    "id": "bilibili",
+    "name": "Bilibili",
+    "region": "Greater China",
+    "mau_millions": 350,
+    "favored_formats": [
+      "long-video",
+      "live"
+    ],
+    "commerce_features": true,
+    "note_fr": "Format long type YouTube, Gen Z ; tests/reviews approfondis d'appareils, fidélité forte.",
+    "note_en": "Long-form YouTube-style, Gen Z; in-depth appliance tests/reviews, strong loyalty."
+  },
+  {
+    "id": "weibo",
+    "name": "Weibo",
+    "region": "Greater China",
+    "mau_millions": 590,
+    "favored_formats": [
+      "photo",
+      "short-video"
+    ],
+    "commerce_features": true,
+    "note_fr": "Microblog pour campagnes de masse et célébrités/KOL ; bon pour buzz et lancements.",
+    "note_en": "Microblog for mass campaigns and celebrity/KOLs; good for buzz and launches."
+  },
+  {
+    "id": "kuaishou",
+    "name": "Kuaishou",
+    "region": "Greater China",
+    "mau_millions": 712,
+    "favored_formats": [
+      "short-video",
+      "live",
+      "social-commerce"
+    ],
+    "commerce_features": true,
+    "note_fr": "Forte pénétration villes 3-4 et zones rurales ; livestream commerce à prix accessibles.",
+    "note_en": "Strong tier 3-4 city and rural penetration; affordable-price livestream commerce."
+  },
+  {
+    "id": "wechat",
+    "name": "WeChat",
+    "region": "Greater China",
+    "mau_millions": 1350,
+    "favored_formats": [
+      "photo",
+      "short-video",
+      "social-commerce"
+    ],
+    "commerce_features": true,
+    "note_fr": "Super-app : CRM, mini-programmes boutique, Channels vidéo ; coeur de l'écosystème China.",
+    "note_en": "Super-app: CRM, mini-program shops, video Channels; core of the China ecosystem."
+  },
+  {
+    "id": "line",
+    "name": "LINE",
+    "region": "Asia",
+    "mau_millions": 200,
+    "favored_formats": [
+      "photo",
+      "social-commerce"
+    ],
+    "commerce_features": true,
+    "note_fr": "Messagerie dominante Japon/Thailande/Taiwan ; CRM et coupons, peu de contenu créateur.",
+    "note_en": "Dominant messaging in Japan/Thailand/Taiwan; CRM and coupons, little creator content."
+  },
+  {
+    "id": "kakaotalk",
+    "name": "KakaoTalk",
+    "region": "Asia",
+    "mau_millions": 49,
+    "favored_formats": [
+      "photo",
+      "social-commerce"
+    ],
+    "commerce_features": true,
+    "note_fr": "Quasi-monopole messagerie Coree du Sud ; gifting et commerce, canal CRM clé local.",
+    "note_en": "Near-monopoly messaging in South Korea; gifting and commerce, key local CRM channel."
+  },
+  {
+    "id": "naver",
+    "name": "Naver",
+    "region": "Asia",
+    "mau_millions": 42,
+    "favored_formats": [
+      "long-video",
+      "photo",
+      "social-commerce"
+    ],
+    "commerce_features": true,
+    "note_fr": "Portail/recherche + blogs Coree ; reviews produits et Naver Shopping, fort en SEO local.",
+    "note_en": "Korea portal/search + blogs; product reviews and Naver Shopping, strong local SEO."
+  }
+]

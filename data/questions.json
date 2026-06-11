@@ -1,0 +1,87 @@
+[
+  {
+    "id": "d1", "type": "discussion", "section": "intro",
+    "q_fr": "Quel combo influenceur × marque vous a inspiré — ou incité à acheter ?",
+    "q_en": "Which influencer × brand combo inspired you — or made you buy?",
+    "prompts_fr": [
+      "Un achat récent déclenché par un créateur que vous suivez ?",
+      "Qu'est-ce qui a fait la différence : la démo, la confiance, la rareté, le prix ?",
+      "Était-ce un megastar ou un petit créateur très niche ?"
+    ],
+    "prompts_en": [
+      "A recent purchase triggered by a creator you follow?",
+      "What made the difference: the demo, trust, scarcity, price?",
+      "Was it a megastar or a small, very niche creator?"
+    ],
+    "insight_fr": "À écouter : ce ne sont presque jamais les chiffres d'abonnés qui décident, mais l'authenticité et le bon moment. Faites ressortir la diversité des déclencheurs dans la salle.",
+    "insight_en": "Listen for: it's almost never follower count that decides, but authenticity and timing. Surface the diversity of triggers in the room."
+  },
+  {
+    "id": "d2", "type": "discussion", "section": "exemples",
+    "q_fr": "Quelle collaboration vous a — vous ou votre entourage — fait changer d'avis ou redécouvrir une marque ?",
+    "q_en": "Which collaboration made you (or someone close) change your mind or rediscover a brand?",
+    "prompts_fr": [
+      "Une marque que vous trouviez 'pas pour moi' et qui vous a reconquis ?",
+      "Une licence ou un créateur qui a rajeuni l'image d'une marque ?",
+      "À l'inverse : une collab qui a sonné faux. Pourquoi ?"
+    ],
+    "prompts_en": [
+      "A brand you thought 'not for me' that won you back?",
+      "A license or creator that rejuvenated a brand's image?",
+      "Conversely: a collab that rang false. Why?"
+    ],
+    "insight_fr": "À écouter : la collaboration peut repositionner une marque (cf. Crocs, Smeg). Le 'faux' vient presque toujours d'un manque de fit créateur/marque/audience.",
+    "insight_en": "Listen for: collaboration can reposition a brand (cf. Crocs, Smeg). 'Falseness' almost always comes from poor creator/brand/audience fit."
+  },
+  {
+    "id": "d3", "type": "discussion", "section": "parties-prenantes",
+    "q_fr": "Dans quelles communautés / quels influenceurs êtes-vous ? Et vos clients ? Et les créateurs des marques présentes ?",
+    "q_en": "Which communities / influencers are you part of? And your customers? And the creators of the brands present?",
+    "prompts_fr": [
+      "Listez 2-3 créateurs que vous suivez personnellement.",
+      "Vos clients sont-ils dans les mêmes ? Sinon, où sont-ils ?",
+      "Qui parle déjà de votre marque (ou de vos concurrents) sans contrat ?"
+    ],
+    "prompts_en": [
+      "List 2-3 creators you personally follow.",
+      "Are your customers in the same spaces? If not, where are they?",
+      "Who already talks about your brand (or competitors') with no contract?"
+    ],
+    "insight_fr": "À écouter : l'écart entre 'qui je suis' et 'qui suit mes clients' est souvent grand. Les créateurs déjà fans (earned) sont le point de départ le plus rentable.",
+    "insight_en": "Listen for: the gap between 'who I follow' and 'who my customers follow' is often large. Already-fan creators (earned) are the cheapest starting point."
+  },
+  {
+    "id": "d4", "type": "discussion", "section": "audit-seb",
+    "q_fr": "Qui sont les acteurs et créateurs de référence dans votre catégorie — et chez vos concurrents ?",
+    "q_en": "Who are the reference players and creators in your category — and at your competitors'?",
+    "prompts_fr": [
+      "Citez le concurrent le plus avancé en créateurs. Que fait-il de mieux ?",
+      "Quels créateurs food/maison/tech comptent dans votre univers ?",
+      "Quelle plateforme domine vraiment vos acheteurs (TikTok, YouTube, Douyin… ) ?"
+    ],
+    "prompts_en": [
+      "Name the competitor most advanced in creators. What do they do better?",
+      "Which food/home/tech creators matter in your space?",
+      "Which platform truly dominates your buyers (TikTok, YouTube, Douyin…)?"
+    ],
+    "insight_fr": "À relier à l'audit SEB : SharkNinja, Dyson, Smeg, Instant Pot, Supor. Servez-vous de l'explorateur de données pour nommer des créateurs concrets.",
+    "insight_en": "Tie back to the SEB audit: SharkNinja, Dyson, Smeg, Instant Pot, Supor. Use the data explorer to name concrete creators."
+  },
+  {
+    "id": "d5", "type": "discussion", "section": "playbook",
+    "q_fr": "Pour VOTRE marque : quel premier levier activeriez-vous demain — et avec quel créateur ou communauté ?",
+    "q_en": "For YOUR brand: which first lever would you activate tomorrow — and with which creator or community?",
+    "prompts_fr": [
+      "Un objectif unique : notoriété, conquête, top of mind ou promo ?",
+      "Le levier (parmi les 8) et un créateur/communauté précis.",
+      "Comment vous sauriez, en 90 jours, que ça a marché ?"
+    ],
+    "prompts_en": [
+      "One single objective: awareness, conquest, top of mind or promo?",
+      "The lever (of the 8) and one precise creator/community.",
+      "How would you know, in 90 days, that it worked?"
+    ],
+    "insight_fr": "Question de clôture : transformez les idées en mini-pilotes. Notez 2-3 engagements concrets de la salle pour la suite (pilote, mesure, budget test).",
+    "insight_en": "Closing question: turn ideas into mini-pilots. Capture 2-3 concrete commitments from the room for next steps (pilot, measurement, test budget)."
+  }
+]

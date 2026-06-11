@@ -1,0 +1,1125 @@
+[
+  {
+    "id": "bruno-mars",
+    "name": "Bruno Mars",
+    "country": "United States",
+    "genre": "pop",
+    "est_monthly_listeners_millions": 135,
+    "est_social_followers_millions": 150,
+    "notable_brand_partnerships": [
+      "Disney",
+      "SelvaRey Rum"
+    ],
+    "note_fr": "No1 mondial en auditeurs mensuels Spotify, pop crossover ultra-grand public.",
+    "note_en": "World No.1 in Spotify monthly listeners, ultra-mainstream crossover pop."
+  },
+  {
+    "id": "the-weeknd",
+    "name": "The Weeknd",
+    "country": "Canada",
+    "genre": "rnb",
+    "est_monthly_listeners_millions": 110,
+    "est_social_followers_millions": 120,
+    "notable_brand_partnerships": [
+      "Puma",
+      "H&M",
+      "Mercedes-Benz"
+    ],
+    "note_fr": "Superstar R&B/pop, audience mondiale massive et image cinématographique.",
+    "note_en": "R&B/pop superstar with massive global reach and a cinematic image."
+  },
+  {
+    "id": "taylor-swift",
+    "name": "Taylor Swift",
+    "country": "United States",
+    "genre": "pop",
+    "est_monthly_listeners_millions": 100,
+    "est_social_followers_millions": 420,
+    "notable_brand_partnerships": [
+      "Capital One",
+      "Apple Music"
+    ],
+    "note_fr": "Artiste la plus streamée de l'histoire Spotify, fanbase et pouvoir culturel uniques.",
+    "note_en": "Most-streamed artist in Spotify history with unmatched fanbase and cultural power."
+  },
+  {
+    "id": "bad-bunny",
+    "name": "Bad Bunny",
+    "country": "Puerto Rico",
+    "genre": "latin",
+    "est_monthly_listeners_millions": 85,
+    "est_social_followers_millions": 110,
+    "notable_brand_partnerships": [
+      "Adidas",
+      "Cheetos",
+      "Corona"
+    ],
+    "note_fr": "Roi du reggaeton, 1re chaussure signature Adidas pour un artiste latino.",
+    "note_en": "Reggaeton king; first Latin artist with an Adidas signature shoe."
+  },
+  {
+    "id": "justin-bieber",
+    "name": "Justin Bieber",
+    "country": "Canada",
+    "genre": "pop",
+    "est_monthly_listeners_millions": 85,
+    "est_social_followers_millions": 300,
+    "notable_brand_partnerships": [
+      "Calvin Klein",
+      "Crocs",
+      "Tim Hortons"
+    ],
+    "note_fr": "Star pop globale, énorme audience sociale et historique de deals lifestyle.",
+    "note_en": "Global pop star with huge social reach and a long lifestyle-deal history."
+  },
+  {
+    "id": "rihanna",
+    "name": "Rihanna",
+    "country": "Barbados",
+    "genre": "rnb",
+    "est_monthly_listeners_millions": 80,
+    "est_social_followers_millions": 280,
+    "notable_brand_partnerships": [
+      "Fenty Beauty",
+      "Savage X Fenty",
+      "Puma"
+    ],
+    "note_fr": "Icone pop/R&B devenue magnat beauté/mode (Fenty), modèle artiste-entrepreneure.",
+    "note_en": "Pop/R&B icon turned beauty/fashion mogul (Fenty); artist-founder benchmark."
+  },
+  {
+    "id": "drake",
+    "name": "Drake",
+    "country": "Canada",
+    "genre": "hip-hop",
+    "est_monthly_listeners_millions": 75,
+    "est_social_followers_millions": 150,
+    "notable_brand_partnerships": [
+      "Nike (NOCTA)",
+      "Virginia Black"
+    ],
+    "note_fr": "Rappeur le plus streamé tous temps avec Nike NOCTA et empire OVO.",
+    "note_en": "Among most-streamed rappers ever; Nike NOCTA line and OVO empire."
+  },
+  {
+    "id": "lady-gaga",
+    "name": "Lady Gaga",
+    "country": "United States",
+    "genre": "pop",
+    "est_monthly_listeners_millions": 75,
+    "est_social_followers_millions": 140,
+    "notable_brand_partnerships": [
+      "Haus Labs",
+      "Dom Perignon",
+      "Tudor"
+    ],
+    "note_fr": "Pop avant-gardiste, marque beauté Haus Labs et forte image luxe.",
+    "note_en": "Avant-garde pop with Haus Labs beauty brand and strong luxury image."
+  },
+  {
+    "id": "billie-eilish",
+    "name": "Billie Eilish",
+    "country": "United States",
+    "genre": "pop",
+    "est_monthly_listeners_millions": 70,
+    "est_social_followers_millions": 130,
+    "notable_brand_partnerships": [
+      "Nike",
+      "Gucci"
+    ],
+    "note_fr": "Voix Gen Z, esthétique forte et valeurs durables prisées des marques.",
+    "note_en": "Gen Z voice with strong aesthetic and sustainability values brands court."
+  },
+  {
+    "id": "ariana-grande",
+    "name": "Ariana Grande",
+    "country": "United States",
+    "genre": "pop",
+    "est_monthly_listeners_millions": 70,
+    "est_social_followers_millions": 380,
+    "notable_brand_partnerships": [
+      "r.e.m. beauty",
+      "Givenchy",
+      "Reebok"
+    ],
+    "note_fr": "Pop A-list, l'une des plus grandes audiences Instagram, marque r.e.m. beauty.",
+    "note_en": "A-list pop, one of the biggest Instagram followings, r.e.m. beauty brand."
+  },
+  {
+    "id": "ed-sheeran",
+    "name": "Ed Sheeran",
+    "country": "United Kingdom",
+    "genre": "pop",
+    "est_monthly_listeners_millions": 80,
+    "est_social_followers_millions": 110,
+    "notable_brand_partnerships": [
+      "Heinz",
+      "Lipton",
+      "Pokemon"
+    ],
+    "note_fr": "Singer-songwriter britannique grand public, tubes universels et stade-friendly.",
+    "note_en": "Mainstream UK singer-songwriter with universal, stadium-ready hits."
+  },
+  {
+    "id": "dua-lipa",
+    "name": "Dua Lipa",
+    "country": "United Kingdom",
+    "genre": "pop",
+    "est_monthly_listeners_millions": 65,
+    "est_social_followers_millions": 130,
+    "notable_brand_partnerships": [
+      "YSL Beauty",
+      "Puma",
+      "Evian",
+      "Porsche"
+    ],
+    "note_fr": "Pop-disco moderne, forte affinité luxe/beauté et image éditoriale.",
+    "note_en": "Modern disco-pop with strong luxury/beauty affinity and editorial image."
+  },
+  {
+    "id": "coldplay",
+    "name": "Coldplay",
+    "country": "United Kingdom",
+    "genre": "rock",
+    "est_monthly_listeners_millions": 65,
+    "est_social_followers_millions": 80,
+    "notable_brand_partnerships": [
+      "BMW (tour batteries)",
+      "SAP"
+    ],
+    "note_fr": "Groupe rock stade au rayonnement mondial, tournées eco-responsables.",
+    "note_en": "Global stadium rock band known for sustainability-focused tours."
+  },
+  {
+    "id": "adele",
+    "name": "Adele",
+    "country": "United Kingdom",
+    "genre": "pop",
+    "est_monthly_listeners_millions": 50,
+    "est_social_followers_millions": 80,
+    "notable_brand_partnerships": [],
+    "note_fr": "Voix soul/pop iconique, prestige rare malgré peu de deals marques.",
+    "note_en": "Iconic soul/pop voice with rare prestige despite few brand deals."
+  },
+  {
+    "id": "sabrina-carpenter",
+    "name": "Sabrina Carpenter",
+    "country": "United States",
+    "genre": "pop",
+    "est_monthly_listeners_millions": 65,
+    "est_social_followers_millions": 50,
+    "notable_brand_partnerships": [
+      "Skims",
+      "Redken",
+      "Van Leeuwen"
+    ],
+    "note_fr": "Star pop montante Gen Z, deals mode/beauté en pleine expansion.",
+    "note_en": "Rising Gen Z pop star with fast-growing fashion/beauty deals."
+  },
+  {
+    "id": "olivia-rodrigo",
+    "name": "Olivia Rodrigo",
+    "country": "United States",
+    "genre": "pop",
+    "est_monthly_listeners_millions": 50,
+    "est_social_followers_millions": 60,
+    "notable_brand_partnerships": [
+      "Glossier",
+      "Sony Linkbuds"
+    ],
+    "note_fr": "Pop-rock Gen Z, forte authenticité et public jeune fidèle.",
+    "note_en": "Gen Z pop-rock with strong authenticity and a loyal young audience."
+  },
+  {
+    "id": "travis-scott",
+    "name": "Travis Scott",
+    "country": "United States",
+    "genre": "hip-hop",
+    "est_monthly_listeners_millions": 55,
+    "est_social_followers_millions": 80,
+    "notable_brand_partnerships": [
+      "Nike/Jordan",
+      "McDonald's",
+      "Fortnite",
+      "Cactus Jack"
+    ],
+    "note_fr": "Roi des collabs (Nike, McDonald's, Fortnite), label hype et merch.",
+    "note_en": "Collab king (Nike, McDonald's, Fortnite); hype-driven merch and label."
+  },
+  {
+    "id": "kendrick-lamar",
+    "name": "Kendrick Lamar",
+    "country": "United States",
+    "genre": "hip-hop",
+    "est_monthly_listeners_millions": 55,
+    "est_social_followers_millions": 40,
+    "notable_brand_partnerships": [
+      "Nike",
+      "Calvin Klein",
+      "pgLang"
+    ],
+    "note_fr": "Rappeur le plus respecte, prestige critique et Super Bowl 2025.",
+    "note_en": "Most critically respected rapper; prestige and 2025 Super Bowl halftime."
+  },
+  {
+    "id": "sza",
+    "name": "SZA",
+    "country": "United States",
+    "genre": "rnb",
+    "est_monthly_listeners_millions": 55,
+    "est_social_followers_millions": 30,
+    "notable_brand_partnerships": [
+      "Crocs",
+      "Glossier"
+    ],
+    "note_fr": "Reine R&B alternatif actuelle, forte connexion Gen Z.",
+    "note_en": "Current alt-R&B queen with strong Gen Z connection."
+  },
+  {
+    "id": "beyonce",
+    "name": "Beyonce",
+    "country": "United States",
+    "genre": "rnb",
+    "est_monthly_listeners_millions": 50,
+    "est_social_followers_millions": 320,
+    "notable_brand_partnerships": [
+      "Levi's",
+      "Pepsi",
+      "Tiffany & Co.",
+      "Cecred"
+    ],
+    "note_fr": "Icone culturelle, marque capillaire Cecred et deals prestige.",
+    "note_en": "Cultural icon with Cecred hair brand and prestige deals."
+  },
+  {
+    "id": "post-malone",
+    "name": "Post Malone",
+    "country": "United States",
+    "genre": "hip-hop",
+    "est_monthly_listeners_millions": 60,
+    "est_social_followers_millions": 50,
+    "notable_brand_partnerships": [
+      "Bud Light",
+      "Crocs",
+      "Raising Cane's",
+      "Oreo"
+    ],
+    "note_fr": "Crossover hip-hop/pop/country, multiples collabs grand public.",
+    "note_en": "Hip-hop/pop/country crossover with many mass-market collabs."
+  },
+  {
+    "id": "eminem",
+    "name": "Eminem",
+    "country": "United States",
+    "genre": "hip-hop",
+    "est_monthly_listeners_millions": 65,
+    "est_social_followers_millions": 150,
+    "notable_brand_partnerships": [
+      "Nike (Air Jordan 4)",
+      "Carhartt"
+    ],
+    "note_fr": "Légende rap au catalogue intemporel et audience mondiale persistante.",
+    "note_en": "Rap legend with timeless catalogue and enduring global audience."
+  },
+  {
+    "id": "david-guetta",
+    "name": "David Guetta",
+    "country": "France",
+    "genre": "electronic",
+    "est_monthly_listeners_millions": 75,
+    "est_social_followers_millions": 80,
+    "notable_brand_partnerships": [
+      "UEFA",
+      "Tomorrowland"
+    ],
+    "note_fr": "DJ-producteur francais N1 mondial en EDM grand public.",
+    "note_en": "French DJ-producer, world No.1 in mainstream EDM."
+  },
+  {
+    "id": "calvin-harris",
+    "name": "Calvin Harris",
+    "country": "United Kingdom",
+    "genre": "electronic",
+    "est_monthly_listeners_millions": 50,
+    "est_social_followers_millions": 40,
+    "notable_brand_partnerships": [
+      "Emporio Armani"
+    ],
+    "note_fr": "Producteur EDM-pop, residences Las Vegas très lucratives.",
+    "note_en": "EDM-pop producer with lucrative Las Vegas residencies."
+  },
+  {
+    "id": "marshmello",
+    "name": "Marshmello",
+    "country": "United States",
+    "genre": "electronic",
+    "est_monthly_listeners_millions": 50,
+    "est_social_followers_millions": 110,
+    "notable_brand_partnerships": [
+      "Fortnite",
+      "Pringles",
+      "Stumble Guys"
+    ],
+    "note_fr": "DJ masque pense pour le gaming et les collabs jeunesse.",
+    "note_en": "Masked DJ built for gaming tie-ins and youth collabs."
+  },
+  {
+    "id": "imagine-dragons",
+    "name": "Imagine Dragons",
+    "country": "United States",
+    "genre": "rock",
+    "est_monthly_listeners_millions": 55,
+    "est_social_followers_millions": 80,
+    "notable_brand_partnerships": [
+      "Riot Games (League of Legends)",
+      "NFL"
+    ],
+    "note_fr": "Rock-pop d'arene omnipresent en sync TV/jeux/sport.",
+    "note_en": "Arena pop-rock ubiquitous in TV/game/sports sync."
+  },
+  {
+    "id": "maroon-5",
+    "name": "Maroon 5",
+    "country": "United States",
+    "genre": "pop",
+    "est_monthly_listeners_millions": 50,
+    "est_social_followers_millions": 120,
+    "notable_brand_partnerships": [
+      "Coca-Cola",
+      "Honda"
+    ],
+    "note_fr": "Pop-rock radio-friendly, longévité grand public.",
+    "note_en": "Radio-friendly pop-rock with mainstream longevity."
+  },
+  {
+    "id": "linkin-park",
+    "name": "Linkin Park",
+    "country": "United States",
+    "genre": "rock",
+    "est_monthly_listeners_millions": 45,
+    "est_social_followers_millions": 120,
+    "notable_brand_partnerships": [],
+    "note_fr": "Légende nu-metal/rock relancee, catalogue massif et nouveau line-up.",
+    "note_en": "Revived nu-metal/rock legend with a massive catalogue and new lineup."
+  },
+  {
+    "id": "morgan-wallen",
+    "name": "Morgan Wallen",
+    "country": "United States",
+    "genre": "country",
+    "est_monthly_listeners_millions": 50,
+    "est_social_followers_millions": 30,
+    "notable_brand_partnerships": [],
+    "note_fr": "Star country US dominante en streaming, public fidèle.",
+    "note_en": "Dominant US country streaming star with a loyal base."
+  },
+  {
+    "id": "zach-bryan",
+    "name": "Zach Bryan",
+    "country": "United States",
+    "genre": "country",
+    "est_monthly_listeners_millions": 40,
+    "est_social_followers_millions": 15,
+    "notable_brand_partnerships": [],
+    "note_fr": "Country-folk authentique, ascension fulgurante et stades.",
+    "note_en": "Authentic country-folk with a meteoric rise and stadium shows."
+  },
+  {
+    "id": "chris-brown",
+    "name": "Chris Brown",
+    "country": "United States",
+    "genre": "rnb",
+    "est_monthly_listeners_millions": 55,
+    "est_social_followers_millions": 140,
+    "notable_brand_partnerships": [],
+    "note_fr": "R&B/pop prolifique, énorme audience streaming et sociale.",
+    "note_en": "Prolific R&B/pop with huge streaming and social reach."
+  },
+  {
+    "id": "shakira",
+    "name": "Shakira",
+    "country": "Colombia",
+    "genre": "latin",
+    "est_monthly_listeners_millions": 65,
+    "est_social_followers_millions": 200,
+    "notable_brand_partnerships": [
+      "T-Mobile",
+      "Reebok",
+      "Burger King"
+    ],
+    "note_fr": "Icone latino mondiale, immense audience sociale multigenerationnelle.",
+    "note_en": "Global Latin icon with a huge multi-generational social following."
+  },
+  {
+    "id": "karol-g",
+    "name": "Karol G",
+    "country": "Colombia",
+    "genre": "latin",
+    "est_monthly_listeners_millions": 60,
+    "est_social_followers_millions": 80,
+    "notable_brand_partnerships": [
+      "Crocs",
+      "Corona",
+      "Red Bull"
+    ],
+    "note_fr": "Artiste latina feminine la plus écoutée depuis 5 ans sur Spotify.",
+    "note_en": "Most-streamed female Latin artist on Spotify for five years running."
+  },
+  {
+    "id": "feid",
+    "name": "Feid",
+    "country": "Colombia",
+    "genre": "latin",
+    "est_monthly_listeners_millions": 50,
+    "est_social_followers_millions": 35,
+    "notable_brand_partnerships": [
+      "Adidas",
+      "Corona"
+    ],
+    "note_fr": "Reggaeton colombien, esthétique verte forte et collabs streetwear.",
+    "note_en": "Colombian reggaeton with a strong green aesthetic and streetwear collabs."
+  },
+  {
+    "id": "peso-pluma",
+    "name": "Peso Pluma",
+    "country": "Mexico",
+    "genre": "regional",
+    "est_monthly_listeners_millions": 45,
+    "est_social_followers_millions": 40,
+    "notable_brand_partnerships": [
+      "Spotify campaigns"
+    ],
+    "note_fr": "Fer de lance des corridos tumbados, 2e artiste latino le plus streamé.",
+    "note_en": "Spearhead of corridos tumbados; No.2 most-streamed Latin artist."
+  },
+  {
+    "id": "rauw-alejandro",
+    "name": "Rauw Alejandro",
+    "country": "Puerto Rico",
+    "genre": "latin",
+    "est_monthly_listeners_millions": 48,
+    "est_social_followers_millions": 40,
+    "notable_brand_partnerships": [
+      "Adidas",
+      "Pepsi"
+    ],
+    "note_fr": "Star reggaeton/pop-urbano portoricaine, plus de 49M d'auditeurs.",
+    "note_en": "Puerto Rican reggaeton/urban-pop star with 49M+ listeners."
+  },
+  {
+    "id": "daddy-yankee",
+    "name": "Daddy Yankee",
+    "country": "Puerto Rico",
+    "genre": "latin",
+    "est_monthly_listeners_millions": 50,
+    "est_social_followers_millions": 80,
+    "notable_brand_partnerships": [
+      "Reebok",
+      "Pepsi"
+    ],
+    "note_fr": "Pionnier du reggaeton (Gasolina), héritage et catalogue puissants.",
+    "note_en": "Reggaeton pioneer (Gasolina) with powerful legacy and catalogue."
+  },
+  {
+    "id": "manuel-turizo",
+    "name": "Manuel Turizo",
+    "country": "Colombia",
+    "genre": "latin",
+    "est_monthly_listeners_millions": 40,
+    "est_social_followers_millions": 30,
+    "notable_brand_partnerships": [],
+    "note_fr": "Pop-urbano colombien, tubes globaux type La Bachata.",
+    "note_en": "Colombian urban-pop with global hits like La Bachata."
+  },
+  {
+    "id": "anuel-aa",
+    "name": "Anuel AA",
+    "country": "Puerto Rico",
+    "genre": "latin",
+    "est_monthly_listeners_millions": 40,
+    "est_social_followers_millions": 40,
+    "notable_brand_partnerships": [],
+    "note_fr": "Trap latino majeur, forte présence streaming et sociale.",
+    "note_en": "Major Latin trap act with strong streaming and social presence."
+  },
+  {
+    "id": "fuerza-regida",
+    "name": "Fuerza Regida",
+    "country": "United States",
+    "genre": "regional",
+    "est_monthly_listeners_millions": 35,
+    "est_social_followers_millions": 20,
+    "notable_brand_partnerships": [],
+    "note_fr": "Groupe regional mexicain US, vague corridos tumbados.",
+    "note_en": "US-based regional Mexican band riding the corridos tumbados wave."
+  },
+  {
+    "id": "bts",
+    "name": "BTS",
+    "country": "South Korea",
+    "genre": "kpop",
+    "est_monthly_listeners_millions": 45,
+    "est_social_followers_millions": 120,
+    "notable_brand_partnerships": [
+      "McDonald's",
+      "Louis Vuitton",
+      "Samsung",
+      "Hyundai"
+    ],
+    "note_fr": "Groupe K-pop le plus suivi (82M followers Spotify), puissance marketing.",
+    "note_en": "Most-followed K-pop group (82M Spotify followers); marketing powerhouse."
+  },
+  {
+    "id": "blackpink",
+    "name": "BLACKPINK",
+    "country": "South Korea",
+    "genre": "kpop",
+    "est_monthly_listeners_millions": 40,
+    "est_social_followers_millions": 150,
+    "notable_brand_partnerships": [
+      "Adidas",
+      "Pepsi",
+      "Oreo"
+    ],
+    "note_fr": "Girl group K-pop le plus suivi, membres ambassadrices luxe.",
+    "note_en": "Most-followed K-pop girl group; members are luxury ambassadors."
+  },
+  {
+    "id": "jennie",
+    "name": "Jennie",
+    "country": "South Korea",
+    "genre": "kpop",
+    "est_monthly_listeners_millions": 35,
+    "est_social_followers_millions": 85,
+    "notable_brand_partnerships": [
+      "Chanel",
+      "Calvin Klein"
+    ],
+    "note_fr": "Membre Blackpink, ambassadrice Chanel emblematique en solo.",
+    "note_en": "Blackpink member and a flagship Chanel ambassador as a soloist."
+  },
+  {
+    "id": "rose",
+    "name": "Rose",
+    "country": "South Korea",
+    "genre": "kpop",
+    "est_monthly_listeners_millions": 40,
+    "est_social_followers_millions": 80,
+    "notable_brand_partnerships": [
+      "Saint Laurent",
+      "Tiffany & Co."
+    ],
+    "note_fr": "Membre Blackpink, hit mondial APT. et visage Saint Laurent.",
+    "note_en": "Blackpink member; global hit APT. and face of Saint Laurent."
+  },
+  {
+    "id": "stray-kids",
+    "name": "Stray Kids",
+    "country": "South Korea",
+    "genre": "kpop",
+    "est_monthly_listeners_millions": 30,
+    "est_social_followers_millions": 50,
+    "notable_brand_partnerships": [
+      "Louis Vuitton",
+      "Devialet"
+    ],
+    "note_fr": "Boy group 4e gen N1 albums US, fanbase ultra-active.",
+    "note_en": "4th-gen boy group with US No.1 albums and an ultra-active fanbase."
+  },
+  {
+    "id": "seventeen",
+    "name": "SEVENTEEN",
+    "country": "South Korea",
+    "genre": "kpop",
+    "est_monthly_listeners_millions": 25,
+    "est_social_followers_millions": 40,
+    "notable_brand_partnerships": [
+      "UNICEF",
+      "BBQ Chicken"
+    ],
+    "note_fr": "Mega boy group 13 membres, ventes physiques record.",
+    "note_en": "Mega 13-member boy group with record physical sales."
+  },
+  {
+    "id": "twice",
+    "name": "TWICE",
+    "country": "South Korea",
+    "genre": "kpop",
+    "est_monthly_listeners_millions": 25,
+    "est_social_followers_millions": 40,
+    "notable_brand_partnerships": [
+      "Bench"
+    ],
+    "note_fr": "Girl group K-pop établi, forte percee US/Japon.",
+    "note_en": "Established K-pop girl group with strong US/Japan reach."
+  },
+  {
+    "id": "jungkook",
+    "name": "Jungkook",
+    "country": "South Korea",
+    "genre": "kpop",
+    "est_monthly_listeners_millions": 35,
+    "est_social_followers_millions": 70,
+    "notable_brand_partnerships": [
+      "Calvin Klein",
+      "Sebago"
+    ],
+    "note_fr": "Membre BTS, énormes pics solo et visage Calvin Klein.",
+    "note_en": "BTS member with huge solo peaks and Calvin Klein face."
+  },
+  {
+    "id": "newjeans",
+    "name": "NewJeans",
+    "country": "South Korea",
+    "genre": "kpop",
+    "est_monthly_listeners_millions": 25,
+    "est_social_followers_millions": 30,
+    "notable_brand_partnerships": [
+      "Apple",
+      "Coca-Cola",
+      "Nike",
+      "McDonald's"
+    ],
+    "note_fr": "Girl group 4e gen prise des marques tech/lifestyle.",
+    "note_en": "4th-gen girl group heavily courted by tech/lifestyle brands."
+  },
+  {
+    "id": "enhypen",
+    "name": "ENHYPEN",
+    "country": "South Korea",
+    "genre": "kpop",
+    "est_monthly_listeners_millions": 20,
+    "est_social_followers_millions": 25,
+    "notable_brand_partnerships": [
+      "Prada"
+    ],
+    "note_fr": "Boy group 4e gen en forte croissance, ambassadeurs Prada.",
+    "note_en": "Fast-growing 4th-gen boy group; Prada ambassadors."
+  },
+  {
+    "id": "katseye",
+    "name": "KATSEYE",
+    "country": "United States",
+    "genre": "kpop",
+    "est_monthly_listeners_millions": 20,
+    "est_social_followers_millions": 15,
+    "notable_brand_partnerships": [
+      "Gap",
+      "Lancome"
+    ],
+    "note_fr": "Girl group global (HYBE/Geffen) viral, public Gen Z occidental.",
+    "note_en": "Global HYBE/Geffen girl group going viral with Western Gen Z."
+  },
+  {
+    "id": "ado",
+    "name": "Ado",
+    "country": "Japan",
+    "genre": "jpop",
+    "est_monthly_listeners_millions": 20,
+    "est_social_followers_millions": 10,
+    "notable_brand_partnerships": [],
+    "note_fr": "Voix J-pop la plus streamée à l'étranger, ~80% des écoutes hors Japon.",
+    "note_en": "Most-streamed J-pop voice abroad; ~80% of plays from overseas."
+  },
+  {
+    "id": "yoasobi",
+    "name": "YOASOBI",
+    "country": "Japan",
+    "genre": "jpop",
+    "est_monthly_listeners_millions": 20,
+    "est_social_followers_millions": 10,
+    "notable_brand_partnerships": [
+      "anime tie-ins"
+    ],
+    "note_fr": "Duo J-pop phare, tubes lies aux animes (Idol) a portée mondiale.",
+    "note_en": "Leading J-pop duo with globally reaching anime-tied hits (Idol)."
+  },
+  {
+    "id": "kenshi-yonezu",
+    "name": "Kenshi Yonezu",
+    "country": "Japan",
+    "genre": "jpop",
+    "est_monthly_listeners_millions": 18,
+    "est_social_followers_millions": 10,
+    "notable_brand_partnerships": [
+      "anime/film tie-ins"
+    ],
+    "note_fr": "Auteur-compositeur J-pop majeur, hits Lemon et IRIS OUT.",
+    "note_en": "Major J-pop singer-songwriter behind Lemon and IRIS OUT."
+  },
+  {
+    "id": "fujii-kaze",
+    "name": "Fujii Kaze",
+    "country": "Japan",
+    "genre": "jpop",
+    "est_monthly_listeners_millions": 18,
+    "est_social_followers_millions": 8,
+    "notable_brand_partnerships": [],
+    "note_fr": "Crooner J-pop/soul, percee internationale (Shinunoga E-Wa).",
+    "note_en": "J-pop/soul crooner with international breakout (Shinunoga E-Wa)."
+  },
+  {
+    "id": "xg",
+    "name": "XG",
+    "country": "Japan",
+    "genre": "jpop",
+    "est_monthly_listeners_millions": 12,
+    "est_social_followers_millions": 12,
+    "notable_brand_partnerships": [],
+    "note_fr": "Girl group japonais hybride K-pop, ascension globale rapide.",
+    "note_en": "Japanese girl group with K-pop hybrid sound and fast global rise."
+  },
+  {
+    "id": "babymetal",
+    "name": "BABYMETAL",
+    "country": "Japan",
+    "genre": "rock",
+    "est_monthly_listeners_millions": 8,
+    "est_social_followers_millions": 8,
+    "notable_brand_partnerships": [],
+    "note_fr": "Phénomène kawaii-metal japonais a audience internationale culte.",
+    "note_en": "Japanese kawaii-metal phenomenon with a cult international audience."
+  },
+  {
+    "id": "jay-chou",
+    "name": "Jay Chou",
+    "country": "China",
+    "genre": "pop",
+    "est_monthly_listeners_millions": 15,
+    "est_social_followers_millions": 30,
+    "notable_brand_partnerships": [
+      "Mercedes-Benz"
+    ],
+    "note_fr": "Roi de la mandopop, immense influence en Chine et diaspora.",
+    "note_en": "King of Mandopop with immense influence across China and diaspora."
+  },
+  {
+    "id": "jackson-wang",
+    "name": "Jackson Wang",
+    "country": "China",
+    "genre": "pop",
+    "est_monthly_listeners_millions": 12,
+    "est_social_followers_millions": 40,
+    "notable_brand_partnerships": [
+      "Cartier",
+      "Fendi",
+      "Armani"
+    ],
+    "note_fr": "Star sino-pop (ex-GOT7), pont Chine-Occident et ambassadeur luxe.",
+    "note_en": "Sino-pop star (ex-GOT7) bridging China-West; luxury ambassador."
+  },
+  {
+    "id": "jj-lin",
+    "name": "JJ Lin",
+    "country": "Singapore",
+    "genre": "pop",
+    "est_monthly_listeners_millions": 12,
+    "est_social_followers_millions": 15,
+    "notable_brand_partnerships": [],
+    "note_fr": "Poids lourd mandopop, énorme public en Chine/Taiwan/SE Asia.",
+    "note_en": "Mandopop heavyweight with a huge China/Taiwan/SE Asia audience."
+  },
+  {
+    "id": "arijit-singh",
+    "name": "Arijit Singh",
+    "country": "India",
+    "genre": "regional",
+    "est_monthly_listeners_millions": 50,
+    "est_social_followers_millions": 150,
+    "notable_brand_partnerships": [],
+    "note_fr": "Voix Bollywood N1, 1er Indien dans le Top 10 mondial Spotify.",
+    "note_en": "No.1 Bollywood voice; first Indian in Spotify's global Top 10."
+  },
+  {
+    "id": "diljit-dosanjh",
+    "name": "Diljit Dosanjh",
+    "country": "India",
+    "genre": "regional",
+    "est_monthly_listeners_millions": 22,
+    "est_social_followers_millions": 40,
+    "notable_brand_partnerships": [
+      "Coca-Cola India"
+    ],
+    "note_fr": "Star punjabi globale, premier a remplir de grands stades occidentaux.",
+    "note_en": "Global Punjabi star, first to fill major Western stadiums."
+  },
+  {
+    "id": "karan-aujla",
+    "name": "Karan Aujla",
+    "country": "India",
+    "genre": "regional",
+    "est_monthly_listeners_millions": 20,
+    "est_social_followers_millions": 15,
+    "notable_brand_partnerships": [],
+    "note_fr": "Rappeur/chanteur punjabi en tête des charts, public diaspora énorme.",
+    "note_en": "Chart-topping Punjabi rapper/singer with huge diaspora following."
+  },
+  {
+    "id": "ap-dhillon",
+    "name": "AP Dhillon",
+    "country": "India",
+    "genre": "regional",
+    "est_monthly_listeners_millions": 18,
+    "est_social_followers_millions": 12,
+    "notable_brand_partnerships": [],
+    "note_fr": "Punjabi-canadien inde, plus gros streamer punjabi mondial recent.",
+    "note_en": "Indie Punjabi-Canadian; recently the top-streaming Punjabi artist worldwide."
+  },
+  {
+    "id": "burna-boy",
+    "name": "Burna Boy",
+    "country": "Nigeria",
+    "genre": "afrobeats",
+    "est_monthly_listeners_millions": 20,
+    "est_social_followers_millions": 30,
+    "notable_brand_partnerships": [
+      "Martell",
+      "Spotify"
+    ],
+    "note_fr": "Géant Afro-fusion, têtes d'affiche stades US/UK et Grammy.",
+    "note_en": "Afro-fusion giant headlining US/UK stadiums; Grammy winner."
+  },
+  {
+    "id": "wizkid",
+    "name": "Wizkid",
+    "country": "Nigeria",
+    "genre": "afrobeats",
+    "est_monthly_listeners_millions": 18,
+    "est_social_followers_millions": 25,
+    "notable_brand_partnerships": [
+      "Nike",
+      "Pepsi"
+    ],
+    "note_fr": "Pionnier afrobeats mondial (Essence), 2e streamé du Nigeria.",
+    "note_en": "Global Afrobeats pioneer (Essence); Nigeria's No.2 streamed artist."
+  },
+  {
+    "id": "rema",
+    "name": "Rema",
+    "country": "Nigeria",
+    "genre": "afrobeats",
+    "est_monthly_listeners_millions": 25,
+    "est_social_followers_millions": 15,
+    "notable_brand_partnerships": [
+      "Spotify",
+      "Coca-Cola"
+    ],
+    "note_fr": "Calm Down, plus long titre africain au Hot 100, jeune star globale.",
+    "note_en": "Calm Down, longest-charting African Hot 100 song; young global star."
+  },
+  {
+    "id": "davido",
+    "name": "Davido",
+    "country": "Nigeria",
+    "genre": "afrobeats",
+    "est_monthly_listeners_millions": 15,
+    "est_social_followers_millions": 50,
+    "notable_brand_partnerships": [
+      "Martell",
+      "Puma",
+      "Pepsi"
+    ],
+    "note_fr": "Star afrobeats a énorme audience sociale et collabs internationales.",
+    "note_en": "Afrobeats star with huge social reach and international collabs."
+  },
+  {
+    "id": "tems",
+    "name": "Tems",
+    "country": "Nigeria",
+    "genre": "afrobeats",
+    "est_monthly_listeners_millions": 18,
+    "est_social_followers_millions": 15,
+    "notable_brand_partnerships": [
+      "Maybelline",
+      "Spotify"
+    ],
+    "note_fr": "Voix alt-afro/R&B primee Grammy, collabs Beyonce/Rihanna.",
+    "note_en": "Grammy-winning alt-Afro/R&B voice; Beyonce/Rihanna collabs."
+  },
+  {
+    "id": "asake",
+    "name": "Asake",
+    "country": "Nigeria",
+    "genre": "afrobeats",
+    "est_monthly_listeners_millions": 15,
+    "est_social_followers_millions": 10,
+    "notable_brand_partnerships": [],
+    "note_fr": "Artiste le plus streamé au Nigeria sur 5 ans, son amapiano-afro.",
+    "note_en": "Most-streamed artist in Nigeria over five years; amapiano-Afro sound."
+  },
+  {
+    "id": "ayra-starr",
+    "name": "Ayra Starr",
+    "country": "Nigeria",
+    "genre": "afrobeats",
+    "est_monthly_listeners_millions": 18,
+    "est_social_followers_millions": 12,
+    "notable_brand_partnerships": [
+      "Maybelline",
+      "Tommy Hilfiger"
+    ],
+    "note_fr": "Jeune star afrobeats feminine, image mode et hits globaux (Rush).",
+    "note_en": "Young female Afrobeats star with fashion image and global hits (Rush)."
+  },
+  {
+    "id": "tyla",
+    "name": "Tyla",
+    "country": "South Africa",
+    "genre": "afrobeats",
+    "est_monthly_listeners_millions": 20,
+    "est_social_followers_millions": 20,
+    "notable_brand_partnerships": [
+      "Pepsi",
+      "MAC Cosmetics"
+    ],
+    "note_fr": "Star amapiano/pop sud-africaine (Water), Grammy et image mode.",
+    "note_en": "South African amapiano/pop star (Water); Grammy and strong fashion image."
+  },
+  {
+    "id": "black-coffee",
+    "name": "Black Coffee",
+    "country": "South Africa",
+    "genre": "electronic",
+    "est_monthly_listeners_millions": 8,
+    "est_social_followers_millions": 10,
+    "notable_brand_partnerships": [
+      "AppleTV",
+      "Hi Ibiza residency"
+    ],
+    "note_fr": "DJ-producteur house sud-africain de stature mondiale.",
+    "note_en": "South African house DJ-producer of global stature."
+  },
+  {
+    "id": "master-kg",
+    "name": "Master KG",
+    "country": "South Africa",
+    "genre": "afrobeats",
+    "est_monthly_listeners_millions": 8,
+    "est_social_followers_millions": 10,
+    "notable_brand_partnerships": [],
+    "note_fr": "Producteur du phénomène Jerusalema, viral mondial.",
+    "note_en": "Producer of the globally viral Jerusalema phenomenon."
+  },
+  {
+    "id": "aya-nakamura",
+    "name": "Aya Nakamura",
+    "country": "France",
+    "genre": "pop",
+    "est_monthly_listeners_millions": 20,
+    "est_social_followers_millions": 25,
+    "notable_brand_partnerships": [
+      "Lancome",
+      "Puma"
+    ],
+    "note_fr": "Artiste feminine francophone la plus streamée, ambassadrice Lancome.",
+    "note_en": "Most-streamed French-language female artist; Lancome ambassador."
+  },
+  {
+    "id": "gims",
+    "name": "Gims",
+    "country": "France",
+    "genre": "pop",
+    "est_monthly_listeners_millions": 18,
+    "est_social_followers_millions": 25,
+    "notable_brand_partnerships": [],
+    "note_fr": "Poids lourd pop-urbain FR, albums N1 et tubes radio.",
+    "note_en": "French urban-pop heavyweight with No.1 albums and radio hits."
+  },
+  {
+    "id": "ninho",
+    "name": "Ninho",
+    "country": "France",
+    "genre": "hip-hop",
+    "est_monthly_listeners_millions": 12,
+    "est_social_followers_millions": 12,
+    "notable_brand_partnerships": [],
+    "note_fr": "Rappeur le plus streamé de France, +6,8 milliards d'écoutes.",
+    "note_en": "France's most-streamed rapper with 6.8B+ streams."
+  },
+  {
+    "id": "jul",
+    "name": "Jul",
+    "country": "France",
+    "genre": "hip-hop",
+    "est_monthly_listeners_millions": 10,
+    "est_social_followers_millions": 8,
+    "notable_brand_partnerships": [],
+    "note_fr": "Recordman des ventes rap FR, productivite et fanbase massive.",
+    "note_en": "French rap sales record-holder with massive output and fanbase."
+  },
+  {
+    "id": "stromae",
+    "name": "Stromae",
+    "country": "Belgium",
+    "genre": "pop",
+    "est_monthly_listeners_millions": 20,
+    "est_social_followers_millions": 15,
+    "notable_brand_partnerships": [
+      "Mosaert (own label/fashion)"
+    ],
+    "note_fr": "Artiste francophone le plus écoute à l'international sur Spotify.",
+    "note_en": "Most-streamed French-language artist internationally on Spotify."
+  },
+  {
+    "id": "pnl",
+    "name": "PNL",
+    "country": "France",
+    "genre": "hip-hop",
+    "est_monthly_listeners_millions": 8,
+    "est_social_followers_millions": 6,
+    "notable_brand_partnerships": [],
+    "note_fr": "Duo cloud-rap culte FR, esthétique forte et 3,6 milliards d'écoutes.",
+    "note_en": "Cult French cloud-rap duo with strong aesthetic and 3.6B streams."
+  },
+  {
+    "id": "amr-diab",
+    "name": "Amr Diab",
+    "country": "Egypt",
+    "genre": "pop",
+    "est_monthly_listeners_millions": 12,
+    "est_social_followers_millions": 40,
+    "notable_brand_partnerships": [
+      "Pepsi"
+    ],
+    "note_fr": "Roi de la pop arabe, artiste le plus streamé/suivi du monde arabe.",
+    "note_en": "King of Arabic pop; most-streamed and followed Arab artist."
+  },
+  {
+    "id": "nancy-ajram",
+    "name": "Nancy Ajram",
+    "country": "Lebanon",
+    "genre": "pop",
+    "est_monthly_listeners_millions": 6,
+    "est_social_followers_millions": 50,
+    "notable_brand_partnerships": [
+      "Coca-Cola",
+      "Damas Jewellery"
+    ],
+    "note_fr": "Reine de la pop arabe, plus grande audience sociale du monde arabe.",
+    "note_en": "Queen of Arab pop with the biggest social following in the Arab world."
+  },
+  {
+    "id": "elissa",
+    "name": "Elissa",
+    "country": "Lebanon",
+    "genre": "pop",
+    "est_monthly_listeners_millions": 5,
+    "est_social_followers_millions": 50,
+    "notable_brand_partnerships": [
+      "Pepsi"
+    ],
+    "note_fr": "Star pop libanaise, 2e artiste arabe la plus suivie sur les réseaux.",
+    "note_en": "Lebanese pop star; 2nd most-followed Arab artist on social media."
+  },
+  {
+    "id": "tamer-hosny",
+    "name": "Tamer Hosny",
+    "country": "Egypt",
+    "genre": "pop",
+    "est_monthly_listeners_millions": 6,
+    "est_social_followers_millions": 30,
+    "notable_brand_partnerships": [],
+    "note_fr": "Star pop/acteur égyptien, l'un des plus streamés en MENA.",
+    "note_en": "Egyptian pop star/actor; among the most-streamed in MENA."
+  }
+]

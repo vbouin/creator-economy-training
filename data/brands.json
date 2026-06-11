@@ -1,0 +1,1500 @@
+[
+  {
+    "id": "apple",
+    "name": "Apple",
+    "country": "United States",
+    "region": "North America",
+    "sector": "tech",
+    "owner": "",
+    "est_followers_total_millions": 60,
+    "primary_platforms": [
+      "instagram",
+      "youtube",
+      "tiktok"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Shot on iPhone creator-led campaigns",
+    "note_fr": "Campagnes 'Shot on iPhone' portées par des créateurs; communauté massive.",
+    "note_en": "Shot on iPhone creator campaigns; massive global community."
+  },
+  {
+    "id": "nike",
+    "name": "Nike",
+    "country": "United States",
+    "region": "North America",
+    "sector": "sportswear",
+    "owner": "",
+    "est_followers_total_millions": 350,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Athlete and creator partnerships",
+    "note_fr": "Roi des collabs athletes/créateurs; engagement sportif mondial.",
+    "note_en": "King of athlete/creator collabs; global sport engagement."
+  },
+  {
+    "id": "glossier",
+    "name": "Glossier",
+    "country": "United States",
+    "region": "North America",
+    "sector": "beauty",
+    "owner": "",
+    "est_followers_total_millions": 4,
+    "primary_platforms": [
+      "instagram",
+      "tiktok"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Community-built beauty brand",
+    "note_fr": "Beauté née des réseaux; communauté et UGC au coeur.",
+    "note_en": "Community-born beauty brand; UGC at the core."
+  },
+  {
+    "id": "fenty-beauty",
+    "name": "Fenty Beauty",
+    "country": "United States",
+    "region": "North America",
+    "sector": "beauty",
+    "owner": "LVMH",
+    "est_followers_total_millions": 13,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Inclusive creator-driven beauty",
+    "note_fr": "Beauté inclusive de Rihanna; très forte sur créateurs.",
+    "note_en": "Rihanna's inclusive beauty; heavy creator activation."
+  },
+  {
+    "id": "rare-beauty",
+    "name": "Rare Beauty",
+    "country": "United States",
+    "region": "North America",
+    "sector": "beauty",
+    "owner": "",
+    "est_followers_total_millions": 8,
+    "primary_platforms": [
+      "instagram",
+      "tiktok"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Selena Gomez TikTok virality",
+    "note_fr": "Marque Selena Gomez; virale sur TikTok beauté.",
+    "note_en": "Selena Gomez brand; viral on beauty TikTok."
+  },
+  {
+    "id": "tesla",
+    "name": "Tesla",
+    "country": "United States",
+    "region": "North America",
+    "sector": "automotive",
+    "owner": "",
+    "est_followers_total_millions": 30,
+    "primary_platforms": [
+      "instagram",
+      "youtube",
+      "tiktok"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Fan-evangelist car community",
+    "note_fr": "Communauté d'evangelistes; marketing porte par les fans.",
+    "note_en": "Evangelist fan base; fan-led marketing."
+  },
+  {
+    "id": "crocs",
+    "name": "Crocs",
+    "country": "United States",
+    "region": "North America",
+    "sector": "fashion",
+    "owner": "",
+    "est_followers_total_millions": 12,
+    "primary_platforms": [
+      "instagram",
+      "tiktok"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Collab-heavy footwear hype",
+    "note_fr": "Multiplie les collabs; hype Gen Z et personnalisation.",
+    "note_en": "Collab-heavy footwear; Gen Z hype and customization."
+  },
+  {
+    "id": "stanley",
+    "name": "Stanley",
+    "country": "United States",
+    "region": "North America",
+    "sector": "home-appliance",
+    "owner": "",
+    "est_followers_total_millions": 3,
+    "primary_platforms": [
+      "tiktok",
+      "instagram"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Quencher TikTok phenomenon",
+    "note_fr": "Le mug Quencher devenu phénomène TikTok et objet de desir.",
+    "note_en": "Quencher tumbler turned TikTok phenomenon."
+  },
+  {
+    "id": "kitchenaid",
+    "name": "KitchenAid",
+    "country": "United States",
+    "region": "North America",
+    "sector": "home-appliance",
+    "owner": "Whirlpool",
+    "est_followers_total_millions": 5,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Iconic stand mixer foodie content",
+    "note_fr": "Robot iconique; très présent chez les créateurs cuisine.",
+    "note_en": "Iconic stand mixer; big with food creators."
+  },
+  {
+    "id": "gopro",
+    "name": "GoPro",
+    "country": "United States",
+    "region": "North America",
+    "sector": "tech",
+    "owner": "",
+    "est_followers_total_millions": 40,
+    "primary_platforms": [
+      "instagram",
+      "youtube",
+      "tiktok"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "User-generated adventure footage",
+    "note_fr": "Contenu d'aventure 100% UGC; communauté de créateurs.",
+    "note_en": "Adventure content built on UGC; creator community."
+  },
+  {
+    "id": "starbucks",
+    "name": "Starbucks",
+    "country": "United States",
+    "region": "North America",
+    "sector": "fnb",
+    "owner": "",
+    "est_followers_total_millions": 50,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Seasonal drink hype cycles",
+    "note_fr": "Cycles de hype saisonniers; UGC de commandes secretes.",
+    "note_en": "Seasonal drink hype; secret-menu UGC."
+  },
+  {
+    "id": "coca-cola",
+    "name": "Coca-Cola",
+    "country": "United States",
+    "region": "North America",
+    "sector": "fnb",
+    "owner": "",
+    "est_followers_total_millions": 110,
+    "primary_platforms": [
+      "instagram",
+      "youtube",
+      "tiktok"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Global pop-culture marketing",
+    "note_fr": "Géant boissons; marketing culture pop et collabs musique.",
+    "note_en": "Beverage giant; pop-culture and music collabs."
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "country": "United States",
+    "region": "North America",
+    "sector": "entertainment",
+    "owner": "",
+    "est_followers_total_millions": 120,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Fandom-driven social marketing",
+    "note_fr": "Marketing social pilote par les fandoms; mêmes et créateurs.",
+    "note_en": "Fandom-driven social marketing; memes and creators."
+  },
+  {
+    "id": "playstation",
+    "name": "PlayStation",
+    "country": "Japan",
+    "region": "Japan",
+    "sector": "gaming",
+    "owner": "Sony",
+    "est_followers_total_millions": 80,
+    "primary_platforms": [
+      "instagram",
+      "youtube",
+      "tiktok"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Streamer and gaming creator hub",
+    "note_fr": "Plateforme clé pour streamers et créateurs gaming.",
+    "note_en": "Core platform for streamers and gaming creators."
+  },
+  {
+    "id": "nintendo",
+    "name": "Nintendo",
+    "country": "Japan",
+    "region": "Japan",
+    "sector": "gaming",
+    "owner": "",
+    "est_followers_total_millions": 60,
+    "primary_platforms": [
+      "youtube",
+      "instagram",
+      "tiktok"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Mario/Zelda fan creator economy",
+    "note_fr": "IP cultes (Mario, Zelda); énorme économie de créateurs.",
+    "note_en": "Cult IP (Mario, Zelda); huge creator economy."
+  },
+  {
+    "id": "sony",
+    "name": "Sony",
+    "country": "Japan",
+    "region": "Japan",
+    "sector": "tech",
+    "owner": "",
+    "est_followers_total_millions": 25,
+    "primary_platforms": [
+      "instagram",
+      "youtube"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Alpha camera creator ecosystem",
+    "note_fr": "Écosystème créateurs autour des appareils Alpha.",
+    "note_en": "Creator ecosystem around Alpha cameras."
+  },
+  {
+    "id": "uniqlo",
+    "name": "Uniqlo",
+    "country": "Japan",
+    "region": "Japan",
+    "sector": "fashion",
+    "owner": "Fast Retailing",
+    "est_followers_total_millions": 15,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Designer and IP collaborations",
+    "note_fr": "Collabs designers et IP (UT); styling par créateurs.",
+    "note_en": "Designer/IP collabs (UT); creator styling content."
+  },
+  {
+    "id": "shiseido",
+    "name": "Shiseido",
+    "country": "Japan",
+    "region": "Japan",
+    "sector": "beauty",
+    "owner": "",
+    "est_followers_total_millions": 6,
+    "primary_platforms": [
+      "instagram",
+      "xiaohongshu",
+      "tiktok"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "J-beauty heritage prestige",
+    "note_fr": "Référence J-beauty; forte en Asie et sur RED.",
+    "note_en": "J-beauty heritage; strong in Asia and on RED."
+  },
+  {
+    "id": "muji",
+    "name": "MUJI",
+    "country": "Japan",
+    "region": "Japan",
+    "sector": "home-appliance",
+    "owner": "",
+    "est_followers_total_millions": 5,
+    "primary_platforms": [
+      "instagram",
+      "xiaohongshu"
+    ],
+    "collab_intensity": "low",
+    "notable_for": "Minimalist lifestyle aesthetic",
+    "note_fr": "Esthétique minimaliste; très relayée en contenu lifestyle.",
+    "note_en": "Minimalist lifestyle; widely shared lifestyle content."
+  },
+  {
+    "id": "toyota",
+    "name": "Toyota",
+    "country": "Japan",
+    "region": "Japan",
+    "sector": "automotive",
+    "owner": "",
+    "est_followers_total_millions": 20,
+    "primary_platforms": [
+      "instagram",
+      "youtube",
+      "tiktok"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Car-culture creator community",
+    "note_fr": "Communauté car-culture; tuners et créateurs auto.",
+    "note_en": "Car-culture community; tuners and auto creators."
+  },
+  {
+    "id": "samsung",
+    "name": "Samsung",
+    "country": "South Korea",
+    "region": "Korea",
+    "sector": "tech",
+    "owner": "",
+    "est_followers_total_millions": 80,
+    "primary_platforms": [
+      "instagram",
+      "youtube",
+      "tiktok"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Galaxy creator partnerships",
+    "note_fr": "Partenariats créateurs Galaxy; sponsoring K-pop.",
+    "note_en": "Galaxy creator partnerships; K-pop sponsorships."
+  },
+  {
+    "id": "lg",
+    "name": "LG",
+    "country": "South Korea",
+    "region": "Korea",
+    "sector": "home-appliance",
+    "owner": "",
+    "est_followers_total_millions": 12,
+    "primary_platforms": [
+      "instagram",
+      "youtube",
+      "tiktok"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Design-led home appliances",
+    "note_fr": "Électroménager design (Objet); contenu maison aspirationnel.",
+    "note_en": "Design-led appliances (Objet line); aspirational home content."
+  },
+  {
+    "id": "laneige",
+    "name": "Laneige",
+    "country": "South Korea",
+    "region": "Korea",
+    "sector": "beauty",
+    "owner": "Amorepacific",
+    "est_followers_total_millions": 5,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "xiaohongshu"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Lip mask K-beauty TikTok hit",
+    "note_fr": "K-beauty; lip mask devenu hit viral TikTok.",
+    "note_en": "K-beauty; lip mask a viral TikTok hit."
+  },
+  {
+    "id": "innisfree",
+    "name": "Innisfree",
+    "country": "South Korea",
+    "region": "Korea",
+    "sector": "beauty",
+    "owner": "Amorepacific",
+    "est_followers_total_millions": 4,
+    "primary_platforms": [
+      "instagram",
+      "xiaohongshu",
+      "tiktok"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Natural K-beauty community",
+    "note_fr": "K-beauty naturelle; forte en Asie et sur RED.",
+    "note_en": "Natural K-beauty; strong in Asia and on RED."
+  },
+  {
+    "id": "hyundai",
+    "name": "Hyundai",
+    "country": "South Korea",
+    "region": "Korea",
+    "sector": "automotive",
+    "owner": "",
+    "est_followers_total_millions": 15,
+    "primary_platforms": [
+      "instagram",
+      "youtube",
+      "tiktok"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "BTS-era K-pop tie-ins",
+    "note_fr": "Tie-ins K-pop (BTS); campagnes créateurs jeunes.",
+    "note_en": "K-pop tie-ins (BTS); youthful creator campaigns."
+  },
+  {
+    "id": "gentle-monster",
+    "name": "Gentle Monster",
+    "country": "South Korea",
+    "region": "Korea",
+    "sector": "fashion",
+    "owner": "",
+    "est_followers_total_millions": 4,
+    "primary_platforms": [
+      "instagram",
+      "xiaohongshu",
+      "tiktok"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Avant-garde eyewear collabs",
+    "note_fr": "Lunettes avant-gardistes; collabs idoles et créateurs.",
+    "note_en": "Avant-garde eyewear; idol and creator collabs."
+  },
+  {
+    "id": "louis-vuitton",
+    "name": "Louis Vuitton",
+    "country": "France",
+    "region": "Europe",
+    "sector": "luxury",
+    "owner": "LVMH",
+    "est_followers_total_millions": 75,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube",
+      "xiaohongshu"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Celebrity ambassador machine",
+    "note_fr": "Machine a ambassadeurs; defiles ultra-relayés.",
+    "note_en": "Celebrity ambassador machine; highly shared shows."
+  },
+  {
+    "id": "dior",
+    "name": "Dior",
+    "country": "France",
+    "region": "Europe",
+    "sector": "luxury",
+    "owner": "LVMH",
+    "est_followers_total_millions": 70,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube",
+      "xiaohongshu"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Global ambassador and beauty reach",
+    "note_fr": "Ambassadeurs mondiaux; très fort en beauté et mode.",
+    "note_en": "Global ambassadors; strong in beauty and fashion."
+  },
+  {
+    "id": "chanel",
+    "name": "Chanel",
+    "country": "France",
+    "region": "Europe",
+    "sector": "luxury",
+    "owner": "",
+    "est_followers_total_millions": 75,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube",
+      "xiaohongshu"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Aspirational heritage luxury",
+    "note_fr": "Luxe patrimonial aspirationnel; ambassadeurs sélectifs.",
+    "note_en": "Aspirational heritage luxury; selective ambassadors."
+  },
+  {
+    "id": "loreal-paris",
+    "name": "L'Oreal Paris",
+    "country": "France",
+    "region": "Europe",
+    "sector": "beauty",
+    "owner": "L'Oreal",
+    "est_followers_total_millions": 40,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Mass-beauty creator scale",
+    "note_fr": "Beauté grand public; immense réseau de créateurs.",
+    "note_en": "Mass beauty; vast creator network."
+  },
+  {
+    "id": "sephora",
+    "name": "Sephora",
+    "country": "France",
+    "region": "Europe",
+    "sector": "beauty",
+    "owner": "LVMH",
+    "est_followers_total_millions": 35,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Beauty creator retail hub",
+    "note_fr": "Hub retail beauté; campagnes Squad de créateurs.",
+    "note_en": "Beauty retail hub; creator Squad campaigns."
+  },
+  {
+    "id": "hermes",
+    "name": "Hermes",
+    "country": "France",
+    "region": "Europe",
+    "sector": "luxury",
+    "owner": "",
+    "est_followers_total_millions": 17,
+    "primary_platforms": [
+      "instagram",
+      "xiaohongshu",
+      "tiktok"
+    ],
+    "collab_intensity": "low",
+    "notable_for": "Birkin scarcity desirability",
+    "note_fr": "Désirabilité par la rareté (Birkin); peu de collabs.",
+    "note_en": "Scarcity-driven desire (Birkin); few collabs."
+  },
+  {
+    "id": "seb",
+    "name": "Tefal / SEB",
+    "country": "France",
+    "region": "Europe",
+    "sector": "home-appliance",
+    "owner": "Groupe SEB",
+    "est_followers_total_millions": 3,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Air-fryer chef collaborations",
+    "note_fr": "Collabs chefs (Jamie Oliver); stratégie UGC cuisine.",
+    "note_en": "Chef collabs (Jamie Oliver); kitchen UGC strategy."
+  },
+  {
+    "id": "moulinex",
+    "name": "Moulinex",
+    "country": "France",
+    "region": "Europe",
+    "sector": "home-appliance",
+    "owner": "Groupe SEB",
+    "est_followers_total_millions": 1,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Companion cooking UGC",
+    "note_fr": "Robots cuiseurs; vidéos recettes générées par les clients.",
+    "note_en": "Cooking robots; consumer-generated recipe videos."
+  },
+  {
+    "id": "krups",
+    "name": "Krups",
+    "country": "France",
+    "region": "Europe",
+    "sector": "home-appliance",
+    "owner": "Groupe SEB",
+    "est_followers_total_millions": 1,
+    "primary_platforms": [
+      "instagram",
+      "youtube"
+    ],
+    "collab_intensity": "low",
+    "notable_for": "Coffee and espresso content",
+    "note_fr": "Café/espresso; contenu lifestyle et UGC.",
+    "note_en": "Coffee/espresso; lifestyle and UGC content."
+  },
+  {
+    "id": "lego",
+    "name": "LEGO",
+    "country": "Denmark",
+    "region": "Europe",
+    "sector": "toys",
+    "owner": "",
+    "est_followers_total_millions": 40,
+    "primary_platforms": [
+      "instagram",
+      "youtube",
+      "tiktok"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Adult-fan and creator builds",
+    "note_fr": "Communauté AFOL et créateurs; collabs IP innombrables.",
+    "note_en": "AFOL/creator community; countless IP collabs."
+  },
+  {
+    "id": "adidas",
+    "name": "Adidas",
+    "country": "Germany",
+    "region": "Europe",
+    "sector": "sportswear",
+    "owner": "",
+    "est_followers_total_millions": 80,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Sneaker and athlete collabs",
+    "note_fr": "Collabs sneakers/athletes; culture streetwear mondiale.",
+    "note_en": "Sneaker/athlete collabs; global streetwear culture."
+  },
+  {
+    "id": "puma",
+    "name": "Puma",
+    "country": "Germany",
+    "region": "Europe",
+    "sector": "sportswear",
+    "owner": "",
+    "est_followers_total_millions": 20,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Celebrity sport-lifestyle collabs",
+    "note_fr": "Collabs célébrités sport-lifestyle; ambassadeurs Gen Z.",
+    "note_en": "Celebrity sport-lifestyle collabs; Gen Z ambassadors."
+  },
+  {
+    "id": "bmw",
+    "name": "BMW",
+    "country": "Germany",
+    "region": "Europe",
+    "sector": "automotive",
+    "owner": "",
+    "est_followers_total_millions": 45,
+    "primary_platforms": [
+      "instagram",
+      "youtube",
+      "tiktok"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Aspirational car-creator content",
+    "note_fr": "Contenu auto aspirationnel; créateurs et car-culture.",
+    "note_en": "Aspirational car content; auto creators and car culture."
+  },
+  {
+    "id": "mercedes-benz",
+    "name": "Mercedes-Benz",
+    "country": "Germany",
+    "region": "Europe",
+    "sector": "automotive",
+    "owner": "",
+    "est_followers_total_millions": 50,
+    "primary_platforms": [
+      "instagram",
+      "youtube",
+      "tiktok"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Luxury auto lifestyle reach",
+    "note_fr": "Auto de luxe; lifestyle et collabs mode/créateurs.",
+    "note_en": "Luxury auto; lifestyle and fashion/creator collabs."
+  },
+  {
+    "id": "porsche",
+    "name": "Porsche",
+    "country": "Germany",
+    "region": "Europe",
+    "sector": "automotive",
+    "owner": "Volkswagen",
+    "est_followers_total_millions": 40,
+    "primary_platforms": [
+      "instagram",
+      "youtube",
+      "tiktok"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Enthusiast car community",
+    "note_fr": "Communauté passionnee; UGC et créateurs auto premium.",
+    "note_en": "Passionate enthusiast community; premium auto UGC."
+  },
+  {
+    "id": "gucci",
+    "name": "Gucci",
+    "country": "Italy",
+    "region": "Europe",
+    "sector": "luxury",
+    "owner": "Kering",
+    "est_followers_total_millions": 60,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube",
+      "xiaohongshu"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Pop-culture luxury collabs",
+    "note_fr": "Luxe culture pop; collabs et créateurs Gen Z.",
+    "note_en": "Pop-culture luxury; collabs and Gen Z creators."
+  },
+  {
+    "id": "prada",
+    "name": "Prada",
+    "country": "Italy",
+    "region": "Europe",
+    "sector": "luxury",
+    "owner": "",
+    "est_followers_total_millions": 35,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "xiaohongshu"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "K-pop and idol ambassadors",
+    "note_fr": "Ambassadeurs idoles/K-pop; forte présence en Asie.",
+    "note_en": "Idol/K-pop ambassadors; strong Asia presence."
+  },
+  {
+    "id": "ferrari",
+    "name": "Ferrari",
+    "country": "Italy",
+    "region": "Europe",
+    "sector": "automotive",
+    "owner": "",
+    "est_followers_total_millions": 40,
+    "primary_platforms": [
+      "instagram",
+      "youtube",
+      "tiktok"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "F1 fandom and prestige",
+    "note_fr": "Fandom F1 et prestige; communauté mondiale.",
+    "note_en": "F1 fandom and prestige; global community."
+  },
+  {
+    "id": "nutella",
+    "name": "Nutella",
+    "country": "Italy",
+    "region": "Europe",
+    "sector": "fnb",
+    "owner": "Ferrero",
+    "est_followers_total_millions": 35,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Recipe UGC and fandom",
+    "note_fr": "UGC recettes massif; fandom intergénérationnel.",
+    "note_en": "Massive recipe UGC; cross-generation fandom."
+  },
+  {
+    "id": "diesel",
+    "name": "Diesel",
+    "country": "Italy",
+    "region": "Europe",
+    "sector": "fashion",
+    "owner": "OTB",
+    "est_followers_total_millions": 7,
+    "primary_platforms": [
+      "instagram",
+      "tiktok"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Provocative Gen Z fashion",
+    "note_fr": "Mode provoc Gen Z; revival hype et créateurs.",
+    "note_en": "Provocative Gen Z fashion; hype revival with creators."
+  },
+  {
+    "id": "burberry",
+    "name": "Burberry",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "sector": "luxury",
+    "owner": "",
+    "est_followers_total_millions": 25,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "xiaohongshu"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "British heritage luxury",
+    "note_fr": "Luxe britannique; ambassadeurs et campagnes créateurs.",
+    "note_en": "British heritage luxury; ambassadors and creator campaigns."
+  },
+  {
+    "id": "jw-anderson",
+    "name": "JW Anderson",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "sector": "fashion",
+    "owner": "",
+    "est_followers_total_millions": 2,
+    "primary_platforms": [
+      "instagram",
+      "tiktok"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Viral runway moments",
+    "note_fr": "Moments runway viraux; cheri des créateurs mode.",
+    "note_en": "Viral runway moments; darling of fashion creators."
+  },
+  {
+    "id": "dyson",
+    "name": "Dyson",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "sector": "home-appliance",
+    "owner": "",
+    "est_followers_total_millions": 6,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Airwrap beauty-tech virality",
+    "note_fr": "Airwrap viral; pont entre électroménager et beauté.",
+    "note_en": "Viral Airwrap; bridges appliances and beauty-tech."
+  },
+  {
+    "id": "jellycat",
+    "name": "Jellycat",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "sector": "toys",
+    "owner": "",
+    "est_followers_total_millions": 3,
+    "primary_platforms": [
+      "tiktok",
+      "instagram"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Plush-toy TikTok collector craze",
+    "note_fr": "Peluches; engouement collectionneurs viral sur TikTok.",
+    "note_en": "Plush toys; viral collector craze on TikTok."
+  },
+  {
+    "id": "aston-martin",
+    "name": "Aston Martin",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "sector": "automotive",
+    "owner": "",
+    "est_followers_total_millions": 10,
+    "primary_platforms": [
+      "instagram",
+      "youtube"
+    ],
+    "collab_intensity": "low",
+    "notable_for": "Bond-era prestige",
+    "note_fr": "Prestige James Bond; F1 et lifestyle de luxe.",
+    "note_en": "Bond-era prestige; F1 and luxury lifestyle."
+  },
+  {
+    "id": "zara",
+    "name": "Zara",
+    "country": "Spain",
+    "region": "Europe",
+    "sector": "fashion",
+    "owner": "Inditex",
+    "est_followers_total_millions": 65,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Fast-fashion haul content",
+    "note_fr": "Fast-fashion; reine des hauls et du styling créateurs.",
+    "note_en": "Fast fashion; queen of hauls and creator styling."
+  },
+  {
+    "id": "mango",
+    "name": "Mango",
+    "country": "Spain",
+    "region": "Europe",
+    "sector": "fashion",
+    "owner": "",
+    "est_followers_total_millions": 18,
+    "primary_platforms": [
+      "instagram",
+      "tiktok"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Creator capsule collections",
+    "note_fr": "Collections capsules avec créateurs; styling lifestyle.",
+    "note_en": "Creator capsule collections; lifestyle styling."
+  },
+  {
+    "id": "loewe",
+    "name": "Loewe",
+    "country": "Spain",
+    "region": "Europe",
+    "sector": "luxury",
+    "owner": "LVMH",
+    "est_followers_total_millions": 12,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "xiaohongshu"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Internet-savvy luxury",
+    "note_fr": "Luxe très internet; mêmes, collabs et créateurs.",
+    "note_en": "Internet-savvy luxury; memes, collabs and creators."
+  },
+  {
+    "id": "desigual",
+    "name": "Desigual",
+    "country": "Spain",
+    "region": "Europe",
+    "sector": "fashion",
+    "owner": "",
+    "est_followers_total_millions": 4,
+    "primary_platforms": [
+      "instagram",
+      "tiktok"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Bold-print lifestyle fashion",
+    "note_fr": "Mode coloree; campagnes lifestyle et créateurs.",
+    "note_en": "Bold-print fashion; lifestyle and creator campaigns."
+  },
+  {
+    "id": "xiaomi",
+    "name": "Xiaomi",
+    "country": "China",
+    "region": "Greater China",
+    "sector": "tech",
+    "owner": "",
+    "est_followers_total_millions": 30,
+    "primary_platforms": [
+      "douyin",
+      "xiaohongshu",
+      "instagram",
+      "youtube"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Smart-home ecosystem fandom",
+    "note_fr": "Écosystème maison connectee; fandom et UGC technophiles.",
+    "note_en": "Smart-home ecosystem; tech fandom and UGC."
+  },
+  {
+    "id": "huawei",
+    "name": "Huawei",
+    "country": "China",
+    "region": "Greater China",
+    "sector": "tech",
+    "owner": "",
+    "est_followers_total_millions": 20,
+    "primary_platforms": [
+      "douyin",
+      "xiaohongshu",
+      "youtube"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "HarmonyOS device ecosystem",
+    "note_fr": "Écosystème HarmonyOS; créateurs photo et tech.",
+    "note_en": "HarmonyOS device ecosystem; photo and tech creators."
+  },
+  {
+    "id": "anker",
+    "name": "Anker",
+    "country": "China",
+    "region": "Greater China",
+    "sector": "tech",
+    "owner": "",
+    "est_followers_total_millions": 5,
+    "primary_platforms": [
+      "youtube",
+      "instagram",
+      "tiktok",
+      "douyin"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Charging-gear creator reviews",
+    "note_fr": "Accessoires charge; très relayé par les créateurs tech.",
+    "note_en": "Charging gear; heavily reviewed by tech creators."
+  },
+  {
+    "id": "haier",
+    "name": "Haier",
+    "country": "China",
+    "region": "Greater China",
+    "sector": "home-appliance",
+    "owner": "",
+    "est_followers_total_millions": 8,
+    "primary_platforms": [
+      "douyin",
+      "xiaohongshu"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Global home-appliance scale",
+    "note_fr": "Géant électroménager mondial; live-commerce sur Douyin.",
+    "note_en": "Global appliance giant; Douyin live-commerce."
+  },
+  {
+    "id": "shein",
+    "name": "SHEIN",
+    "country": "China",
+    "region": "Greater China",
+    "sector": "fashion",
+    "owner": "",
+    "est_followers_total_millions": 50,
+    "primary_platforms": [
+      "tiktok",
+      "instagram",
+      "youtube"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Haul and affiliate creator engine",
+    "note_fr": "Moteur de hauls et d'affiliation créateurs à l'echelle.",
+    "note_en": "Massive haul and affiliate creator engine."
+  },
+  {
+    "id": "florasis",
+    "name": "Florasis",
+    "country": "China",
+    "region": "Greater China",
+    "sector": "beauty",
+    "owner": "",
+    "est_followers_total_millions": 4,
+    "primary_platforms": [
+      "douyin",
+      "xiaohongshu",
+      "tiktok"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "C-beauty heritage aesthetic",
+    "note_fr": "C-beauty esthétique chinoise; live-commerce et KOL.",
+    "note_en": "C-beauty Chinese aesthetic; live-commerce and KOLs."
+  },
+  {
+    "id": "byd",
+    "name": "BYD",
+    "country": "China",
+    "region": "Greater China",
+    "sector": "automotive",
+    "owner": "",
+    "est_followers_total_millions": 10,
+    "primary_platforms": [
+      "douyin",
+      "xiaohongshu",
+      "instagram"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Global EV growth story",
+    "note_fr": "Croissance VE mondiale; contenu auto et créateurs.",
+    "note_en": "Global EV growth; auto content and creators."
+  },
+  {
+    "id": "pop-mart",
+    "name": "Pop Mart",
+    "country": "China",
+    "region": "Greater China",
+    "sector": "toys",
+    "owner": "",
+    "est_followers_total_millions": 15,
+    "primary_platforms": [
+      "douyin",
+      "xiaohongshu",
+      "tiktok",
+      "instagram"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Labubu blind-box collector craze",
+    "note_fr": "Labubu; folie blind-box virale et collectionneurs.",
+    "note_en": "Labubu; viral blind-box collector craze."
+  },
+  {
+    "id": "miniso",
+    "name": "Miniso",
+    "country": "China",
+    "region": "Greater China",
+    "sector": "toys",
+    "owner": "",
+    "est_followers_total_millions": 8,
+    "primary_platforms": [
+      "tiktok",
+      "douyin",
+      "instagram",
+      "xiaohongshu"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "IP-collab lifestyle retail",
+    "note_fr": "Retail lifestyle; collabs IP (Disney, Sanrio) et hauls.",
+    "note_en": "Lifestyle retail; IP collabs (Disney, Sanrio) and hauls."
+  },
+  {
+    "id": "genshin-impact",
+    "name": "Genshin Impact",
+    "country": "China",
+    "region": "Greater China",
+    "sector": "gaming",
+    "owner": "HoYoverse",
+    "est_followers_total_millions": 40,
+    "primary_platforms": [
+      "youtube",
+      "tiktok",
+      "douyin",
+      "instagram"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Global gacha creator fandom",
+    "note_fr": "Fandom gacha mondial; énorme communauté de créateurs.",
+    "note_en": "Global gacha fandom; huge creator community."
+  },
+  {
+    "id": "mamaearth",
+    "name": "Mamaearth",
+    "country": "India",
+    "region": "South Asia",
+    "sector": "beauty",
+    "owner": "Honasa",
+    "est_followers_total_millions": 3,
+    "primary_platforms": [
+      "instagram",
+      "youtube",
+      "tiktok"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Influencer-built D2C beauty",
+    "note_fr": "D2C beauté batie sur les créateurs (100+ influenceurs).",
+    "note_en": "Influencer-built D2C beauty (100+ influencers)."
+  },
+  {
+    "id": "sugar-cosmetics",
+    "name": "SUGAR Cosmetics",
+    "country": "India",
+    "region": "South Asia",
+    "sector": "beauty",
+    "owner": "",
+    "est_followers_total_millions": 3,
+    "primary_platforms": [
+      "instagram",
+      "youtube",
+      "tiktok"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "1,200+ creator campaigns",
+    "note_fr": "Beauté D2C; plus de 1200 créateurs mobilises.",
+    "note_en": "D2C beauty; 1,200+ creators activated."
+  },
+  {
+    "id": "boat",
+    "name": "boAt",
+    "country": "India",
+    "region": "South Asia",
+    "sector": "tech",
+    "owner": "",
+    "est_followers_total_millions": 4,
+    "primary_platforms": [
+      "instagram",
+      "youtube",
+      "tiktok"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Youth audio lifestyle brand",
+    "note_fr": "Audio lifestyle jeune; créateurs fitness, gaming, musique.",
+    "note_en": "Youth audio lifestyle; fitness, gaming, music creators."
+  },
+  {
+    "id": "fabindia",
+    "name": "FabIndia",
+    "country": "India",
+    "region": "South Asia",
+    "sector": "fashion",
+    "owner": "",
+    "est_followers_total_millions": 2,
+    "primary_platforms": [
+      "instagram",
+      "youtube"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Artisanal Indian lifestyle",
+    "note_fr": "Lifestyle artisanal indien; contenu mode ethnique.",
+    "note_en": "Artisanal Indian lifestyle; ethnic fashion content."
+  },
+  {
+    "id": "tata-tanishq",
+    "name": "Tanishq",
+    "country": "India",
+    "region": "South Asia",
+    "sector": "luxury",
+    "owner": "Tata",
+    "est_followers_total_millions": 3,
+    "primary_platforms": [
+      "instagram",
+      "youtube"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Aspirational jewellery brand",
+    "note_fr": "Joaillerie aspirationnelle; campagnes mariage et créateurs.",
+    "note_en": "Aspirational jewellery; wedding and creator campaigns."
+  },
+  {
+    "id": "natura",
+    "name": "Natura",
+    "country": "Brazil",
+    "region": "Latin America",
+    "sector": "beauty",
+    "owner": "",
+    "est_followers_total_millions": 5,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Direct-sales creator network",
+    "note_fr": "Vente directe + créateurs; ancrage Amazonie/durabilité.",
+    "note_en": "Direct-sales + creator network; Amazon/sustainability roots."
+  },
+  {
+    "id": "o-boticario",
+    "name": "O Boticario",
+    "country": "Brazil",
+    "region": "Latin America",
+    "sector": "beauty",
+    "owner": "Grupo Boticario",
+    "est_followers_total_millions": 15,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Brazil's beauty social leader",
+    "note_fr": "Leader beauté social au Bresil (~13M IG); collabs créateurs.",
+    "note_en": "Brazil's beauty social leader (~13M IG); creator collabs."
+  },
+  {
+    "id": "havaianas",
+    "name": "Havaianas",
+    "country": "Brazil",
+    "region": "Latin America",
+    "sector": "fashion",
+    "owner": "Alpargatas",
+    "est_followers_total_millions": 6,
+    "primary_platforms": [
+      "instagram",
+      "tiktok"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Iconic flip-flop collabs",
+    "note_fr": "Tongs iconiques (~5M IG); collabs mode et créateurs.",
+    "note_en": "Iconic flip-flops (~5M IG); fashion and creator collabs."
+  },
+  {
+    "id": "farm-rio",
+    "name": "Farm Rio",
+    "country": "Brazil",
+    "region": "Latin America",
+    "sector": "fashion",
+    "owner": "",
+    "est_followers_total_millions": 3,
+    "primary_platforms": [
+      "instagram",
+      "tiktok"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Tropical-print global expansion",
+    "note_fr": "Mode imprimes tropicaux; forte sur créateurs lifestyle.",
+    "note_en": "Tropical-print fashion; strong with lifestyle creators."
+  },
+  {
+    "id": "granado",
+    "name": "Granado",
+    "country": "Brazil",
+    "region": "Latin America",
+    "sector": "beauty",
+    "owner": "",
+    "est_followers_total_millions": 2,
+    "primary_platforms": [
+      "instagram",
+      "tiktok"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Heritage apothecary aesthetic",
+    "note_fr": "Apothicaire patrimonial; esthétique vintage relayée.",
+    "note_en": "Heritage apothecary; widely shared vintage aesthetic."
+  },
+  {
+    "id": "oraimo",
+    "name": "Oraimo",
+    "country": "Nigeria",
+    "region": "Africa",
+    "sector": "tech",
+    "owner": "Transsion",
+    "est_followers_total_millions": 3,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Africa's accessible tech accessories",
+    "note_fr": "Accessoires tech accessibles; gros sponsoring créateurs Afrique.",
+    "note_en": "Accessible tech accessories; heavy African creator sponsorship."
+  },
+  {
+    "id": "tecno",
+    "name": "Tecno",
+    "country": "Nigeria",
+    "region": "Africa",
+    "sector": "tech",
+    "owner": "Transsion",
+    "est_followers_total_millions": 6,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Africa's leading smartphone brand",
+    "note_fr": "Smartphone n1 en Afrique; campagnes créateurs et ambassadeurs.",
+    "note_en": "Africa's leading smartphone; creator and ambassador campaigns."
+  },
+  {
+    "id": "zaron",
+    "name": "Zaron Cosmetics",
+    "country": "Nigeria",
+    "region": "Africa",
+    "sector": "beauty",
+    "owner": "",
+    "est_followers_total_millions": 1,
+    "primary_platforms": [
+      "instagram",
+      "tiktok"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Inclusive Nigerian beauty",
+    "note_fr": "Beauté nigériane inclusive; collabs influenceuses locales.",
+    "note_en": "Inclusive Nigerian beauty; local influencer collabs."
+  },
+  {
+    "id": "nandos",
+    "name": "Nando's",
+    "country": "South Africa",
+    "region": "Africa",
+    "sector": "fnb",
+    "owner": "",
+    "est_followers_total_millions": 3,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "Witty topical social marketing",
+    "note_fr": "Marketing social mordant et topical; référence créative SA.",
+    "note_en": "Witty topical social marketing; SA creative benchmark."
+  },
+  {
+    "id": "woolworths-sa",
+    "name": "Woolworths",
+    "country": "South Africa",
+    "region": "Africa",
+    "sector": "fnb",
+    "owner": "",
+    "est_followers_total_millions": 2,
+    "primary_platforms": [
+      "instagram",
+      "tiktok"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Premium grocery-lifestyle brand",
+    "note_fr": "Epicerie-lifestyle premium (~1M IG); contenu food/mode.",
+    "note_en": "Premium grocery-lifestyle brand (~1M IG); food/fashion content."
+  },
+  {
+    "id": "maxhosa",
+    "name": "MaXhosa Africa",
+    "country": "South Africa",
+    "region": "Africa",
+    "sector": "fashion",
+    "owner": "",
+    "est_followers_total_millions": 1,
+    "primary_platforms": [
+      "instagram",
+      "tiktok"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Heritage knitwear gone global",
+    "note_fr": "Maille au patrimoine xhosa; mode africaine mondialisée.",
+    "note_en": "Xhosa-heritage knitwear; globalized African fashion."
+  },
+  {
+    "id": "safaricom",
+    "name": "Safaricom",
+    "country": "Kenya",
+    "region": "Africa",
+    "sector": "tech",
+    "owner": "",
+    "est_followers_total_millions": 3,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "collab_intensity": "high",
+    "notable_for": "M-Pesa lifestyle creator reach",
+    "note_fr": "M-Pesa; campagnes créateurs et culture digitale kényane.",
+    "note_en": "M-Pesa; creator campaigns and Kenyan digital culture."
+  },
+  {
+    "id": "java-house",
+    "name": "Java House",
+    "country": "Kenya",
+    "region": "Africa",
+    "sector": "fnb",
+    "owner": "",
+    "est_followers_total_millions": 1,
+    "primary_platforms": [
+      "instagram",
+      "tiktok"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "East African cafe lifestyle",
+    "note_fr": "Café lifestyle est-africain; contenu food et créateurs.",
+    "note_en": "East African cafe lifestyle; food and creator content."
+  },
+  {
+    "id": "juhayna",
+    "name": "Juhayna",
+    "country": "Egypt",
+    "region": "MEA",
+    "sector": "fnb",
+    "owner": "",
+    "est_followers_total_millions": 2,
+    "primary_platforms": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "collab_intensity": "medium",
+    "notable_for": "Egypt's mass F&B brand",
+    "note_fr": "Agroalimentaire égyptien grand public; campagnes créateurs.",
+    "note_en": "Egypt's mass F&B brand; creator campaigns."
+  }
+]

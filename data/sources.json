@@ -1,0 +1,20 @@
+[
+  {"cat":"audience","label":"Social Blade — stats publiques d'audience par créateur/plateforme","url":"https://socialblade.com"},
+  {"cat":"audience","label":"HypeAuditor — analytics & classements d'influenceurs","url":"https://hypeauditor.com"},
+  {"cat":"audience","label":"Kolsquare — base d'influenceurs & benchmarks (EU)","url":"https://www.kolsquare.com"},
+  {"cat":"audience","label":"Statista — taille de la creator economy & marchés","url":"https://www.statista.com/topics/12211/creator-economy/"},
+  {"cat":"audience","label":"Spotify Charts — auditeurs & streams artistes","url":"https://charts.spotify.com"},
+  {"cat":"platforms","label":"We Are Social / Meltwater — Digital 2024 (usages & MAU)","url":"https://wearesocial.com/digital-2024/"},
+  {"cat":"platforms","label":"Influencer Marketing Hub — benchmark report annuel","url":"https://influencermarketinghub.com/influencer-marketing-benchmark-report/"},
+  {"cat":"platforms","label":"TikTok for Business — case studies (ex. Philips Airfryer)","url":"https://www.tiktok.com/business/en/inspiration"},
+  {"cat":"cases","label":"iQfluence — exemples de collaborations marque × influenceur","url":"https://iqfluence.io/public/blog/influencer-collaboration-examples"},
+  {"cat":"cases","label":"Retail Brew — SharkNinja / Ninja social-first","url":"https://www.retailbrew.com"},
+  {"cat":"cases","label":"Modern Retail — stratégies créateurs des marques conso","url":"https://www.modernretail.co"},
+  {"cat":"cases","label":"CNBC — Stanley Quencher (70M$ → 750M$)","url":"https://www.cnbc.com"},
+  {"cat":"cases","label":"Campaign — e.l.f. #eyeslipsface","url":"https://www.campaignlive.com"},
+  {"cat":"cases","label":"Marketing Brew / Adweek — Nespresso (Clooney + Dua Lipa)","url":"https://www.marketingbrew.com"},
+  {"cat":"cases","label":"The Kitchn — Our Place, KitchenAid drops couleurs","url":"https://www.thekitchn.com"},
+  {"cat":"seb","label":"Groupe SEB — actualités & partenariats (Tefal × Jamie Oliver, Twitch)","url":"https://www.groupeseb.com"},
+  {"cat":"seb","label":"Groupe SEB — résultats annuels 2024 (Business Wire)","url":"https://www.businesswire.com"},
+  {"cat":"seb","label":"Pop Mart — rapport annuel (Labubu / The Monsters)","url":"https://www.popmart.com"}
+]

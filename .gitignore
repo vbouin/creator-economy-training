@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Documents internes Exoflow — NE PAS publier
+CAHIER-DES-CHARGES-V2.md
+VIDEOS-A-FOURNIR.md
+*.bak*
+index.html.bak-v1
+
+# Outillage local
+.claude/

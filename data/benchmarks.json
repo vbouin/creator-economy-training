@@ -1,0 +1,170 @@
+{
+  "updated": "2026-06",
+  "disclaimer_fr": "Ordres de grandeur issus de rapports publics 2024–2026 (Influencer Marketing Hub, Shopify, Meltwater, Billo, Statista…). Les tarifs réels varient fortement selon le marché, la verticale, l'engagement et les droits d'usage : à recouper systématiquement avant toute négociation.",
+  "disclaimer_en": "Orders of magnitude from public 2024–2026 reports (Influencer Marketing Hub, Shopify, Meltwater, Billo, Statista…). Actual rates vary widely by market, vertical, engagement and usage rights: always cross-check before negotiating.",
+  "tiers": [
+    {
+      "id": "nano",
+      "label_fr": "Nano (1–10k)",
+      "label_en": "Nano (1–10k)",
+      "followers_min": 1000,
+      "followers_max": 10000,
+      "post_price_usd": {
+        "instagram": [50, 500],
+        "tiktok": [50, 600],
+        "youtube": [100, 1000]
+      },
+      "avg_engagement_pct": {
+        "instagram": 4.5,
+        "tiktok": 8.0,
+        "youtube": 5.4
+      },
+      "note_fr": "Meilleur engagement relatif du marché ; souvent activables au produit offert (seeding) plutôt qu'au cachet. Idéal pour tester un produit cuisine en volume.",
+      "note_en": "Best relative engagement in the market; often activatable with gifted product (seeding) rather than fees. Ideal for testing a kitchen product at volume."
+    },
+    {
+      "id": "micro",
+      "label_fr": "Micro (10–100k)",
+      "label_en": "Micro (10–100k)",
+      "followers_min": 10000,
+      "followers_max": 100000,
+      "post_price_usd": {
+        "instagram": [200, 2500],
+        "tiktok": [300, 3000],
+        "youtube": [500, 5000]
+      },
+      "avg_engagement_pct": {
+        "instagram": 2.5,
+        "tiktok": 6.5,
+        "youtube": 5.0
+      },
+      "note_fr": "Tier privilégié par 39 % des marques en 2025 : meilleur ratio coût/conversion, niches food et organisation maison très fournies. La vidéo (Reels/TikTok) se paie 2 à 3 fois le post statique.",
+      "note_en": "Preferred tier for 39% of brands in 2025: best cost/conversion ratio, with deep food and home-organization niches. Video (Reels/TikTok) costs 2–3x a static post."
+    },
+    {
+      "id": "mid",
+      "label_fr": "Intermédiaire (100–500k)",
+      "label_en": "Mid-tier (100–500k)",
+      "followers_min": 100000,
+      "followers_max": 500000,
+      "post_price_usd": {
+        "instagram": [2500, 12000],
+        "tiktok": [2000, 10000],
+        "youtube": [3000, 15000]
+      },
+      "avg_engagement_pct": {
+        "instagram": 2.0,
+        "tiktok": 5.0,
+        "youtube": 6.4
+      },
+      "note_fr": "Reach significatif avec un engagement encore correct ; le cœur des campagnes food/électroménager. Une intégration YouTube médiane se négocie autour de 1 000–3 000 $ sous 100k abonnés, 3 000–10 000 $ au-delà.",
+      "note_en": "Meaningful reach with still-decent engagement; the workhorse of food/appliance campaigns. A median YouTube integration runs ~$1,000–3,000 under 100k subs, $3,000–10,000 above."
+    },
+    {
+      "id": "macro",
+      "label_fr": "Macro (500k–1M)",
+      "label_en": "Macro (500k–1M)",
+      "followers_min": 500000,
+      "followers_max": 1000000,
+      "post_price_usd": {
+        "instagram": [10000, 25000],
+        "tiktok": [8000, 20000],
+        "youtube": [10000, 30000]
+      },
+      "avg_engagement_pct": {
+        "instagram": 1.5,
+        "tiktok": 3.0,
+        "youtube": 4.6
+      },
+      "note_fr": "Logique de couverture média : exiger des garanties (vues moyennes, droits d'usage paid) et raisonner en CPM négocié plutôt qu'au cachet sec.",
+      "note_en": "Media-coverage logic: require guarantees (average views, paid usage rights) and reason in negotiated CPM rather than flat fee alone."
+    },
+    {
+      "id": "mega",
+      "label_fr": "Mega / célébrité (1M+)",
+      "label_en": "Mega / celebrity (1M+)",
+      "followers_min": 1000000,
+      "followers_max": null,
+      "post_price_usd": {
+        "instagram": [25000, 300000],
+        "tiktok": [20000, 200000],
+        "youtube": [25000, 300000]
+      },
+      "avg_engagement_pct": {
+        "instagram": 1.0,
+        "tiktok": 2.0,
+        "youtube": 4.0
+      },
+      "note_fr": "Au-delà du post unique, privilégier les contrats d'ambassadeur pluriannuels, le co-branding ou la licence (cf. Jamie Oliver x Tefal, Beckham x Ninja) : le cachet média seul convertit mal.",
+      "note_en": "Beyond one-off posts, favour multi-year ambassador deals, co-branding or licensing (cf. Jamie Oliver x Tefal, Beckham x Ninja): pure media fees convert poorly."
+    }
+  ],
+  "cpm_usd": {
+    "instagram_reels": [5, 15],
+    "tiktok": [3, 15],
+    "youtube_integration": [15, 50],
+    "twitch": [10, 35],
+    "note_fr": "CPM « contenu créateur » constatés 2024–2025 ; Aspire mesure un CPM moyen en baisse (~2,7 $ en 2025, –42 % vs 2024) sur les campagnes optimisées. Twitch se négocie aussi en coût par spectateur simultané (~0,50–1 $/h).",
+    "note_en": "Observed creator-content CPMs 2024–2025; Aspire measured average CPM falling (~$2.7 in 2025, –42% YoY) on optimized campaigns. Twitch is also negotiated as cost per concurrent viewer (~$0.50–1/hr)."
+  },
+  "affiliate_commission_pct": {
+    "typical": [5, 20],
+    "amazon_home": [3, 4.5],
+    "note_fr": "5–20 % en affiliation directe marque-créateur (DTC) ; Amazon Associates plafonne la catégorie cuisine/maison à 3–4,5 %. Prévoir des codes promo traçables par créateur pour mesurer le ROI réel.",
+    "note_en": "5–20% on direct brand-creator (DTC) affiliation; Amazon Associates caps home/kitchen at 3–4.5%. Use per-creator trackable promo codes to measure true ROI."
+  },
+  "seeding": {
+    "typical_acceptance_pct": [10, 30],
+    "posting_rate_unpaid_pct": [20, 50],
+    "note_fr": "20 à 40 % des créateurs « seedés » publient sans rémunération (jusqu'à ~50 % avec un ciblage très fin). Budgéter le produit + la logistique, et relancer : un envoi non scénarisé ne génère presque rien.",
+    "note_en": "20–40% of seeded creators post without payment (up to ~50% with sharp targeting). Budget product + logistics and follow up: an unscripted shipment yields almost nothing."
+  },
+  "production": {
+    "ugc_video_usd": [150, 1000],
+    "note_fr": "Vidéo UGC type : 150–300 $ (moyenne ~200 $ chez Billo), talents premium 300–500 $+. Majorer de 30–50 % pour les droits d'usage, ~30 %/mois pour le whitelisting/Spark Ads ; remises de 10–25 % sur les lots de 3 à 10 vidéos.",
+    "note_en": "Typical UGC video: $150–300 (Billo average ~$200), premium talent $300–500+. Add 30–50% for usage rights, ~30%/month for whitelisting/Spark Ads; 10–25% discounts on 3–10 video bundles."
+  },
+  "livestream_china": {
+    "commission_pct": [10, 40],
+    "slot_fee_note_fr": "Frais de slot (« pit fee », 坑位费) : ≈80 000–100 000 RMB (12 000–16 000 USD) pour un passage chez un top livestreamer, en plus d'une commission sur ventes de 10–20 % standard pouvant atteindre 30–40 % avec les méga-hôtes ; exiger des clauses de GMV minimum et de retours produits.",
+    "slot_fee_note_en": "Slot fee ('pit fee', 坑位费): ≈RMB 80,000–100,000 (USD 12,000–16,000) for a top livestreamer slot, on top of a 10–20% standard sales commission that can reach 30–40% with mega-hosts; demand minimum-GMV and product-return clauses."
+  },
+  "sources": [
+    {
+      "label": "Influencer Marketing Hub — Benchmark Report 2025/2026",
+      "url": "https://influencermarketinghub.com/influencer-marketing-benchmark-report/"
+    },
+    {
+      "label": "Shopify — Influencer Pricing: The Cost of Influencers (2025/2026)",
+      "url": "https://www.shopify.com/blog/influencer-pricing"
+    },
+    {
+      "label": "Meltwater — Influencer Marketing Costs & Rates per Channel",
+      "url": "https://www.meltwater.com/en/blog/influencer-marketing-costs-rates-pricing"
+    },
+    {
+      "label": "Statista — Global Influencer Market Size (2025)",
+      "url": "https://www.statista.com/statistics/1092819/global-influencer-market-size/"
+    },
+    {
+      "label": "Billo — UGC Rates: What Brands Actually Pay (2025)",
+      "url": "https://billo.app/blog/ugc-rates/"
+    },
+    {
+      "label": "Influencer Marketing Hub — Product Seeding Guide",
+      "url": "https://influencermarketinghub.com/product-seeding/"
+    },
+    {
+      "label": "Later — Influencer Gifting & Seeding for Brands",
+      "url": "https://later.com/blog/influencer-gifting-seeding-for-brands/"
+    },
+    {
+      "label": "Amazon Associates — Commission Income Statement (catégories maison/cuisine)",
+      "url": "https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ"
+    },
+    {
+      "label": "KrAsia — China's e-commerce merchants and livestreaming costs (pit fees, commissions)",
+      "url": "https://kr-asia.com/chinas-e-commerce-merchants-eschew-livestreaming-as-costs-eat-into-profits"
+    }
+  ]
+}
