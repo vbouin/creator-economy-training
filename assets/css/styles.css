@@ -698,3 +698,8 @@ html.locked body::after{content:"";position:fixed;inset:0;background:var(--night
 .pitch-grid tbody tr td:nth-child(2),.pitch-grid tbody tr td:nth-child(3){border-bottom:1px dashed var(--line-strong)}
 kbd{font-family:var(--mono);font-size:.85em;border:1px solid var(--line-strong);border-bottom-width:2px;border-radius:6px;padding:1px 7px;background:var(--white)}
 .night kbd{background:var(--night-3);border-color:#3a3a42}
+
+/* brand lockup — name replaces former SEB logo */
+.brand-sep{width:1px;height:20px;background:currentColor;opacity:.28;display:inline-block;margin:0 2px}
+.topbar:not(.solid) .brand .brand-tag{color:#fff}
+.topbar.solid .brand .brand-tag{color:var(--muted)}
