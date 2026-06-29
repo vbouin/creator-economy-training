@@ -11,7 +11,8 @@ import base64, re, pathlib
 ROOT = pathlib.Path(__file__).parent
 html = (ROOT / "index.html").read_text(encoding="utf-8")
 MIME = {"svg": "image/svg+xml", "png": "image/png", "jpg": "image/jpeg",
-        "jpeg": "image/jpeg", "webp": "image/webp", "gif": "image/gif"}
+        "jpeg": "image/jpeg", "webp": "image/webp", "gif": "image/gif", "mp4": "video/mp4"}
+HERO = "assets/video/hero.mp4"  # small (~0.9MB) → inlined so the hero keeps its motion
 
 def datauri(path):
     p = ROOT / path
@@ -22,6 +23,9 @@ def datauri(path):
         return None
     return f"data:{MIME[ext]};base64," + base64.b64encode(p.read_bytes()).decode()
 
+# 0) standalone CSP: allow inlined (base64) media so the hero video plays from data:
+html = html.replace("media-src 'self'", "media-src 'self' data:")
+
 # 1) gate off: remove head guard, force unlocked
 html = re.sub(r'<script>try\{if\(localStorage\.getItem\("ce-access"\).*?</script>\n?', "", html)
 html = html.replace('<meta charset="UTF-8">',
@@ -31,18 +35,22 @@ html = html.replace('<meta charset="UTF-8">',
 css = (ROOT / "assets/css/styles.css").read_text(encoding="utf-8")
 html = html.replace('<link rel="stylesheet" href="assets/css/styles.css">', "<style>\n" + css + "\n</style>")
 
-# 3) inline JS (order matters)
+# 3) inline JS (order matters); blank focus-video refs so no 404s in standalone
 for js in ["assets/js/data-bundle.js", "assets/js/i18n.js", "assets/js/dataviz.js", "assets/js/app.js"]:
     code = (ROOT / js).read_text(encoding="utf-8").replace("</script>", "<\\/script>")
+    if js.endswith("data-bundle.js"):  # focus.* videos can't resolve standalone -> blank them
+        code = re.sub(r'"(video2?)":"[^"]*\.mp4"', r'"\1":""', code)
     html = html.replace(f'<script src="{js}"></script>', "<script>\n" + code + "\n</script>")
 
-# 4) drop hero video (no poster — canvas/gradient shows behind)
-html = re.sub(r'<video class="hero-video".*?</video>', "", html, flags=re.S)
-
-# 5) other videos -> poster still (base64 poster, strip sources / mp4 src / onerror)
+# 4 + 5) videos: hero keeps motion (inlined base64); all others -> poster still
 def repl_video(m):
-    block = m.group(0)
-    open_tag = re.match(r"<video[^>]*>", block).group(0)
+    open_tag = re.match(r"<video[^>]*>", m.group(0)).group(0)
+    if "hero-video" in open_tag:
+        uri = datauri(HERO)
+        open_tag = re.sub(r'\ssrc="[^"]*"', "", open_tag)
+        if uri:
+            open_tag = open_tag[:-1] + f' src="{uri}">'
+        return open_tag + "</video>"
     pm = re.search(r'poster="(assets/img/[^"]+)"', open_tag)
     if pm:
         uri = datauri(pm.group(1))
