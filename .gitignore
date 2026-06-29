@@ -12,3 +12,6 @@ index.html.bak-v1
 
 # export packagé (lourd, régénérable)
 Exoflow-Creator-Economy-Training.zip
+
+# export single-file (généré, régénérable via build_export.py)
+Exoflow-Creator-economy-training.html
