@@ -76,8 +76,10 @@ html = re.sub(r"<video[^>]*>.*?</video>", repl_video, html, flags=re.S)
 html = re.sub(r'src="(assets/img/[^"]+)"', lambda m: f'src="{datauri(m.group(1)) or m.group(1)}"', html)
 html = re.sub(r'href="(assets/img/[^"]+)"', lambda m: f'href="{datauri(m.group(1)) or m.group(1)}"', html)
 
-# 6) neutralize cross-page tool links (no companion files in a standalone)
-html = re.sub(r'href="(data|roi|lexique|ateliers)\.html(#[^"]*)?"', 'href="#" data-tool-page="1"', html)
+# 6) cross-page tool links -> live hosted pages (the standalone is the playbook only)
+PAGES = "https://vbouin.github.io/creator-economy-training/"
+html = re.sub(r'href="(data|roi|lexique|ateliers)\.html(#[^"]*)?"',
+              lambda m: f'href="{PAGES}{m.group(1)}.html{m.group(2) or ""}" target="_blank" rel="noopener"', html)
 
 out = ROOT / "Exoflow-Creator-economy-training.html"
 out.write_text(html, encoding="utf-8")

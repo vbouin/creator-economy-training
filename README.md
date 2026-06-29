@@ -4,6 +4,10 @@ Site interactif bilingue (FR/EN) pour la formation des chefs de marque du Groupe
 
 DA Exoflow : Fraunces / Inter / Space Mono, sections éditoriales clair/sombre, rouge `#ff0033` + bleu `#195edd`.
 
+## 🌐 En ligne
+
+**https://vbouin.github.io/creator-economy-training/** — code d'accès : `exoflow`
+
 ## 🔐 Accès
 
 Le site est protégé par un **code d'accès** (porte client-side, empreinte SHA-256 — le code n'apparaît jamais en clair dans les sources). Déverrouillage mémorisé en localStorage ; lien direct possible via `?code=…`.
