@@ -703,3 +703,38 @@ kbd{font-family:var(--mono);font-size:.85em;border:1px solid var(--line-strong);
 .brand-sep{width:1px;height:20px;background:currentColor;opacity:.28;display:inline-block;margin:0 2px}
 .topbar:not(.solid) .brand .brand-tag{color:#fff}
 .topbar.solid .brand .brand-tag{color:var(--muted)}
+
+/* ===== boîte à outils IA ===== */
+.ai-tools{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+@media(max-width:980px){.ai-tools{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:640px){.ai-tools{grid-template-columns:1fr}}
+.ai-tool{background:var(--white);border:1px solid var(--line);border-radius:var(--r);padding:20px;display:flex;flex-direction:column}
+.night .ai-tool{background:var(--night-2);border-color:#34343c}
+.ai-tool-h{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:10px}
+.ai-tool-h h4{font-size:1.12rem}
+.ai-badge{font-family:var(--mono);font-size:.56rem;letter-spacing:.1em;text-transform:uppercase;padding:4px 8px;border-radius:30px;white-space:nowrap;border:1px solid var(--line-strong);color:var(--muted)}
+.ai-badge.gratis,.ai-badge.local{border-color:var(--green);color:var(--green)}
+.ai-badge.pay,.ai-badge.lic{border-color:var(--red);color:var(--red-ink)}
+.ai-badge.free,.ai-badge.ggl,.ai-badge.api{border-color:var(--blue);color:var(--blue)}
+.ai-use{font-family:var(--mono);font-size:.72rem;letter-spacing:.02em;color:var(--ink-2);margin-bottom:12px}
+.night .ai-use{color:#b7b7bf}
+.ai-pro,.ai-lim{font-size:.9rem;line-height:1.45;margin:0 0 8px;padding-left:18px;position:relative}
+.ai-pro::before{content:"✓";position:absolute;left:0;color:var(--green);font-weight:700}
+.ai-lim::before{content:"⚠";position:absolute;left:0}
+.ai-link{margin-top:auto;font-family:var(--mono);font-size:.74rem;color:var(--red-ink);text-decoration:none;padding-top:6px}
+.night .ai-link{color:#ff5d76}
+.ai-link:hover{text-decoration:underline}
+
+/* ===== FAQ ===== */
+.faq{display:flex;flex-direction:column;gap:0}
+.faq-item{border-bottom:1px solid var(--line)}
+.faq-item summary{cursor:pointer;list-style:none;padding:18px 36px 18px 0;position:relative;font-family:var(--serif);font-size:1.12rem;line-height:1.3;color:var(--ink)}
+.faq-item summary::-webkit-details-marker{display:none}
+.faq-item summary::after{content:"+";position:absolute;right:4px;top:16px;font-family:var(--mono);font-size:1.3rem;color:var(--red-ink);transition:transform .3s var(--ease)}
+.faq-item[open] summary::after{content:"–"}
+.faq-item summary:hover{color:var(--red-ink)}
+.faq-a{padding:0 0 20px;color:var(--ink-2);font-size:1rem;line-height:1.6}
+.faq-a a{color:var(--red-ink);text-underline-offset:3px}
+
+/* FAQ visible à l'impression (handout PDF) */
+@media print{.faq-a{display:block!important}.faq-item summary::after{display:none}.ai-tool{break-inside:avoid}}
