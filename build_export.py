@@ -78,7 +78,7 @@ html = re.sub(r'href="(assets/img/[^"]+)"', lambda m: f'href="{datauri(m.group(1
 
 # 6) cross-page tool links -> live hosted pages (the standalone is the playbook only)
 PAGES = "https://vbouin.github.io/creator-economy-training/"
-html = re.sub(r'href="(data|roi|lexique|ateliers)\.html(#[^"]*)?"',
+html = re.sub(r'href="(data|roi|lexique|ateliers|programme)\.html(#[^"]*)?"',
               lambda m: f'href="{PAGES}{m.group(1)}.html{m.group(2) or ""}" target="_blank" rel="noopener"', html)
 
 out = ROOT / "Exoflow-Creator-economy-training.html"
